@@ -1,0 +1,139 @@
+Project Name: United States Top 50 Playlist Performance and Song Popularity
+              Trend Analysis
+
+Project Details:-
+
+
+Technical Documentation
+
+United States Top 50 Playlist Performance and Song Popularity Trend Analysis
+Detailed guide and project requirements for the United States Top 50 Playlist 
+Performance and Song Popularity Trend Analysis analysis.
+
+Background and Context:
+
+Music consumption in the streaming era is highly dynamic, where:
+• Song popularity changes daily
+• Playlist rankings directly influence streams and revenue
+• Artist visibility depends on chart persistence, not just peak rank
+
+For record labels like Atlantic Recording Corporation, understanding
+playlist behavior over time is crucial for:
+• Artist promotion strategies
+• Release timing decisions
+• Marketing spend optimization
+• Catalog performance analysis
+
+This project focuses on historical playlist analytics, not prediction or 
+recommendation.
+
+Problem Statement
+Despite access to daily Top 50 playlist data, stakeholders often lack:
+
+• Clear insights into ranking stability vs volatility
+• Understanding of how long songs stay relevant
+• Visibility into artist dominance and repeat appearances
+• Clarity on how song attributes (duration, explicit content, album type) 
+  relate to popularity
+  
+Without structured analytics, playlist insights remain surface-level
+and anecdotal.
+
+Dataset Fields Description:
+
+Column	           Description
+date	         Date of playlist snapshot
+position	     Playlist rank (1–50)
+song	         Song title
+artist	         Artist(s)
+popularity	     Popularity score from Atlantic API
+duration_ms	     Song duration (milliseconds)
+album_type	     Single / Album
+total_tracks	 Number of tracks in album
+is_explicit	     Explicit content flag
+album_cover_url	 Album artwork URL
+  
+
+Analytical Methodology (Step-by-Step)
+
+Data Ingestion & Validation
+• Load daily playlist snapshots
+• Validate rank range (1–50)
+• Check missing or duplicate song-date entries
+• Standardize artist name formatting
+
+Feature Engineering
+Derived metrics:
+• Days on Chart (per song)
+• Average Rank
+• Best Rank Achieved
+• Rank Volatility Index (std deviation of rank)
+• Popularity Trend Score (rolling average)
+• Duration in minutes
+
+Playlist Ranking Analysis
+• Daily rank distribution
+• Rank movement patterns
+• Entry vs exit behavior
+• Identification of fast risers and slow decliners
+
+Song-Level Performance Analysis
+• Songs with longest playlist presence
+• Songs with highest average popularity
+• Peak-rank vs longevity comparison
+
+Artist Performance Analysis
+• Number of unique songs per artist
+• Total days artist appears on playlist
+• Artist dominance over time
+
+Popularity Score Analytics
+• Popularity vs rank correlation
+• Popularity distribution across Top 10, Top 20, Top 50
+• Popularity stability vs chart volatility
+
+Content Attribute Analysis
+• Explicit vs non-explicit song performance
+• Single vs album track comparison
+• Song duration impact on popularity and rank
+• Album size (total_tracks) vs song success 
+
+Key Performance Indicators (KPIs)
+KPI	                       Description
+Days on Chart	          Longevity indicator
+Average Rank	          Overall performance
+Rank Volatility Index	  Stability metric
+Popularity Score Trend	  Listener engagement
+Artist Dominance Index	  Market presence
+Explicit Content Share	  Content strategy insight 
+
+Streamlit Web Application Requirements
+Core Modules
+• Playlist timeline explorer
+• Song ranking trend charts
+• Artist dominance leaderboard
+• Popularity vs rank scatter plots
+• Explicit vs non-explicit performance panels
+
+User Capabilities
+• Date range selector
+• Artist & song filters
+• Rank range slider
+• Album type toggle
+
+Deliverables and Submission
+• Research paper (EDA, insights, recommendations)
+• Streamlit dashboard (live analytics)
+• Executive summary for government stakeholders
+
+
+You can also create the power bi dashboard according to your need with minimum 
+5 pages. 
+
+Conclusion:
+This project delivers deep, data-driven insights into US music chart 
+dynamics. By analyzing playlist rankings, popularity trends, artist 
+dominance, and content attributes, Atlantic Recording Corporation 
+gains a clear understanding of what drives sustained success in 
+streaming playlists, enabling smarter strategic decisions in a 
+competitive entertainment landscape.
