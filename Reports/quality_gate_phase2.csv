@@ -1,0 +1,21 @@
+﻿test,status,detail
+"555 dates x 50 rows = 27,750 rows",PASS,"27,750 rows"
+"(date, position) is unique",PASS,
+"(date, track_id) is unique: no song twice on one day",PASS,
+Every date holds all positions 1-50,PASS,
+snapshot_index runs 1..555 without holes,PASS,
+No missing values in the key columns,PASS,
+popularity_clean stays inside 0-100,PASS,
+Only the 'unfilled' rows have no clean popularity,PASS,18 empty values
+popularity_clean equals the original wherever the original was not zero,PASS,
+prev_position equals an independent recalculation,PASS,
+rank_change = prev_position - position,PASS,
+Every row has exactly one movement label,PASS,
+Entries equal exits on every day,PASS,
+"dim_track: one row per song, 944 songs",PASS,
+Sum of days_on_chart equals the number of daily rows,PASS,
+best_rank <= avg_rank <= worst_rank for every song,PASS,
+Rank Volatility Index is never negative,PASS,
+Every song has exactly one primary artist in the bridge,PASS,
+Artist Dominance Index (primary basis) adds up to 100%,PASS,99.999%
+"dim_date is continuous: 559 days, 555 with a snapshot",PASS,

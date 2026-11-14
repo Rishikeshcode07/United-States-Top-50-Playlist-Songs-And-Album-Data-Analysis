@@ -1,0 +1,26 @@
+﻿id,test,status,detail
+G01,"555 dates x 50 rows = 27,750 rows",PASS,"27,750 rows"
+G02,"(date, position) is unique",PASS,
+G03,"(date, track_id) is unique: no song twice on one day",PASS,
+G04,Every date holds all positions 1-50,PASS,
+G05,snapshot_index runs 1..555 without holes,PASS,
+G06,No missing values in the key columns,PASS,
+G07,popularity_clean stays inside 0-100,PASS,
+G08,Only the 'unfilled' rows have no clean popularity,PASS,18 empty values
+G09,popularity_clean equals the original wherever the original was not zero,PASS,
+G10,prev_position equals an independent recalculation,PASS,
+G11,rank_change = prev_position - position,PASS,
+G12,Every row has exactly one movement label,PASS,
+G13,Entries equal exits on every day,PASS,
+G14,"dim_track: one row per song, 944 songs",PASS,
+G15,Sum of days_on_chart equals the number of daily rows,PASS,
+G16,best_rank <= avg_rank <= worst_rank for every song,PASS,
+G17,Rank Volatility Index is never negative,PASS,
+G18,Every song has exactly one primary artist in the bridge,PASS,
+G19,Artist Dominance Index (primary basis) adds up to 100%,PASS,99.999%
+G20,"dim_date is continuous: 559 days, 555 with a snapshot",PASS,
+G21,Every fact row points to an existing song and an existing date,PASS,
+G22,Every bridge row points to an existing song and an existing artist; every artist has a song,PASS,
+G23,Every daily_summary date is a snapshot date of dim_date,PASS,
+G24,Every song's days_on_chart equals its number of fact rows,PASS,
+G25,Total chart points = number of dates x points per day,PASS,"707,625"

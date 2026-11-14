@@ -1,0 +1,5 @@
+﻿segment,artists,share_of_artists,songs_median,songs_total,chart_days_median,days_per_song_median,mean_place_median,top10_share_median,days_present_median,peak_songs_median,chart_days_total,share_of_chart_days,jaccard_mean,share_certain,heldout_recall,examples
+Passing visitors,93,0.38271604938271603,1.0,117,3.0,3.0,39.666666666666664,0.0,3.0,1.0,434,0.01563963963963964,0.9394677154197097,0.8494623655913979,0.989247311827957,One Direction; USHER; Cardi B; Tucker Wetmore
+Mid-chart stayers,86,0.35390946502057613,1.0,154,55.5,34.0,34.16610495907559,0.0,52.0,1.0,6830,0.24612612612612614,0.8798846727865035,0.7674418604651163,0.9709302325581396,SZA; Benson Boone; Teddy Swims; Frank Ocean
+Top-chart hit-makers,32,0.13168724279835392,1.0,63,97.0,56.25,17.98114035087719,0.42173252279635254,95.0,1.0,4042,0.14565765765765765,0.879987992123843,0.8125,0.96875,Doja Cat; Tate McRae; Gunna; Tommy Richman
+Catalogue artists,32,0.13168724279835392,14.0,610,339.5,22.802197802197803,24.356222491894734,0.1903114186851211,218.0,12.0,16444,0.5925765765765766,0.8746085558453662,0.84375,0.94375,Taylor Swift; Zach Bryan; Morgan Wallen; Sabrina Carpenter

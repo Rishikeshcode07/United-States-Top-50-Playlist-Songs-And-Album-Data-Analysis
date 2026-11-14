@@ -1,0 +1,11 @@
+﻿run,what_changes,songs_used,ari,same_group_share,ari_low,ari_high
+Another random start,k-means with another seed,832,0.9990799449348382,0.9987980769230769,,
+Without the 10 biggest artists,fit on the songs of all other artists,832,0.8016758617487351,0.8762019230769231,,
+Every artist capped at 8 songs,fit on at most 8 songs per artist (mean of 10 different caps),832,0.8895222681474525,0.9281250000000002,0.7474913456643897,0.9700424918097543
+Ward's method,hierarchical clustering instead of k-means,832,0.9014349590709149,0.9375,,
+Presence only,"1 on a chart day, 0 off it (place ignored)",832,0.3697373699861069,0.5697115384615384,,
+Logarithmic score,log(1 + chart score),832,0.6481539908973215,0.7668269230769231,,
+First month of 21 days,21 snapshot days instead of 30 (more songs qualify),832,0.9543711827100707,0.9591346153846154,,
+First month of 45 days,45 snapshot days instead of 30 (fewer songs qualify),821,0.7771824520769589,0.8647990255785627,,
+4 groups,k-means with 4 groups,832,0.7948098025140071,,,
+6 groups,k-means with 6 groups,832,0.6508573152584404,,,

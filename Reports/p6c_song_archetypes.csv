@@ -1,0 +1,833 @@
+﻿track_id,track_label,primary_artist,entry_date,entry_snapshot,entry_rank,archetype,agreement,firmness,artist_segment,days_on_chart_first_month,score_day_1,score_day_30,risk_third_arrival
+51,Princess Diana (with Nicki Minaj) by Ice Spice & Nicki Minaj,Ice Spice,2024-05-19,1,49,Brief visitors,1.0,firm,Mid-chart stayers,2,2.0,0.0,highest risk
+52,Favorite Song by Toosii,Toosii,2024-05-19,1,50,Brief visitors,1.0,firm,Passing visitors,2,1.0,0.0,highest risk
+53,WHERE SHE GOES by Bad Bunny,Bad Bunny,2024-05-21,3,1,Lasting hits,1.0,firm,Catalogue artists,30,50.0,37.0,lowest risk
+54,Mourning by Post Malone,Post Malone,2024-05-21,3,9,Quick fades,0.996,firm,Catalogue artists,7,42.0,0.0,lowest risk
+55,Say Yes To Heaven by Lana Del Rey,Lana Del Rey,2024-05-21,3,10,Brief visitors,0.932,firm,Mid-chart stayers,15,41.0,0.0,lowest risk
+56,Favorite Song (feat. Future) [Toxic Version] by Toosii & Future,Toosii,2024-05-21,3,40,Brief visitors,1.0,firm,Passing visitors,4,11.0,0.0,highest risk
+57,TQM by Fuerza Regida,Fuerza Regida,2024-05-22,4,33,Slow climbers,0.531,border,Mid-chart stayers,30,18.0,32.0,middle
+58,AMERICA HAS A PROBLEM (feat. Kendrick Lamar) by Beyoncé & Kendrick Lamar,Beyoncé,2024-05-22,4,40,Quick fades,0.993,firm,Catalogue artists,10,11.0,0.0,highest risk
+59,Karma (feat. Ice Spice) by Taylor Swift,Taylor Swift,2024-05-28,10,1,Quick fades,1.0,firm,Catalogue artists,6,50.0,0.0,lowest risk
+60,Hits Different by Taylor Swift,Taylor Swift,2024-05-28,10,2,Quick fades,0.94,firm,Catalogue artists,12,49.0,0.0,middle
+61,Snow On The Beach (feat. More Lana Del Rey) by Taylor Swift,Taylor Swift,2024-05-28,10,4,Brief visitors,0.947,firm,Catalogue artists,3,47.0,0.0,middle
+62,War Bout It (feat. 21 Savage) by Lil Durk,Lil Durk,2024-05-28,10,13,Brief visitors,0.983,firm,Top-chart hit-makers,3,38.0,0.0,highest risk
+63,Stand By Me (feat. Morgan Wallen) by Lil Durk,Lil Durk,2024-05-28,10,20,Lasting hits,0.803,likely,Top-chart hit-makers,29,31.0,4.0,highest risk
+64,Dance The Night (From Barbie The Album) by Dua Lipa,Dua Lipa,2024-05-28,10,31,Brief visitors,1.0,firm,Mid-chart stayers,8,20.0,0.0,highest risk
+65,Pelle Coat by Lil Durk,Lil Durk,2024-05-28,10,41,Brief visitors,1.0,firm,Top-chart hit-makers,1,10.0,0.0,highest risk
+66,Whiskey Glasses by Morgan Wallen,Morgan Wallen,2024-05-29,11,50,Brief visitors,1.0,firm,Catalogue artists,3,1.0,0.0,middle
+67,The Kind of Love We Make by Luke Combs,Luke Combs,2024-05-30,12,49,Brief visitors,1.0,firm,Catalogue artists,5,2.0,0.0,highest risk
+68,Bye by Peso Pluma,Peso Pluma,2024-06-02,15,36,Slow climbers,0.99,firm,Catalogue artists,30,15.0,15.0,middle
+69,"Peso Pluma: Bzrp Music Sessions, Vol. 55 by Bizarrap & Peso Pluma",Bizarrap,2024-06-03,16,11,Lasting hits,0.923,firm,Top-chart hit-makers,29,40.0,0.0,middle
+70,Popular (with Playboi Carti & Madonna) by The Weeknd & Playboi Carti & Madonna,The Weeknd,2024-06-04,17,3,Quick fades,1.0,firm,Catalogue artists,6,48.0,0.0,lowest risk
+71,"Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset) by Metro Boomin",Metro Boomin,2024-06-04,17,14,Month-long fades,0.912,firm,Catalogue artists,28,37.0,0.0,middle
+72,"Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie) by Metro Boomin",Metro Boomin,2024-06-04,17,18,Lasting hits,0.928,firm,Catalogue artists,28,33.0,0.0,highest risk
+73,"All The Way Live (Spider-Man: Across the Spider-Verse) (Metro Boomin & Future, Lil Uzi Vert) by Metro Boomin",Metro Boomin,2024-06-04,17,27,Brief visitors,1.0,firm,Catalogue artists,6,24.0,0.0,highest risk
+74,"Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee) by Metro Boomin",Metro Boomin,2024-06-04,17,31,Month-long fades,0.932,firm,Catalogue artists,28,20.0,0.0,highest risk
+75,Danger (Spider) (Offset & JID) by Metro Boomin,Metro Boomin,2024-06-04,17,49,Brief visitors,1.0,firm,Catalogue artists,1,2.0,0.0,highest risk
+76,Sunflower - Spider-Man: Into the Spider-Verse by Post Malone,Post Malone,2024-06-05,18,48,Slow climbers,0.991,firm,Catalogue artists,28,3.0,10.0,highest risk
+77,Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray) by Metro Boomin,Metro Boomin,2024-06-06,19,40,Month-long fades,0.98,firm,Catalogue artists,25,11.0,0.0,highest risk
+78,Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series) by The Weeknd & Playboi Carti & Madonna,The Weeknd,2024-06-10,23,23,Brief visitors,0.986,firm,Catalogue artists,3,28.0,0.0,middle
+79,Dial Drunk by Noah Kahan,Noah Kahan,2024-06-11,24,3,Month-long fades,0.985,firm,Catalogue artists,20,48.0,0.0,middle
+80,Take Two by BTS,BTS,2024-06-11,24,17,Brief visitors,1.0,firm,Passing visitors,1,34.0,0.0,lowest risk
+81,No Complaints by Noah Kahan,Noah Kahan,2024-06-11,24,24,Brief visitors,1.0,firm,Catalogue artists,1,27.0,0.0,highest risk
+82,Who Told You (feat. Drake) by J Hus & Drake,J Hus,2024-06-11,24,31,Brief visitors,1.0,firm,Passing visitors,1,20.0,0.0,middle
+83,Call Your Mom by Noah Kahan,Noah Kahan,2024-06-11,24,35,Brief visitors,1.0,firm,Catalogue artists,1,16.0,0.0,highest risk
+84,Paul Revere by Noah Kahan,Noah Kahan,2024-06-11,24,36,Brief visitors,1.0,firm,Catalogue artists,1,15.0,0.0,highest risk
+85,You’re Gonna Go Far by Noah Kahan,Noah Kahan,2024-06-11,24,39,Brief visitors,1.0,firm,Catalogue artists,1,12.0,0.0,highest risk
+86,"Your Needs, My Needs by Noah Kahan",Noah Kahan,2024-06-11,24,47,Brief visitors,1.0,firm,Catalogue artists,1,4.0,0.0,highest risk
+87,Attention by Doja Cat,Doja Cat,2024-06-18,31,3,Month-long fades,0.813,likely,Top-chart hit-makers,14,48.0,0.0,lowest risk
+88,back to the moon by Gunna,Gunna,2024-06-18,31,18,Brief visitors,1.0,firm,Top-chart hit-makers,2,33.0,0.0,middle
+89,back at it by Gunna,Gunna,2024-06-18,31,44,Brief visitors,1.0,firm,Top-chart hit-makers,1,7.0,0.0,highest risk
+90,fukumean by Gunna,Gunna,2024-06-19,32,40,Lasting hits,1.0,firm,Top-chart hit-makers,30,11.0,50.0,highest risk
+91,Oh U Went (feat. Drake) by Young Thug,Young Thug,2024-06-25,38,3,Quick fades,0.974,firm,Catalogue artists,8,48.0,0.0,lowest risk
+92,Parade on Cleveland (feat. Drake) by Young Thug,Young Thug,2024-06-25,38,4,Brief visitors,1.0,firm,Catalogue artists,1,47.0,0.0,lowest risk
+93,Barbie World (with Aqua) [From Barbie The Album] by Nicki Minaj & Ice Spice & Aqua,Nicki Minaj,2024-06-25,38,6,Lasting hits,0.923,firm,Catalogue artists,30,45.0,47.0,lowest risk
+94,LADY GAGA by Peso Pluma,Peso Pluma,2024-06-25,38,7,Month-long fades,0.618,likely,Catalogue artists,30,44.0,26.0,lowest risk
+95,LUNA by Peso Pluma,Peso Pluma,2024-06-25,38,8,Quick fades,0.9,firm,Catalogue artists,14,43.0,0.0,lowest risk
+96,SABOR FRESA by Fuerza Regida,Fuerza Regida,2024-06-25,38,10,Slow climbers,0.667,likely,Mid-chart stayers,30,41.0,24.0,lowest risk
+97,"Wit Da Racks (feat. 21 Savage, Travis Scott & Yak Gotti) by Young Thug",Young Thug,2024-06-25,38,13,Brief visitors,1.0,firm,Catalogue artists,1,38.0,0.0,middle
+98,VVS by Peso Pluma,Peso Pluma,2024-06-25,38,16,Brief visitors,0.966,firm,Catalogue artists,4,35.0,0.0,middle
+99,Cars Bring Me Out (feat. Future) by Young Thug,Young Thug,2024-06-25,38,17,Brief visitors,1.0,firm,Catalogue artists,1,34.0,0.0,middle
+100,Money On The Dresser by Young Thug,Young Thug,2024-06-25,38,23,Brief visitors,1.0,firm,Catalogue artists,1,28.0,0.0,middle
+101,Doomsday (with Juice WRLD & Cordae) by Lyrical Lemonade & Juice WRLD & Cordae,Lyrical Lemonade,2024-06-25,38,28,Brief visitors,1.0,firm,Passing visitors,7,23.0,0.0,middle
+102,Hellcat Kenny (feat. Lil Uzi Vert) by Young Thug,Young Thug,2024-06-25,38,31,Brief visitors,1.0,firm,Catalogue artists,1,20.0,0.0,highest risk
+103,Want Me Dead (feat. 21 Savage) by Young Thug,Young Thug,2024-06-25,38,33,Brief visitors,1.0,firm,Catalogue artists,1,18.0,0.0,highest risk
+104,Gucci Grocery Bag by Young Thug,Young Thug,2024-06-25,38,36,Brief visitors,1.0,firm,Catalogue artists,1,15.0,0.0,highest risk
+105,Uncle M by Young Thug,Young Thug,2024-06-25,38,38,Brief visitors,1.0,firm,Catalogue artists,1,13.0,0.0,highest risk
+106,ROSA PASTEL by Peso Pluma,Peso Pluma,2024-06-25,38,48,Brief visitors,1.0,firm,Catalogue artists,1,3.0,0.0,highest risk
+107,Abracadabra (feat. Travis Scott) by Young Thug,Young Thug,2024-06-25,38,49,Brief visitors,1.0,firm,Catalogue artists,1,2.0,0.0,highest risk
+108,Area Codes by Kaliii,Kaliii,2024-06-30,43,24,Brief visitors,0.977,firm,Passing visitors,10,27.0,0.0,lowest risk
+109,vampire by Olivia Rodrigo,Olivia Rodrigo,2024-07-02,45,1,Lasting hits,1.0,firm,Catalogue artists,30,50.0,37.0,lowest risk
+110,Flooded The Face by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,2,Month-long fades,0.991,firm,Catalogue artists,27,49.0,0.0,highest risk
+111,Suicide Doors by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,3,Quick fades,0.869,likely,Catalogue artists,3,48.0,0.0,highest risk
+112,Aye (feat. Travis Scott) by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,4,Quick fades,0.819,likely,Catalogue artists,3,47.0,0.0,highest risk
+113,Endless Fashion (feat. Nicki Minaj) by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,6,Quick fades,0.984,firm,Catalogue artists,7,45.0,0.0,highest risk
+114,Crush Em by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,7,Brief visitors,0.976,firm,Catalogue artists,3,44.0,0.0,highest risk
+115,x2 by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,8,Brief visitors,0.973,firm,Catalogue artists,3,43.0,0.0,highest risk
+116,I Gotta by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,9,Brief visitors,0.747,likely,Catalogue artists,3,42.0,0.0,highest risk
+117,Amped by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,10,Brief visitors,1.0,firm,Catalogue artists,2,41.0,0.0,highest risk
+118,Spin Again by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,13,Brief visitors,1.0,firm,Catalogue artists,2,38.0,0.0,highest risk
+119,Died and Came Back by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,14,Brief visitors,1.0,firm,Catalogue artists,1,37.0,0.0,highest risk
+120,Nakamura by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,16,Brief visitors,1.0,firm,Catalogue artists,2,35.0,0.0,highest risk
+121,"Mama, I’m Sorry by Lil Uzi Vert",Lil Uzi Vert,2024-07-02,45,18,Brief visitors,1.0,firm,Catalogue artists,2,33.0,0.0,highest risk
+122,Pluto to Mars by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,19,Brief visitors,0.977,firm,Catalogue artists,3,32.0,0.0,highest risk
+123,That Fiya by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,20,Brief visitors,1.0,firm,Catalogue artists,1,31.0,0.0,highest risk
+124,All Alone by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,22,Brief visitors,1.0,firm,Catalogue artists,1,29.0,0.0,highest risk
+125,Patience (feat. Don Toliver) by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,23,Brief visitors,1.0,firm,Catalogue artists,2,28.0,0.0,highest risk
+126,Werewolf (feat. Bring Me The Horizon) by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,24,Brief visitors,1.0,firm,Catalogue artists,3,27.0,0.0,highest risk
+127,CS by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,27,Brief visitors,1.0,firm,Catalogue artists,1,24.0,0.0,highest risk
+128,Fire Alarm by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,28,Brief visitors,1.0,firm,Catalogue artists,1,23.0,0.0,highest risk
+129,MOJABI GHOST by Tainy,Tainy,2024-07-02,45,30,Quick fades,0.998,firm,Passing visitors,8,21.0,0.0,middle
+130,Zoom (Bonus Track) by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,32,Brief visitors,1.0,firm,Catalogue artists,1,19.0,0.0,highest risk
+131,Days Come and Go by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,40,Brief visitors,1.0,firm,Catalogue artists,1,11.0,0.0,highest risk
+132,The End (feat. BABYMETAL) by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,43,Brief visitors,1.0,firm,Catalogue artists,1,8.0,0.0,highest risk
+133,Of Course (Bonus Track) by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,45,Brief visitors,1.0,firm,Catalogue artists,1,6.0,0.0,highest risk
+134,Rehab by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,48,Brief visitors,1.0,firm,Catalogue artists,1,3.0,0.0,highest risk
+135,TULUM by Peso Pluma,Peso Pluma,2024-07-03,46,47,Brief visitors,0.953,firm,Catalogue artists,21,4.0,0.0,middle
+136,Party In The U.S.A. by Miley Cyrus,Miley Cyrus,2024-07-05,48,4,Quick fades,0.869,likely,Mid-chart stayers,3,47.0,0.0,lowest risk
+137,Born in the U.S.A. by Bruce Springsteen,Bruce Springsteen,2024-07-05,48,8,Brief visitors,0.967,firm,Passing visitors,2,43.0,0.0,lowest risk
+138,Chicken Fried by Zac Brown Band,Zac Brown Band,2024-07-05,48,10,Brief visitors,0.966,firm,Passing visitors,3,41.0,0.0,lowest risk
+139,American Girl by Tom Petty and the Heartbreakers,Tom Petty and the Heartbreakers,2024-07-05,48,11,Brief visitors,0.973,firm,Passing visitors,2,40.0,0.0,lowest risk
+140,American Pie by Don McLean,Don McLean,2024-07-05,48,15,Brief visitors,0.978,firm,Passing visitors,2,36.0,0.0,lowest risk
+141,"Courtesy Of The Red, White And Blue (The Angry American) by Toby Keith",Toby Keith,2024-07-05,48,17,Brief visitors,0.98,firm,Catalogue artists,2,34.0,0.0,lowest risk
+142,Firework by Katy Perry,Katy Perry,2024-07-05,48,18,Brief visitors,0.981,firm,Passing visitors,2,33.0,0.0,lowest risk
+143,Sweet Home Alabama by Lynyrd Skynyrd,Lynyrd Skynyrd,2024-07-05,48,26,Brief visitors,1.0,firm,Passing visitors,2,25.0,0.0,lowest risk
+144,All Summer Long by Kid Rock,Kid Rock,2024-07-05,48,28,Brief visitors,1.0,firm,Passing visitors,2,23.0,0.0,lowest risk
+145,Fortunate Son by Creedence Clearwater Revival,Creedence Clearwater Revival,2024-07-05,48,30,Brief visitors,1.0,firm,Passing visitors,2,21.0,0.0,lowest risk
+146,Wagon Wheel by Darius Rucker,Darius Rucker,2024-07-05,48,41,Brief visitors,1.0,firm,Passing visitors,2,10.0,0.0,middle
+147,"Take Me Home, Country Roads by John Denver",John Denver,2024-07-05,48,42,Brief visitors,1.0,firm,Passing visitors,2,9.0,0.0,middle
+148,When It Rains It Pours by Luke Combs,Luke Combs,2024-07-05,48,43,Brief visitors,1.0,firm,Catalogue artists,2,8.0,0.0,middle
+149,American Kids by Kenny Chesney,Kenny Chesney,2024-07-05,48,44,Brief visitors,1.0,firm,Passing visitors,2,7.0,0.0,middle
+150,I Ain't Worried by OneRepublic,OneRepublic,2024-07-05,48,47,Brief visitors,1.0,firm,Passing visitors,3,4.0,0.0,middle
+151,Enchanted by Taylor Swift,Taylor Swift,2024-07-08,51,35,Brief visitors,1.0,firm,Catalogue artists,1,16.0,0.0,middle
+152,Mine (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,1,Quick fades,0.97,firm,Catalogue artists,8,50.0,0.0,middle
+153,Back To December (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,2,Quick fades,0.961,firm,Catalogue artists,11,49.0,0.0,middle
+154,Sparks Fly (Taylor’s Version) by Taylor Swift,Taylor Swift,2024-07-09,52,3,Quick fades,0.987,firm,Catalogue artists,7,48.0,0.0,middle
+155,I Can See You (Taylor’s Version) (From The Vault) by Taylor Swift,Taylor Swift,2024-07-09,52,4,Month-long fades,0.986,firm,Catalogue artists,23,47.0,6.0,middle
+156,Better Than Revenge (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,5,Quick fades,0.991,firm,Catalogue artists,7,46.0,0.0,middle
+157,Dear John (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,6,Quick fades,0.995,firm,Catalogue artists,7,45.0,0.0,highest risk
+158,Enchanted (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,7,Quick fades,0.96,firm,Catalogue artists,11,44.0,0.0,highest risk
+159,Speak Now (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,8,Quick fades,1.0,firm,Catalogue artists,7,43.0,0.0,highest risk
+160,Electric Touch (feat. Fall Out Boy) (Taylor’s Version) (From The Vault) by Taylor Swift,Taylor Swift,2024-07-09,52,9,Quick fades,0.996,firm,Catalogue artists,7,42.0,0.0,highest risk
+161,Mean (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,10,Quick fades,1.0,firm,Catalogue artists,6,41.0,0.0,highest risk
+162,Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault) by Taylor Swift,Taylor Swift,2024-07-09,52,11,Quick fades,0.984,firm,Catalogue artists,7,40.0,0.0,highest risk
+163,When Emma Falls in Love (Taylor’s Version) (From The Vault) by Taylor Swift,Taylor Swift,2024-07-09,52,12,Quick fades,0.996,firm,Catalogue artists,7,39.0,0.0,highest risk
+164,The Story Of Us (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,13,Quick fades,0.999,firm,Catalogue artists,6,38.0,0.0,highest risk
+165,Haunted (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,14,Quick fades,0.971,firm,Catalogue artists,5,37.0,0.0,highest risk
+166,Foolish One (Taylor’s Version) (From The Vault) by Taylor Swift,Taylor Swift,2024-07-09,52,15,Quick fades,0.99,firm,Catalogue artists,7,36.0,0.0,highest risk
+167,Timeless (Taylor’s Version) (From The Vault) by Taylor Swift,Taylor Swift,2024-07-09,52,16,Quick fades,1.0,firm,Catalogue artists,6,35.0,0.0,highest risk
+168,Never Grow Up (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,17,Brief visitors,0.924,firm,Catalogue artists,4,34.0,0.0,highest risk
+169,Last Kiss (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,18,Quick fades,0.781,likely,Catalogue artists,5,33.0,0.0,highest risk
+170,Long Live (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,20,Quick fades,0.94,firm,Catalogue artists,5,31.0,0.0,highest risk
+171,Innocent (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,21,Brief visitors,0.976,firm,Catalogue artists,4,30.0,0.0,highest risk
+172,Ours (Taylor’s Version) by Taylor Swift,Taylor Swift,2024-07-09,52,22,Brief visitors,0.974,firm,Catalogue artists,4,29.0,0.0,highest risk
+173,Superman (Taylor’s Version) by Taylor Swift,Taylor Swift,2024-07-09,52,23,Brief visitors,1.0,firm,Catalogue artists,3,28.0,0.0,highest risk
+174,Super Shy by NewJeans,NewJeans,2024-07-09,52,37,Slow climbers,0.606,likely,Mid-chart stayers,30,14.0,30.0,middle
+175,Seven (feat. Latto) (Explicit Ver.) by Jung Kook & Latto & BTS,Jung Kook,2024-07-16,59,1,Lasting hits,0.995,firm,Mid-chart stayers,30,50.0,34.0,middle
+176,"What Was I Made For? [From The Motion Picture ""Barbie""] by Billie Eilish",Billie Eilish,2024-07-16,59,11,Lasting hits,1.0,firm,Catalogue artists,30,40.0,43.0,lowest risk
+177,Overdrive by Post Malone,Post Malone,2024-07-16,59,16,Quick fades,0.998,firm,Catalogue artists,9,35.0,0.0,middle
+178,LALA by Myke Towers,Myke Towers,2024-07-16,59,38,Brief visitors,0.606,likely,Mid-chart stayers,27,13.0,11.0,middle
+179,Rush by Troye Sivan,Troye Sivan,2024-07-16,59,40,Brief visitors,1.0,firm,Mid-chart stayers,10,11.0,0.0,middle
+180,Style by Taylor Swift,Taylor Swift,2024-07-16,59,48,Brief visitors,0.996,firm,Catalogue artists,11,3.0,28.0,highest risk
+181,Religiously by Bailey Zimmerman,Bailey Zimmerman,2024-07-19,62,50,Brief visitors,0.524,border,Mid-chart stayers,22,1.0,26.0,middle
+182,Dial Drunk (with Post Malone) by Noah Kahan & Post Malone,Noah Kahan,2024-07-20,63,4,Month-long fades,0.893,likely,Catalogue artists,28,47.0,3.0,lowest risk
+183,From The Start by Laufey,Laufey,2024-07-20,63,50,Brief visitors,1.0,firm,Mid-chart stayers,14,1.0,0.0,lowest risk
+184,Try That In A Small Town by Jason Aldean,Jason Aldean,2024-07-22,65,6,Quick fades,0.972,firm,Top-chart hit-makers,7,45.0,0.0,lowest risk
+185,K-POP by Travis Scott & Bad Bunny & The Weeknd,Travis Scott,2024-07-23,66,2,Lasting hits,0.831,likely,Catalogue artists,30,49.0,14.0,lowest risk
+186,Cool With You by NewJeans,NewJeans,2024-07-23,66,26,Brief visitors,0.981,firm,Mid-chart stayers,4,25.0,0.0,highest risk
+187,ETA by NewJeans,NewJeans,2024-07-23,66,30,Brief visitors,1.0,firm,Mid-chart stayers,3,21.0,0.0,highest risk
+188,New Jeans by NewJeans,NewJeans,2024-07-23,66,31,Brief visitors,1.0,firm,Mid-chart stayers,3,20.0,0.0,middle
+189,Deli by Ice Spice,Ice Spice,2024-07-23,66,38,Quick fades,0.988,firm,Mid-chart stayers,29,13.0,16.0,highest risk
+190,Speed Drive (From Barbie The Album) by Charli xcx,Charli xcx,2024-07-25,68,44,Month-long fades,0.533,border,Catalogue artists,30,7.0,2.0,middle
+191,I’m Just Ken (From Barbie The Album) by Ryan Gosling,Ryan Gosling,2024-07-26,69,42,Brief visitors,1.0,firm,Passing visitors,8,9.0,0.0,middle
+192,MELTDOWN by Travis Scott,Travis Scott,2024-07-29,72,1,Quick fades,0.989,firm,Catalogue artists,3,50.0,0.0,middle
+193,HYAENA by Travis Scott,Travis Scott,2024-07-29,72,2,Quick fades,0.951,firm,Catalogue artists,9,49.0,0.0,middle
+194,FE!N by Travis Scott,Travis Scott,2024-07-29,72,3,Quick fades,0.984,firm,Catalogue artists,3,48.0,0.0,middle
+195,THANK GOD by Travis Scott,Travis Scott,2024-07-29,72,4,Quick fades,0.957,firm,Catalogue artists,9,47.0,0.0,middle
+196,MODERN JAM by Travis Scott,Travis Scott,2024-07-29,72,5,Quick fades,0.844,likely,Catalogue artists,3,46.0,0.0,middle
+197,MY EYES by Travis Scott,Travis Scott,2024-07-29,72,6,Month-long fades,0.991,firm,Catalogue artists,21,45.0,0.0,middle
+198,I KNOW ? by Travis Scott,Travis Scott,2024-07-29,72,7,Lasting hits,1.0,firm,Catalogue artists,30,44.0,17.0,middle
+199,DELRESTO (ECHOES) by Travis Scott,Travis Scott,2024-07-29,72,8,Quick fades,0.791,likely,Catalogue artists,3,43.0,0.0,middle
+200,SIRENS by Travis Scott,Travis Scott,2024-07-29,72,9,Quick fades,0.971,firm,Catalogue artists,9,42.0,0.0,middle
+201,TOPIA TWINS by Travis Scott,Travis Scott,2024-07-29,72,10,Quick fades,0.888,likely,Catalogue artists,3,41.0,0.0,middle
+202,GOD'S COUNTRY by Travis Scott,Travis Scott,2024-07-29,72,11,Quick fades,0.984,firm,Catalogue artists,8,40.0,0.0,middle
+203,CIRCUS MAXIMUS by Travis Scott,Travis Scott,2024-07-29,72,12,Brief visitors,0.841,likely,Catalogue artists,3,39.0,0.0,middle
+204,SKITZO by Travis Scott,Travis Scott,2024-07-29,72,14,Brief visitors,0.811,likely,Catalogue artists,3,37.0,0.0,highest risk
+205,TELEKINESIS by Travis Scott,Travis Scott,2024-07-29,72,15,Quick fades,0.771,likely,Catalogue artists,3,36.0,0.0,highest risk
+206,LOST FOREVER by Travis Scott,Travis Scott,2024-07-29,72,16,Brief visitors,0.966,firm,Catalogue artists,3,35.0,0.0,middle
+207,PARASAIL by Travis Scott,Travis Scott,2024-07-29,72,17,Brief visitors,0.974,firm,Catalogue artists,3,34.0,0.0,middle
+208,TIL FURTHER NOTICE by Travis Scott,Travis Scott,2024-07-29,72,18,Brief visitors,0.943,firm,Catalogue artists,3,33.0,0.0,highest risk
+209,LOOOVE by Travis Scott,Travis Scott,2024-07-29,72,19,Brief visitors,0.968,firm,Catalogue artists,3,32.0,0.0,highest risk
+210,Enough Is Enough by Post Malone,Post Malone,2024-07-29,72,28,Quick fades,0.708,likely,Catalogue artists,8,23.0,0.0,highest risk
+211,Something Real by Post Malone,Post Malone,2024-07-29,72,29,Brief visitors,1.0,firm,Catalogue artists,4,22.0,0.0,highest risk
+212,Don't Understand by Post Malone,Post Malone,2024-07-29,72,32,Brief visitors,1.0,firm,Catalogue artists,1,19.0,0.0,highest risk
+213,Novacandy by Post Malone,Post Malone,2024-07-29,72,36,Brief visitors,1.0,firm,Catalogue artists,1,15.0,0.0,highest risk
+214,Aquí Te Espero by Ivan Cornejo,Ivan Cornejo,2024-07-29,72,37,Brief visitors,1.0,firm,Passing visitors,1,14.0,0.0,highest risk
+215,Too Cool To Die by Post Malone,Post Malone,2024-07-29,72,38,Brief visitors,1.0,firm,Catalogue artists,1,13.0,0.0,highest risk
+216,In Your Love by Tyler Childers,Tyler Childers,2024-07-29,72,40,Brief visitors,1.0,firm,Passing visitors,7,11.0,0.0,middle
+217,Sign Me Up by Post Malone,Post Malone,2024-07-29,72,44,Brief visitors,1.0,firm,Catalogue artists,1,7.0,0.0,highest risk
+218,On The Radar Freestyle by Drake & Central Cee,Drake,2024-07-29,72,46,Brief visitors,1.0,firm,Catalogue artists,1,5.0,0.0,highest risk
+219,MELTDOWN (feat. Drake) by Travis Scott,Travis Scott,2024-08-01,75,1,Lasting hits,1.0,firm,Catalogue artists,30,50.0,35.0,lowest risk
+220,FE!N (feat. Playboi Carti) by Travis Scott,Travis Scott,2024-08-01,75,2,Lasting hits,0.833,likely,Catalogue artists,30,49.0,14.0,lowest risk
+221,TOPIA TWINS (feat. Rob49 & 21 Savage) by Travis Scott,Travis Scott,2024-08-01,75,7,Month-long fades,0.759,likely,Catalogue artists,18,44.0,0.0,middle
+222,TELEKINESIS (feat. SZA & Future) by Travis Scott,Travis Scott,2024-08-01,75,12,Lasting hits,0.757,likely,Catalogue artists,30,39.0,15.0,middle
+223,MODERN JAM (feat. Teezo Touchdown) by Travis Scott,Travis Scott,2024-08-01,75,15,Quick fades,1.0,firm,Catalogue artists,6,36.0,0.0,middle
+224,DELRESTO (ECHOES) (feat. Beyoncé) by Travis Scott,Travis Scott,2024-08-01,75,17,Quick fades,1.0,firm,Catalogue artists,5,34.0,0.0,highest risk
+225,SKITZO (feat. Young Thug) by Travis Scott,Travis Scott,2024-08-01,75,21,Quick fades,0.971,firm,Catalogue artists,5,30.0,0.0,highest risk
+226,TIL FURTHER NOTICE (feat. James Blake & 21 Savage) by Travis Scott,Travis Scott,2024-08-01,75,22,Quick fades,0.994,firm,Catalogue artists,6,29.0,0.0,highest risk
+227,CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee) by Travis Scott,Travis Scott,2024-08-01,75,23,Quick fades,0.78,likely,Catalogue artists,5,28.0,0.0,highest risk
+228,LOST FOREVER (feat. Westside Gunn) by Travis Scott,Travis Scott,2024-08-01,75,27,Brief visitors,0.988,firm,Catalogue artists,4,24.0,0.0,highest risk
+229,LOOOVE (feat. Kid Cudi) by Travis Scott,Travis Scott,2024-08-01,75,28,Brief visitors,0.98,firm,Catalogue artists,5,23.0,0.0,highest risk
+230,PARASAIL (feat. Yung Lean & Dave Chappelle) by Travis Scott,Travis Scott,2024-08-01,75,32,Brief visitors,1.0,firm,Catalogue artists,3,19.0,0.0,highest risk
+231,august by Taylor Swift,Taylor Swift,2024-08-03,77,9,Month-long fades,0.971,firm,Catalogue artists,29,42.0,14.0,lowest risk
+232,Paint The Town Red by Doja Cat,Doja Cat,2024-08-06,80,8,Lasting hits,1.0,firm,Top-chart hit-makers,30,43.0,50.0,lowest risk
+233,cardigan by Taylor Swift,Taylor Swift,2024-08-07,81,48,Brief visitors,1.0,firm,Catalogue artists,7,3.0,0.0,middle
+234,Blank Space by Taylor Swift,Taylor Swift,2024-08-10,84,50,Quick fades,0.997,firm,Catalogue artists,12,1.0,0.0,middle
+235,Don’t Blame Me by Taylor Swift,Taylor Swift,2024-08-11,85,45,Brief visitors,1.0,firm,Catalogue artists,2,6.0,0.0,middle
+236,New Romantics by Taylor Swift,Taylor Swift,2024-08-12,86,31,Brief visitors,1.0,firm,Catalogue artists,1,20.0,0.0,highest risk
+237,Shake It Off by Taylor Swift,Taylor Swift,2024-08-12,86,34,Brief visitors,1.0,firm,Catalogue artists,1,17.0,0.0,highest risk
+238,Out Of The Woods by Taylor Swift,Taylor Swift,2024-08-12,86,41,Brief visitors,1.0,firm,Catalogue artists,1,10.0,0.0,highest risk
+239,bad idea right? by Olivia Rodrigo,Olivia Rodrigo,2024-08-13,87,1,Lasting hits,1.0,firm,Catalogue artists,30,50.0,50.0,lowest risk
+240,MI EX TENÍA RAZÓN by KAROL G,KAROL G,2024-08-13,87,13,Quick fades,0.972,firm,Catalogue artists,15,38.0,0.0,middle
+241,QLONA by KAROL G,KAROL G,2024-08-13,87,21,Slow climbers,1.0,firm,Catalogue artists,27,30.0,27.0,highest risk
+242,S91 by KAROL G,KAROL G,2024-08-13,87,23,Brief visitors,1.0,firm,Catalogue artists,1,28.0,0.0,highest risk
+243,UNA NOCHE EN MEDELLÍN - REMIX by KAROL G,KAROL G,2024-08-13,87,40,Brief visitors,1.0,firm,Catalogue artists,1,11.0,0.0,highest risk
+244,Rich Men North of Richmond by Oliver Anthony Music,Oliver Anthony Music,2024-08-14,88,9,Lasting hits,1.0,firm,Top-chart hit-makers,30,42.0,30.0,lowest risk
+245,It's Getting Hot by NLE Choppa,NLE Choppa,2024-08-14,88,48,Brief visitors,1.0,firm,Mid-chart stayers,2,3.0,0.0,middle
+246,Call Your Friends by Rod Wave,Rod Wave,2024-08-19,93,33,Brief visitors,1.0,firm,Passing visitors,1,18.0,0.0,highest risk
+247,Pink + White by Frank Ocean,Frank Ocean,2024-08-24,98,49,Brief visitors,0.961,firm,Mid-chart stayers,24,2.0,15.0,lowest risk
+248,I Remember Everything (feat. Kacey Musgraves) by Zach Bryan,Zach Bryan,2024-08-26,100,1,Lasting hits,1.0,firm,Catalogue artists,30,50.0,49.0,middle
+249,Overtime by Zach Bryan,Zach Bryan,2024-08-26,100,2,Quick fades,0.97,firm,Catalogue artists,12,49.0,0.0,middle
+250,East Side of Sorrow by Zach Bryan,Zach Bryan,2024-08-26,100,3,Month-long fades,0.992,firm,Catalogue artists,22,48.0,0.0,middle
+251,Summertime's Close by Zach Bryan,Zach Bryan,2024-08-26,100,4,Quick fades,0.972,firm,Catalogue artists,12,47.0,0.0,middle
+252,Hey Driver (feat. The War and Treaty) by Zach Bryan,Zach Bryan,2024-08-26,100,5,Lasting hits,0.999,firm,Catalogue artists,30,46.0,23.0,middle
+253,Spotless (feat. The Lumineers) by Zach Bryan,Zach Bryan,2024-08-26,100,6,Month-long fades,0.989,firm,Catalogue artists,28,45.0,0.0,middle
+254,Fear and Friday's by Zach Bryan,Zach Bryan,2024-08-26,100,8,Month-long fades,0.724,likely,Catalogue artists,15,43.0,0.0,middle
+255,Fear and Friday's (Poem) by Zach Bryan,Zach Bryan,2024-08-26,100,9,Quick fades,0.817,likely,Catalogue artists,6,42.0,0.0,middle
+256,Ticking by Zach Bryan,Zach Bryan,2024-08-26,100,10,Quick fades,0.962,firm,Catalogue artists,13,41.0,0.0,highest risk
+257,Used To Be Young by Miley Cyrus,Miley Cyrus,2024-08-26,100,12,Month-long fades,0.836,likely,Mid-chart stayers,17,39.0,0.0,lowest risk
+258,Holy Roller (feat. Sierra Ferrell) by Zach Bryan,Zach Bryan,2024-08-26,100,13,Quick fades,0.991,firm,Catalogue artists,8,38.0,0.0,highest risk
+259,Tourniquet by Zach Bryan,Zach Bryan,2024-08-26,100,14,Month-long fades,0.968,firm,Catalogue artists,30,37.0,8.0,highest risk
+260,El Dorado by Zach Bryan,Zach Bryan,2024-08-26,100,15,Quick fades,1.0,firm,Catalogue artists,8,36.0,0.0,highest risk
+261,Jake's Piano - Long Island by Zach Bryan,Zach Bryan,2024-08-26,100,17,Quick fades,1.0,firm,Catalogue artists,8,34.0,0.0,highest risk
+262,Tradesman by Zach Bryan,Zach Bryan,2024-08-26,100,18,Quick fades,0.994,firm,Catalogue artists,8,33.0,0.0,highest risk
+263,Smaller Acts by Zach Bryan,Zach Bryan,2024-08-26,100,19,Quick fades,0.996,firm,Catalogue artists,11,32.0,0.0,highest risk
+264,Single Soon by Selena Gomez,Selena Gomez,2024-08-26,100,21,Quick fades,0.966,firm,Passing visitors,10,30.0,0.0,lowest risk
+265,Oklahoman Son by Zach Bryan,Zach Bryan,2024-08-26,100,22,Brief visitors,0.964,firm,Catalogue artists,6,29.0,0.0,highest risk
+266,Heading South by Zach Bryan,Zach Bryan,2024-08-26,100,47,Brief visitors,1.0,firm,Catalogue artists,21,4.0,0.0,highest risk
+267,Dance The Night - From Barbie The Album by Dua Lipa,Dua Lipa,2024-08-31,105,21,Slow climbers,0.382,border,Mid-chart stayers,30,30.0,15.0,lowest risk
+268,Dawns (feat. Maggie Rogers) by Zach Bryan & Maggie Rogers,Zach Bryan,2024-09-01,106,50,Brief visitors,1.0,firm,Catalogue artists,4,1.0,0.0,highest risk
+269,Margaritaville by Jimmy Buffett,Jimmy Buffett,2024-09-03,108,6,Quick fades,0.671,likely,Passing visitors,3,45.0,0.0,lowest risk
+270,It's Five O'Clock Somewhere by Alan Jackson,Alan Jackson,2024-09-03,108,12,Brief visitors,1.0,firm,Passing visitors,2,39.0,0.0,lowest risk
+271,Demons by Doja Cat,Doja Cat,2024-09-03,108,26,Brief visitors,0.847,likely,Top-chart hit-makers,8,25.0,0.0,lowest risk
+272,Cheeseburger In Paradise by Jimmy Buffett,Jimmy Buffett,2024-09-03,108,30,Brief visitors,1.0,firm,Passing visitors,2,21.0,0.0,middle
+273,Last Time I Saw You by Nicki Minaj,Nicki Minaj,2024-09-03,108,34,Brief visitors,1.0,firm,Catalogue artists,3,17.0,0.0,lowest risk
+274,Come Monday by Jimmy Buffett,Jimmy Buffett,2024-09-03,108,44,Brief visitors,1.0,firm,Passing visitors,1,7.0,0.0,highest risk
+275,Knee Deep (feat. Jimmy Buffett) by Zac Brown Band,Zac Brown Band,2024-09-03,108,45,Brief visitors,1.0,firm,Passing visitors,2,6.0,0.0,highest risk
+276,"Changes In Latitudes, Changes In Attitudes by Jimmy Buffett",Jimmy Buffett,2024-09-03,108,50,Brief visitors,1.0,firm,Passing visitors,1,1.0,0.0,highest risk
+277,Sun to Me by Zach Bryan,Zach Bryan,2024-09-05,110,49,Brief visitors,1.0,firm,Catalogue artists,4,2.0,0.0,middle
+278,get him back! by Olivia Rodrigo,Olivia Rodrigo,2024-09-10,115,3,Lasting hits,0.931,firm,Catalogue artists,30,48.0,9.0,lowest risk
+279,all-american bitch by Olivia Rodrigo,Olivia Rodrigo,2024-09-10,115,4,Month-long fades,0.959,firm,Catalogue artists,27,47.0,0.0,lowest risk
+280,the grudge by Olivia Rodrigo,Olivia Rodrigo,2024-09-10,115,6,Month-long fades,0.991,firm,Catalogue artists,22,45.0,0.0,lowest risk
+281,making the bed by Olivia Rodrigo,Olivia Rodrigo,2024-09-10,115,7,Month-long fades,0.869,likely,Catalogue artists,14,44.0,0.0,lowest risk
+282,logical by Olivia Rodrigo,Olivia Rodrigo,2024-09-10,115,9,Month-long fades,0.819,likely,Catalogue artists,14,42.0,0.0,lowest risk
+283,ballad of a homeschooled girl by Olivia Rodrigo,Olivia Rodrigo,2024-09-10,115,10,Month-long fades,0.83,likely,Catalogue artists,14,41.0,0.0,lowest risk
+284,lacy by Olivia Rodrigo,Olivia Rodrigo,2024-09-10,115,11,Month-long fades,0.924,firm,Catalogue artists,18,40.0,0.0,lowest risk
+285,love is embarrassing by Olivia Rodrigo,Olivia Rodrigo,2024-09-10,115,12,Month-long fades,0.813,likely,Catalogue artists,14,39.0,0.0,lowest risk
+286,pretty isn’t pretty by Olivia Rodrigo,Olivia Rodrigo,2024-09-10,115,14,Quick fades,0.96,firm,Catalogue artists,14,37.0,0.0,lowest risk
+287,teenage dream by Olivia Rodrigo,Olivia Rodrigo,2024-09-10,115,17,Quick fades,0.991,firm,Catalogue artists,9,34.0,0.0,middle
+288,Bongos (feat. Megan Thee Stallion) by Cardi B & Megan Thee Stallion,Cardi B,2024-09-10,115,26,Quick fades,0.67,likely,Passing visitors,9,25.0,0.0,lowest risk
+289,Sweater Weather by The Neighbourhood,The Neighbourhood,2024-09-12,117,49,Brief visitors,0.967,firm,Mid-chart stayers,26,2.0,4.0,lowest risk
+290,Slime You Out (feat. SZA) by Drake & SZA,Drake,2024-09-17,122,1,Lasting hits,1.0,firm,Catalogue artists,30,50.0,28.0,lowest risk
+291,greedy by Tate McRae,Tate McRae,2024-09-17,122,15,Lasting hits,1.0,firm,Top-chart hit-makers,30,36.0,38.0,lowest risk
+292,Snooze (Acoustic) (feat. Justin Bieber) by SZA & Justin Bieber,SZA,2024-09-17,122,36,Brief visitors,1.0,firm,Mid-chart stayers,1,15.0,0.0,highest risk
+293,Turks & Caicos (feat. 21 Savage) by Rod Wave,Rod Wave,2024-09-17,122,43,Brief visitors,1.0,firm,Passing visitors,1,8.0,0.0,middle
+294,Strangers by Kenya Grace,Kenya Grace,2024-09-18,123,41,Slow climbers,0.993,firm,Mid-chart stayers,30,10.0,28.0,lowest risk
+295,Shut up My Moms Calling by Hotel Ugly,Hotel Ugly,2024-09-18,123,48,Brief visitors,1.0,firm,Mid-chart stayers,19,3.0,0.0,lowest risk
+296,Clouded by Brent Faiyaz,Brent Faiyaz,2024-09-19,124,50,Brief visitors,1.0,firm,Mid-chart stayers,16,1.0,0.0,lowest risk
+297,My Love Mine All Mine by Mitski,Mitski,2024-09-20,125,50,Slow climbers,0.803,likely,Top-chart hit-makers,29,1.0,48.0,middle
+298,"September by Earth, Wind & Fire & sped up + slowed","Earth, Wind & Fire",2024-09-23,128,12,Brief visitors,1.0,firm,Passing visitors,1,39.0,0.0,lowest risk
+299,Sarah's Place (feat. Noah Kahan) by Zach Bryan & Noah Kahan,Zach Bryan,2024-09-24,129,4,Quick fades,0.949,firm,Catalogue artists,13,47.0,0.0,lowest risk
+300,Agora Hills by Doja Cat,Doja Cat,2024-09-24,129,10,Lasting hits,0.736,likely,Top-chart hit-makers,30,41.0,40.0,lowest risk
+301,Boys Of Faith (feat. Bon Iver) by Zach Bryan & Bon Iver,Zach Bryan,2024-09-24,129,13,Quick fades,0.998,firm,Catalogue artists,8,38.0,0.0,middle
+302,500lbs by Lil Tecca,Lil Tecca,2024-09-24,129,17,Slow climbers,0.993,firm,Mid-chart stayers,28,34.0,32.0,middle
+303,Deep Satin by Zach Bryan,Zach Bryan,2024-09-24,129,22,Brief visitors,0.98,firm,Catalogue artists,4,29.0,0.0,middle
+304,Nine Ball by Zach Bryan,Zach Bryan,2024-09-24,129,36,Brief visitors,1.0,firm,Catalogue artists,3,15.0,0.0,highest risk
+305,HVN ON EARTH (with Kodak Black) by Lil Tecca,Lil Tecca,2024-09-24,129,41,Brief visitors,1.0,firm,Mid-chart stayers,1,10.0,0.0,highest risk
+306,Dead or Alive by Lil Tecca,Lil Tecca,2024-09-24,129,47,Brief visitors,1.0,firm,Mid-chart stayers,1,4.0,0.0,highest risk
+307,UN PREVIEW by Bad Bunny,Bad Bunny,2024-09-27,132,3,Quick fades,0.899,likely,Catalogue artists,17,48.0,0.0,lowest risk
+308,Stick Season by Noah Kahan,Noah Kahan,2024-09-27,132,47,Slow climbers,0.998,firm,Catalogue artists,28,4.0,41.0,highest risk
+309,3D (feat. Jack Harlow) by Jung Kook & Jack Harlow,Jung Kook,2024-09-30,135,9,Quick fades,0.967,firm,Mid-chart stayers,12,42.0,0.0,lowest risk
+310,Mamaw's House by Thomas Rhett,Thomas Rhett,2024-09-30,135,13,Brief visitors,0.974,firm,Passing visitors,2,38.0,0.0,lowest risk
+311,Dreams - 2004 Remaster by Fleetwood Mac,Fleetwood Mac,2024-10-02,137,44,Brief visitors,1.0,firm,Passing visitors,12,7.0,0.0,middle
+312,Dark Red by Steve Lacy,Steve Lacy,2024-10-02,137,46,Brief visitors,1.0,firm,Mid-chart stayers,13,5.0,0.0,lowest risk
+313,we fell in love in october by girl in red,girl in red,2024-10-04,139,48,Brief visitors,1.0,firm,Passing visitors,4,3.0,0.0,middle
+314,Lovers Rock by TV Girl,TV Girl,2024-10-04,139,50,Brief visitors,1.0,firm,Mid-chart stayers,5,1.0,0.0,middle
+315,First Person Shooter (feat. J. Cole) by Drake,Drake,2024-10-07,142,1,Lasting hits,0.999,firm,Catalogue artists,30,50.0,35.0,lowest risk
+316,Virginia Beach by Drake,Drake,2024-10-07,142,2,Month-long fades,0.985,firm,Catalogue artists,22,49.0,0.0,lowest risk
+317,IDGAF (feat. Yeat) by Drake,Drake,2024-10-07,142,3,Lasting hits,1.0,firm,Catalogue artists,30,48.0,45.0,lowest risk
+318,Calling For You (feat. 21 Savage) by Drake,Drake,2024-10-07,142,4,Quick fades,0.97,firm,Catalogue artists,7,47.0,0.0,middle
+319,Fear Of Heights by Drake,Drake,2024-10-07,142,5,Quick fades,0.972,firm,Catalogue artists,7,46.0,0.0,lowest risk
+320,Daylight by Drake,Drake,2024-10-07,142,6,Quick fades,0.97,firm,Catalogue artists,7,45.0,0.0,middle
+321,Amen (feat. Teezo Touchdown) by Drake,Drake,2024-10-07,142,7,Quick fades,0.99,firm,Catalogue artists,7,44.0,0.0,middle
+322,7969 Santa by Drake,Drake,2024-10-07,142,9,Quick fades,0.984,firm,Catalogue artists,7,42.0,0.0,middle
+323,Bahamas Promises by Drake,Drake,2024-10-07,142,10,Quick fades,0.991,firm,Catalogue artists,7,41.0,0.0,middle
+324,Gently (feat. Bad Bunny) by Drake,Drake,2024-10-07,142,11,Month-long fades,0.742,likely,Catalogue artists,15,40.0,0.0,middle
+325,Tried Our Best by Drake,Drake,2024-10-07,142,12,Quick fades,0.994,firm,Catalogue artists,7,39.0,0.0,middle
+326,8am in Charlotte by Drake,Drake,2024-10-07,142,13,Quick fades,0.974,firm,Catalogue artists,7,38.0,0.0,middle
+327,Rich Baby Daddy (feat. Sexyy Red & SZA) by Drake,Drake,2024-10-07,142,14,Month-long fades,0.917,firm,Catalogue artists,30,37.0,16.0,middle
+328,What Would Pluto Do by Drake,Drake,2024-10-07,142,15,Quick fades,0.989,firm,Catalogue artists,7,36.0,0.0,middle
+329,Drew A Picasso by Drake,Drake,2024-10-07,142,16,Quick fades,0.999,firm,Catalogue artists,7,35.0,0.0,middle
+330,All The Parties (feat. Chief Keef) by Drake,Drake,2024-10-07,142,17,Quick fades,1.0,firm,Catalogue artists,7,34.0,0.0,middle
+331,Members Only (feat. PARTYNEXTDOOR) by Drake,Drake,2024-10-07,142,18,Quick fades,1.0,firm,Catalogue artists,7,33.0,0.0,highest risk
+332,Another Late Night (feat. Lil Yachty) by Drake,Drake,2024-10-07,142,19,Quick fades,0.999,firm,Catalogue artists,7,32.0,0.0,middle
+333,Screw The World - Interlude by Drake,Drake,2024-10-07,142,21,Brief visitors,1.0,firm,Catalogue artists,2,30.0,0.0,middle
+334,Away From Home by Drake,Drake,2024-10-07,142,23,Quick fades,0.85,likely,Catalogue artists,6,28.0,0.0,highest risk
+335,BBL Love - Interlude by Drake,Drake,2024-10-07,142,24,Brief visitors,0.994,firm,Catalogue artists,5,27.0,0.0,highest risk
+336,Polar Opposites by Drake,Drake,2024-10-07,142,26,Brief visitors,0.988,firm,Catalogue artists,5,25.0,0.0,highest risk
+337,She Calls Me Back (with Kacey Musgraves) by Noah Kahan & Kacey Musgraves,Noah Kahan,2024-10-07,142,46,Brief visitors,1.0,firm,Catalogue artists,1,5.0,0.0,highest risk
+338,MONACO by Bad Bunny,Bad Bunny,2024-10-14,149,1,Lasting hits,1.0,firm,Catalogue artists,30,50.0,39.0,lowest risk
+339,FINA by Bad Bunny,Bad Bunny,2024-10-14,149,2,Month-long fades,0.851,likely,Catalogue artists,15,49.0,0.0,lowest risk
+340,NADIE SABE by Bad Bunny,Bad Bunny,2024-10-14,149,3,Quick fades,0.987,firm,Catalogue artists,5,48.0,0.0,lowest risk
+341,HIBIKI by Bad Bunny,Bad Bunny,2024-10-14,149,5,Quick fades,0.998,firm,Catalogue artists,7,46.0,0.0,lowest risk
+342,MR. OCTOBER by Bad Bunny,Bad Bunny,2024-10-14,149,6,Quick fades,1.0,firm,Catalogue artists,7,45.0,0.0,lowest risk
+343,CYBERTRUCK by Bad Bunny,Bad Bunny,2024-10-14,149,7,Quick fades,0.998,firm,Catalogue artists,5,44.0,0.0,lowest risk
+344,SEDA by Bad Bunny,Bad Bunny,2024-10-14,149,8,Quick fades,0.842,likely,Catalogue artists,5,43.0,0.0,lowest risk
+345,TELEFONO NUEVO by Bad Bunny,Bad Bunny,2024-10-14,149,10,Quick fades,0.977,firm,Catalogue artists,5,41.0,0.0,lowest risk
+346,VOU 787 by Bad Bunny,Bad Bunny,2024-10-14,149,11,Brief visitors,0.971,firm,Catalogue artists,3,40.0,0.0,lowest risk
+347,GRACIAS POR NADA by Bad Bunny,Bad Bunny,2024-10-14,149,12,Brief visitors,0.971,firm,Catalogue artists,3,39.0,0.0,lowest risk
+348,BABY NUEVA by Bad Bunny,Bad Bunny,2024-10-14,149,13,Quick fades,0.997,firm,Catalogue artists,6,38.0,0.0,lowest risk
+349,PERRO NEGRO by Bad Bunny,Bad Bunny,2024-10-14,149,14,Month-long fades,0.901,firm,Catalogue artists,30,37.0,19.0,lowest risk
+350,MERCEDES CAROTA by Bad Bunny,Bad Bunny,2024-10-14,149,17,Brief visitors,0.98,firm,Catalogue artists,2,34.0,0.0,lowest risk
+351,LOS PITS by Bad Bunny,Bad Bunny,2024-10-14,149,19,Brief visitors,0.982,firm,Catalogue artists,2,32.0,0.0,middle
+352,VUELVE CANDY B by Bad Bunny,Bad Bunny,2024-10-14,149,22,Brief visitors,0.993,firm,Catalogue artists,2,29.0,0.0,middle
+353,NO ME QUIERO CASAR by Bad Bunny,Bad Bunny,2024-10-14,149,25,Brief visitors,1.0,firm,Catalogue artists,2,26.0,0.0,middle
+354,BATICANO by Bad Bunny,Bad Bunny,2024-10-14,149,27,Brief visitors,1.0,firm,Catalogue artists,2,24.0,0.0,middle
+355,ACHO PR by Bad Bunny,Bad Bunny,2024-10-14,149,28,Brief visitors,1.0,firm,Catalogue artists,2,23.0,0.0,middle
+356,SAY MY GRACE (feat. Travis Scott) by Offset,Offset,2024-10-14,149,29,Quick fades,0.848,likely,Passing visitors,6,22.0,0.0,lowest risk
+357,THUNDER Y LIGHTNING by Bad Bunny,Bad Bunny,2024-10-14,149,30,Brief visitors,1.0,firm,Catalogue artists,2,21.0,0.0,middle
+358,Jennifer’s Body by Ken Carson,Ken Carson,2024-10-14,149,47,Brief visitors,1.0,firm,Passing visitors,2,4.0,0.0,highest risk
+359,Water by Tyla,Tyla,2024-10-19,154,33,Slow climbers,0.991,firm,Mid-chart stayers,29,18.0,22.0,lowest risk
+360,One Of Your Girls by Troye Sivan,Troye Sivan,2024-10-19,154,45,Quick fades,0.99,firm,Mid-chart stayers,10,6.0,0.0,middle
+361,Cruel Summer - Live from TS | The Eras Tour by Taylor Swift,Taylor Swift,2024-10-20,155,10,Brief visitors,1.0,firm,Catalogue artists,2,41.0,0.0,highest risk
+362,A Night To Remember by beabadoobee & Laufey,beabadoobee,2024-10-21,156,32,Brief visitors,1.0,firm,Passing visitors,1,19.0,0.0,highest risk
+363,TOO MUCH by The Kid LAROI & Jung Kook & Central Cee,The Kid LAROI,2024-10-21,156,33,Brief visitors,1.0,firm,Mid-chart stayers,1,18.0,0.0,highest risk
+364,ANTHEM PART 3 by blink-182,blink-182,2024-10-21,156,40,Brief visitors,1.0,firm,Passing visitors,1,11.0,0.0,highest risk
+365,Que Onda by Calle 24 & Chino Pacas & Fuerza Regida,Calle 24,2024-10-22,157,44,Brief visitors,1.0,firm,Mid-chart stayers,20,7.0,6.0,middle
+366,Lover by Taylor Swift,Taylor Swift,2024-10-22,157,50,Brief visitors,1.0,firm,Catalogue artists,1,1.0,0.0,highest risk
+367,Is It Over Now? (Taylor's Version) (From The Vault) by Taylor Swift,Taylor Swift,2024-10-29,164,1,Lasting hits,1.0,firm,Catalogue artists,30,50.0,34.0,middle
+368,Now That We Don't Talk (Taylor's Version) (From The Vault) by Taylor Swift,Taylor Swift,2024-10-29,164,2,Lasting hits,0.983,firm,Catalogue artists,30,49.0,5.0,middle
+369,"""Slut!"" (Taylor's Version) (From The Vault) by Taylor Swift",Taylor Swift,2024-10-29,164,3,Month-long fades,0.955,firm,Catalogue artists,26,48.0,0.0,middle
+370,Say Don't Go (Taylor's Version) (From The Vault) by Taylor Swift,Taylor Swift,2024-10-29,164,4,Month-long fades,0.989,firm,Catalogue artists,23,47.0,0.0,middle
+371,Style (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,5,Month-long fades,0.812,likely,Catalogue artists,18,46.0,0.0,middle
+372,Suburban Legends (Taylor's Version) (From The Vault) by Taylor Swift,Taylor Swift,2024-10-29,164,6,Month-long fades,0.835,likely,Catalogue artists,14,45.0,0.0,middle
+373,Blank Space (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,7,Quick fades,0.96,firm,Catalogue artists,11,44.0,0.0,highest risk
+374,Out Of The Woods (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,8,Quick fades,0.96,firm,Catalogue artists,11,43.0,0.0,highest risk
+375,Welcome To New York (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,9,Quick fades,0.972,firm,Catalogue artists,10,42.0,0.0,highest risk
+376,Wildest Dreams (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,10,Quick fades,0.955,firm,Catalogue artists,15,41.0,0.0,highest risk
+377,All You Had To Do Was Stay (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,11,Quick fades,0.995,firm,Catalogue artists,9,40.0,0.0,highest risk
+378,New Romantics (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,12,Quick fades,0.996,firm,Catalogue artists,9,39.0,0.0,highest risk
+379,I Wish You Would (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,13,Quick fades,0.998,firm,Catalogue artists,8,38.0,0.0,highest risk
+380,Clean (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,14,Quick fades,1.0,firm,Catalogue artists,8,37.0,0.0,highest risk
+381,Shake It Off (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,15,Quick fades,0.782,likely,Catalogue artists,6,36.0,0.0,highest risk
+382,How You Get The Girl (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,16,Brief visitors,0.634,likely,Catalogue artists,6,35.0,0.0,highest risk
+383,Bad Blood (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,17,Brief visitors,0.967,firm,Catalogue artists,4,34.0,0.0,highest risk
+384,I Know Places (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,18,Quick fades,0.844,likely,Catalogue artists,6,33.0,0.0,highest risk
+385,Wonderland (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,19,Quick fades,0.848,likely,Catalogue artists,6,32.0,0.0,highest risk
+386,This Love (Taylor’s Version) by Taylor Swift,Taylor Swift,2024-10-29,164,21,Brief visitors,0.964,firm,Catalogue artists,6,30.0,0.0,highest risk
+387,You Are In Love (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,22,Quick fades,0.781,likely,Catalogue artists,6,29.0,0.0,highest risk
+388,Bad Blood (feat. Kendrick Lamar) (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,27,Brief visitors,0.995,firm,Catalogue artists,3,24.0,0.0,highest risk
+389,"Monster Mash by Bobby ""Boris"" Pickett & The Crypt-Kickers","Bobby ""Boris"" Pickett & The Crypt-Kickers",2024-10-29,164,44,Brief visitors,0.994,firm,Passing visitors,4,7.0,0.0,middle
+390,This Is Halloween by Various Artists,Various Artists,2024-10-29,164,47,Brief visitors,1.0,firm,Passing visitors,4,4.0,0.0,highest risk
+391,Thriller by Michael Jackson,Michael Jackson,2024-10-30,165,49,Brief visitors,1.0,firm,Passing visitors,3,2.0,0.0,lowest risk
+392,Somebody's Watching Me - Single Version by Rockwell,Rockwell,2024-11-01,167,9,Brief visitors,1.0,firm,Top-chart hit-makers,1,42.0,0.0,lowest risk
+393,Ghostbusters by Various Artists,Various Artists,2024-11-01,167,13,Brief visitors,1.0,firm,Passing visitors,1,38.0,0.0,lowest risk
+394,"Spooky, Scary Skeletons - Undead Tombstone Remix by Andrew Gold",Andrew Gold,2024-11-01,167,24,Brief visitors,1.0,firm,Passing visitors,1,27.0,0.0,lowest risk
+395,Ghostbusters by Ray Parker Jr.,Ray Parker Jr.,2024-11-01,167,26,Brief visitors,1.0,firm,Passing visitors,1,25.0,0.0,lowest risk
+396,Five Nights at Freddy's by The Living Tombstone,The Living Tombstone,2024-11-01,167,43,Brief visitors,1.0,firm,Passing visitors,1,8.0,0.0,middle
+397,Blinding Lights by The Weeknd,The Weeknd,2024-11-01,167,46,Brief visitors,1.0,firm,Catalogue artists,1,5.0,0.0,middle
+398,All I Want for Christmas Is You by Mariah Carey,Mariah Carey,2024-11-02,168,31,Slow climbers,0.939,firm,Top-chart hit-makers,30,20.0,46.0,lowest risk
+399,White Christmas - 1947 Version by Bing Crosby & Fred Astaire,Bing Crosby,2024-11-02,168,42,Slow climbers,0.993,firm,Mid-chart stayers,30,9.0,17.0,middle
+400,Standing Next to You by Jung Kook,Jung Kook,2024-11-04,170,17,Month-long fades,0.54,border,Mid-chart stayers,14,34.0,0.0,lowest risk
+401,Can’t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes by Olivia Rodrigo & Rachel Zegler & Flatland Cavalry,Olivia Rodrigo,2024-11-04,170,23,Slow climbers,0.992,firm,Catalogue artists,23,28.0,0.0,lowest risk
+402,Now And Then by The Beatles,The Beatles,2024-11-04,170,24,Brief visitors,0.982,firm,Passing visitors,4,27.0,0.0,lowest risk
+403,HARLEY QUINN by Fuerza Regida,Fuerza Regida,2024-11-04,170,42,Slow climbers,0.782,likely,Mid-chart stayers,29,9.0,0.0,middle
+404,Cobra by Megan Thee Stallion,Megan Thee Stallion,2024-11-04,170,45,Brief visitors,1.0,firm,Mid-chart stayers,3,6.0,0.0,highest risk
+405,Northern Attitude (with Hozier) by Noah Kahan & Hozier,Noah Kahan,2024-11-11,177,2,Quick fades,0.99,firm,Catalogue artists,8,49.0,0.0,lowest risk
+406,Lovin On Me by Jack Harlow,Jack Harlow,2024-11-11,177,4,Lasting hits,1.0,firm,Top-chart hit-makers,30,47.0,49.0,lowest risk
+407,Houdini by Dua Lipa,Dua Lipa,2024-11-11,177,8,Quick fades,0.971,firm,Mid-chart stayers,13,43.0,0.0,lowest risk
+408,White Horse by Chris Stapleton,Chris Stapleton,2024-11-11,177,36,Brief visitors,1.0,firm,Passing visitors,2,15.0,0.0,highest risk
+409,Jingle Bell Rock by Bobby Helms,Bobby Helms,2024-11-12,178,44,Slow climbers,0.687,likely,Top-chart hit-makers,27,7.0,49.0,middle
+410,Last Christmas - Single Version by Wham!,Wham!,2024-11-12,178,50,Slow climbers,0.79,likely,Top-chart hit-makers,30,1.0,47.0,highest risk
+411,Rockin' Around The Christmas Tree by Brenda Lee,Brenda Lee,2024-11-13,179,23,Lasting hits,0.997,firm,Top-chart hit-makers,30,28.0,50.0,lowest risk
+412,You Broke My Heart by Drake,Drake,2024-11-18,184,2,Quick fades,0.99,firm,Catalogue artists,7,49.0,0.0,lowest risk
+413,Evil Ways (feat. J. Cole) by Drake,Drake,2024-11-18,184,5,Brief visitors,0.94,firm,Catalogue artists,4,46.0,0.0,lowest risk
+414,Red Button by Drake,Drake,2024-11-18,184,6,Brief visitors,0.991,firm,Catalogue artists,2,45.0,0.0,lowest risk
+415,Stories About My Brother by Drake,Drake,2024-11-18,184,12,Brief visitors,1.0,firm,Catalogue artists,2,39.0,0.0,middle
+416,exes by Tate McRae,Tate McRae,2024-11-18,184,13,Quick fades,0.959,firm,Top-chart hit-makers,24,38.0,0.0,lowest risk
+417,The Shoe Fits by Drake,Drake,2024-11-18,184,15,Brief visitors,1.0,firm,Catalogue artists,2,36.0,0.0,middle
+418,Wick Man by Drake,Drake,2024-11-18,184,21,Brief visitors,1.0,firm,Catalogue artists,1,30.0,0.0,highest risk
+419,"I swear, I Really Wanted To Make A ""Rap"" Album But This Is Literally The Way The Wind Blew Me This Time by André 3000",André 3000,2024-11-18,184,31,Brief visitors,1.0,firm,Passing visitors,1,20.0,0.0,highest risk
+420,It's the Most Wonderful Time of the Year by Andy Williams,Andy Williams,2024-11-19,185,41,Lasting hits,0.995,firm,Top-chart hit-makers,30,10.0,46.0,middle
+421,Let It Snow! Let It Snow! Let It Snow! by Dean Martin,Dean Martin,2024-11-20,186,39,Lasting hits,0.979,firm,Top-chart hit-makers,30,12.0,45.0,lowest risk
+422,It's Beginning to Look a Lot like Christmas by Michael Bublé,Michael Bublé,2024-11-20,186,41,Slow climbers,0.613,likely,Mid-chart stayers,29,10.0,41.0,lowest risk
+423,A Holly Jolly Christmas by Burl Ives,Burl Ives,2024-11-20,186,43,Slow climbers,0.439,border,Top-chart hit-makers,29,8.0,44.0,lowest risk
+424,VULTURES by ¥$ & Kanye West & Ty Dolla $ign,¥$,2024-11-23,189,34,Brief visitors,1.0,firm,Catalogue artists,1,17.0,0.0,lowest risk
+425,Santa Tell Me by Ariana Grande,Ariana Grande,2024-11-23,189,43,Slow climbers,0.679,likely,Catalogue artists,28,8.0,43.0,lowest risk
+426,The Christmas Song (Merry Christmas To You) by Nat King Cole,Nat King Cole,2024-11-24,190,34,Slow climbers,0.839,likely,Mid-chart stayers,30,17.0,37.0,lowest risk
+427,Sleigh Ride by The Ronettes,The Ronettes,2024-11-24,190,36,Slow climbers,0.84,likely,Mid-chart stayers,30,15.0,39.0,lowest risk
+428,Feliz Navidad by José Feliciano,José Feliciano,2024-11-24,190,38,Slow climbers,0.93,firm,Mid-chart stayers,30,13.0,38.0,lowest risk
+429,It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra) by Perry Como,Perry Como,2024-11-24,190,40,Slow climbers,0.995,firm,Mid-chart stayers,30,11.0,33.0,lowest risk
+430,Underneath the Tree by Kelly Clarkson,Kelly Clarkson,2024-11-24,190,41,Slow climbers,0.897,likely,Mid-chart stayers,30,10.0,41.0,middle
+431,Jingle Bells - Remastered 1999 by Frank Sinatra,Frank Sinatra,2024-11-24,190,42,Slow climbers,0.993,firm,Mid-chart stayers,30,9.0,26.0,lowest risk
+432,Holly Jolly Christmas by Michael Bublé,Michael Bublé,2024-11-24,190,44,Slow climbers,0.998,firm,Mid-chart stayers,30,7.0,36.0,lowest risk
+433,Ain't No Mountain High Enough by Marvin Gaye & Tammi Terrell,Marvin Gaye,2024-11-24,190,50,Brief visitors,1.0,firm,Passing visitors,1,1.0,0.0,middle
+434,Blue Christmas by Elvis Presley,Elvis Presley,2024-11-25,191,34,Slow climbers,0.978,firm,Mid-chart stayers,27,17.0,35.0,lowest risk
+435,Christmas (Baby Please Come Home) by Darlene Love,Darlene Love,2024-11-25,191,35,Slow climbers,0.974,firm,Mid-chart stayers,28,16.0,30.0,lowest risk
+436,Deck The Halls by Nat King Cole,Nat King Cole,2024-11-25,191,39,Brief visitors,1.0,firm,Mid-chart stayers,15,12.0,0.0,middle
+437,Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) by Frank Sinatra,Frank Sinatra,2024-11-25,191,40,Brief visitors,0.823,likely,Mid-chart stayers,20,11.0,27.0,lowest risk
+438,Little Saint Nick - 1991 Remix by The Beach Boys,The Beach Boys,2024-11-25,191,44,Brief visitors,0.5,border,Mid-chart stayers,19,7.0,33.0,middle
+439,Run Rudolph Run by Chuck Berry,Chuck Berry,2024-11-25,191,45,Brief visitors,0.778,likely,Mid-chart stayers,17,6.0,28.0,middle
+440,Mistletoe by Justin Bieber,Justin Bieber,2024-11-25,191,46,Brief visitors,0.868,likely,Mid-chart stayers,26,5.0,22.0,middle
+441,Mele Kalikimaka (Merry Christmas) by Bing Crosby,Bing Crosby,2024-11-25,191,48,Brief visitors,1.0,firm,Mid-chart stayers,15,3.0,25.0,middle
+442,Santa Baby (with Henri René & His Orchestra) by Eartha Kitt,Eartha Kitt,2024-11-25,191,50,Slow climbers,0.971,firm,Mid-chart stayers,20,1.0,31.0,middle
+443,Surround Sound (feat. 21 Savage & Baby Tate) by JID,JID,2024-11-28,194,49,Slow climbers,0.991,firm,Mid-chart stayers,25,2.0,0.0,middle
+444,You’re Losing Me (From The Vault) by Taylor Swift,Taylor Swift,2024-11-30,196,1,Month-long fades,0.821,likely,Catalogue artists,16,50.0,0.0,lowest risk
+445,MY HOUSE by Beyoncé,Beyoncé,2024-12-02,198,40,Brief visitors,1.0,firm,Catalogue artists,2,11.0,0.0,middle
+446,Heather by Conan Gray,Conan Gray,2024-12-04,200,42,Brief visitors,1.0,firm,Passing visitors,2,9.0,0.0,lowest risk
+447,Needle (feat. Drake) by Nicki Minaj,Nicki Minaj,2024-12-10,206,10,Quick fades,0.994,firm,Catalogue artists,7,41.0,0.0,highest risk
+448,Are You Gone Already by Nicki Minaj,Nicki Minaj,2024-12-10,206,18,Brief visitors,1.0,firm,Catalogue artists,1,33.0,0.0,highest risk
+449,Barbie Dangerous by Nicki Minaj,Nicki Minaj,2024-12-10,206,19,Brief visitors,1.0,firm,Catalogue artists,1,32.0,0.0,highest risk
+450,Everybody (feat. Lil Uzi Vert) by Nicki Minaj,Nicki Minaj,2024-12-10,206,24,Slow climbers,0.908,firm,Catalogue artists,25,27.0,15.0,highest risk
+451,FTCU by Nicki Minaj,Nicki Minaj,2024-12-10,206,27,Slow climbers,0.995,firm,Catalogue artists,25,24.0,43.0,highest risk
+452,run for the hills by Tate McRae,Tate McRae,2024-12-10,206,34,Brief visitors,1.0,firm,Top-chart hit-makers,4,17.0,0.0,lowest risk
+453,Let Me Calm Down (feat. J. Cole) by Nicki Minaj,Nicki Minaj,2024-12-10,206,42,Brief visitors,1.0,firm,Catalogue artists,1,9.0,0.0,highest risk
+454,Beep Beep by Nicki Minaj,Nicki Minaj,2024-12-10,206,43,Brief visitors,1.0,firm,Catalogue artists,1,8.0,0.0,highest risk
+455,Fallin 4 U by Nicki Minaj,Nicki Minaj,2024-12-10,206,48,Brief visitors,1.0,firm,Catalogue artists,1,3.0,0.0,highest risk
+456,Big Difference by Nicki Minaj,Nicki Minaj,2024-12-10,206,49,Brief visitors,1.0,firm,Catalogue artists,1,2.0,0.0,highest risk
+457,Wonderful Christmastime - Edited Version / Remastered 2011 by Paul McCartney,Paul McCartney,2024-12-11,207,49,Brief visitors,1.0,firm,Mid-chart stayers,13,2.0,0.0,lowest risk
+458,Christmas Time Is Here by Vince Guaraldi Trio,Vince Guaraldi Trio,2024-12-12,208,46,Brief visitors,1.0,firm,Passing visitors,12,5.0,0.0,lowest risk
+459,Please Come Home for Christmas - 2013 Remaster by Eagles,Eagles,2024-12-12,208,48,Brief visitors,1.0,firm,Passing visitors,12,3.0,0.0,middle
+460,Santa Tell Me - Naughty Version by Ariana Grande,Ariana Grande,2024-12-13,209,10,Brief visitors,0.968,firm,Catalogue artists,2,41.0,0.0,lowest risk
+461,Deck The Hall by Nat King Cole,Nat King Cole,2024-12-16,212,48,Quick fades,0.96,firm,Mid-chart stayers,12,3.0,0.0,middle
+462,Rudolph The Red-Nosed Reindeer by Burl Ives,Burl Ives,2024-12-17,213,49,Brief visitors,1.0,firm,Top-chart hit-makers,8,2.0,0.0,middle
+463,Santa Claus Is Coming To Town by The Jackson 5,The Jackson 5,2024-12-19,215,50,Brief visitors,1.0,firm,Passing visitors,5,1.0,0.0,lowest risk
+464,Lace It (with Eminem & benny blanco) by Juice WRLD & Eminem & benny blanco,Juice WRLD,2024-12-20,216,41,Brief visitors,1.0,firm,Passing visitors,5,10.0,0.0,highest risk
+465,Happy Xmas (War Is Over) - Remastered 2010 by John Lennon,John Lennon,2024-12-22,218,50,Brief visitors,1.0,firm,Passing visitors,6,1.0,0.0,highest risk
+466,"Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975 by Bruce Springsteen",Bruce Springsteen,2024-12-23,219,48,Brief visitors,1.0,firm,Passing visitors,5,3.0,0.0,highest risk
+467,This Christmas by Donny Hathaway,Donny Hathaway,2024-12-23,219,49,Brief visitors,1.0,firm,Passing visitors,5,2.0,0.0,middle
+468,Snowman by Sia,Sia,2024-12-23,219,50,Brief visitors,1.0,firm,Passing visitors,5,1.0,0.0,middle
+469,Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version by Gene Autry,Gene Autry,2024-12-24,220,40,Brief visitors,1.0,firm,Passing visitors,4,11.0,0.0,lowest risk
+470,Winter Wonderland - Spotify Singles Holiday by Laufey,Laufey,2024-12-24,220,42,Brief visitors,1.0,firm,Mid-chart stayers,4,9.0,0.0,middle
+471,Christmas Tree Farm by Taylor Swift,Taylor Swift,2024-12-24,220,43,Brief visitors,1.0,firm,Catalogue artists,2,8.0,0.0,highest risk
+472,"Santa, Can’t You Hear Me by Kelly Clarkson",Kelly Clarkson,2024-12-24,220,45,Brief visitors,1.0,firm,Mid-chart stayers,4,6.0,0.0,middle
+473,Joy To The World by Nat King Cole,Nat King Cole,2024-12-24,220,46,Brief visitors,1.0,firm,Mid-chart stayers,4,5.0,0.0,middle
+474,Do They Know It's Christmas? - 1984 Version by Band Aid,Band Aid,2024-12-24,220,47,Brief visitors,1.0,firm,Passing visitors,4,4.0,0.0,middle
+475,Happy Holiday / The Holiday Season by Andy Williams,Andy Williams,2024-12-24,220,50,Brief visitors,1.0,firm,Top-chart hit-makers,4,1.0,0.0,middle
+476,"Baby, It's Cold Outside by Dean Martin",Dean Martin,2024-12-25,221,44,Brief visitors,1.0,firm,Top-chart hit-makers,3,7.0,0.0,lowest risk
+477,I Want a Hippopotamus for Christmas (Hippo the Hero) by Gayla Peevey,Gayla Peevey,2024-12-25,221,45,Brief visitors,1.0,firm,Passing visitors,3,6.0,0.0,lowest risk
+478,Have Yourself A Merry Little Christmas - Remastered 1999 by Frank Sinatra,Frank Sinatra,2024-12-25,221,46,Brief visitors,1.0,firm,Mid-chart stayers,3,5.0,0.0,lowest risk
+479,Christmas (Baby Please Come Home) by Mariah Carey,Mariah Carey,2024-12-25,221,47,Brief visitors,1.0,firm,Top-chart hit-makers,1,4.0,0.0,lowest risk
+480,Winter Wonderland - Remastered by Bing Crosby,Bing Crosby,2024-12-25,221,48,Brief visitors,1.0,firm,Mid-chart stayers,3,3.0,0.0,lowest risk
+481,I Saw Mommy Kissing Santa Claus by The Jackson 5,The Jackson 5,2024-12-25,221,49,Brief visitors,1.0,firm,Passing visitors,3,2.0,0.0,lowest risk
+482,Here Comes Santa Claus (Right Down Santa Claus Lane) by Elvis Presley,Elvis Presley,2024-12-25,221,50,Brief visitors,1.0,firm,Mid-chart stayers,3,1.0,0.0,lowest risk
+483,(There's No Place Like) Home for the Holidays - 1959 Version by Perry Como,Perry Como,2024-12-26,222,45,Brief visitors,1.0,firm,Mid-chart stayers,2,6.0,0.0,lowest risk
+484,Do You Hear What I Hear? - Remastered 2006 by Bing Crosby,Bing Crosby,2024-12-26,222,48,Brief visitors,1.0,firm,Mid-chart stayers,2,3.0,0.0,middle
+485,Mistletoe And Holly - Remastered 1999 by Frank Sinatra,Frank Sinatra,2024-12-26,222,50,Brief visitors,1.0,firm,Mid-chart stayers,2,1.0,0.0,lowest risk
+486,La Diabla by Xavi,Xavi,2024-12-28,224,19,Lasting hits,1.0,firm,Top-chart hit-makers,30,32.0,45.0,lowest risk
+487,La Víctima by Xavi,Xavi,2024-12-28,224,24,Slow climbers,0.695,likely,Top-chart hit-makers,30,27.0,36.0,lowest risk
+488,Not Allowed by TV Girl,TV Girl,2024-12-28,224,39,Brief visitors,1.0,firm,Mid-chart stayers,24,12.0,1.0,lowest risk
+489,"One Of The Girls (with JENNIE, Lily Rose Depp) by The Weeknd & JENNIE & Lily-Rose Depp",The Weeknd,2024-12-28,224,42,Slow climbers,0.993,firm,Catalogue artists,30,9.0,24.0,highest risk
+490,Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series by The Weeknd & Madonna,The Weeknd,2024-12-28,224,46,Slow climbers,0.992,firm,Catalogue artists,27,5.0,0.0,highest risk
+491,Lose Control by Teddy Swims,Teddy Swims,2024-12-28,224,47,Slow climbers,0.994,firm,Mid-chart stayers,29,4.0,33.0,lowest risk
+492,BELLAKEO by Peso Pluma & Anitta,Peso Pluma,2024-12-28,224,48,Quick fades,0.926,firm,Catalogue artists,23,3.0,4.0,middle
+493,Heartless by Kanye West,Kanye West,2024-12-28,224,49,Brief visitors,1.0,firm,Catalogue artists,23,2.0,6.0,middle
+494,Feather by Sabrina Carpenter,Sabrina Carpenter,2024-12-29,225,49,Slow climbers,0.994,firm,Catalogue artists,29,2.0,29.0,middle
+495,Rompe La Dompe by Peso Pluma & Junior H & Oscar Maydon,Peso Pluma,2024-12-30,226,32,Brief visitors,1.0,firm,Catalogue artists,1,19.0,0.0,highest risk
+496,Mr. Brightside by The Killers,The Killers,2025-01-01,228,39,Brief visitors,1.0,firm,Passing visitors,3,12.0,0.0,lowest risk
+497,Lil Boo Thang by Paul Russell,Paul Russell,2025-01-03,230,36,Brief visitors,1.0,firm,Passing visitors,1,15.0,0.0,lowest risk
+498,We Found Love by Rihanna,Rihanna,2025-01-03,230,38,Brief visitors,1.0,firm,Passing visitors,1,13.0,0.0,lowest risk
+499,New Year’s Day by Taylor Swift,Taylor Swift,2025-01-03,230,39,Brief visitors,1.0,firm,Catalogue artists,1,12.0,0.0,middle
+500,Father Stretch My Hands Pt. 1 by Kanye West,Kanye West,2025-01-03,230,42,Brief visitors,1.0,firm,Catalogue artists,10,9.0,0.0,lowest risk
+501,Murder On The Dancefloor by Sophie Ellis-Bextor,Sophie Ellis-Bextor,2025-01-07,234,47,Slow climbers,0.992,firm,Mid-chart stayers,30,4.0,15.0,middle
+502,Never Lose Me by Flo Milli,Flo Milli,2025-01-08,235,46,Slow climbers,0.689,likely,Top-chart hit-makers,30,5.0,46.0,lowest risk
+503,"yes, and? by Ariana Grande",Ariana Grande,2025-01-14,241,1,Lasting hits,0.839,likely,Catalogue artists,30,50.0,11.0,lowest risk
+504,redrum by 21 Savage,21 Savage,2025-01-14,241,3,Lasting hits,1.0,firm,Catalogue artists,30,48.0,46.0,lowest risk
+505,née-nah by 21 Savage,21 Savage,2025-01-14,241,4,Month-long fades,0.989,firm,Catalogue artists,27,47.0,0.0,lowest risk
+506,n.h.i.e. by 21 Savage,21 Savage,2025-01-14,241,6,Month-long fades,0.747,likely,Catalogue artists,14,45.0,0.0,lowest risk
+507,all of me by 21 Savage,21 Savage,2025-01-14,241,8,Quick fades,0.971,firm,Catalogue artists,10,43.0,0.0,lowest risk
+508,pop ur shit by 21 Savage,21 Savage,2025-01-14,241,13,Quick fades,0.978,firm,Catalogue artists,5,38.0,0.0,middle
+509,Igual Que Un Ángel (with Peso Pluma) by Kali Uchis,Kali Uchis,2025-01-14,241,14,Lasting hits,0.999,firm,Mid-chart stayers,30,37.0,22.0,lowest risk
+510,dangerous by 21 Savage,21 Savage,2025-01-14,241,15,Quick fades,0.852,likely,Catalogue artists,5,36.0,0.0,middle
+511,sneaky by 21 Savage,21 Savage,2025-01-14,241,17,Quick fades,0.845,likely,Catalogue artists,6,34.0,0.0,middle
+512,should've wore a bonnet by 21 Savage,21 Savage,2025-01-14,241,21,Brief visitors,0.974,firm,Catalogue artists,4,30.0,0.0,middle
+513,prove it by 21 Savage,21 Savage,2025-01-14,241,25,Brief visitors,0.991,firm,Catalogue artists,3,26.0,0.0,middle
+514,red sky by 21 Savage,21 Savage,2025-01-14,241,29,Brief visitors,1.0,firm,Catalogue artists,3,22.0,0.0,highest risk
+515,letter to my brudda by 21 Savage,21 Savage,2025-01-14,241,36,Brief visitors,1.0,firm,Catalogue artists,2,15.0,0.0,highest risk
+516,see the real by 21 Savage,21 Savage,2025-01-14,241,39,Brief visitors,1.0,firm,Catalogue artists,2,12.0,0.0,highest risk
+517,just like me by 21 Savage,21 Savage,2025-01-14,241,46,Brief visitors,1.0,firm,Catalogue artists,2,5.0,0.0,highest risk
+518,act ii: date @ 8 by 4batz,4batz,2025-01-18,245,44,Slow climbers,0.991,firm,Mid-chart stayers,29,7.0,1.0,lowest risk
+519,Beautiful Things by Benson Boone,Benson Boone,2025-01-21,248,4,Lasting hits,1.0,firm,Mid-chart stayers,30,47.0,48.0,lowest risk
+520,Skin and Bones by David Kushner,David Kushner,2025-01-21,248,37,Brief visitors,1.0,firm,Mid-chart stayers,1,14.0,0.0,middle
+521,Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series) by The Weeknd & Madonna,The Weeknd,2025-01-24,251,21,Month-long fades,0.991,firm,Catalogue artists,18,30.0,0.0,lowest risk
+522,HISS by Megan Thee Stallion,Megan Thee Stallion,2025-01-28,255,5,Month-long fades,0.992,firm,Mid-chart stayers,17,46.0,0.0,lowest risk
+523,Think U The Shit (Fart) by Ice Spice,Ice Spice,2025-01-28,255,14,Quick fades,0.863,likely,Mid-chart stayers,15,37.0,0.0,lowest risk
+524,Spin You Around (1/24) by Morgan Wallen,Morgan Wallen,2025-01-28,255,23,Quick fades,0.999,firm,Catalogue artists,10,28.0,0.0,lowest risk
+525,Selfish by Justin Timberlake,Justin Timberlake,2025-01-28,255,44,Brief visitors,1.0,firm,Passing visitors,2,7.0,0.0,middle
+526,Big Foot by Nicki Minaj,Nicki Minaj,2025-01-31,258,10,Brief visitors,0.98,firm,Catalogue artists,2,41.0,0.0,lowest risk
+527,ONE CALL by Rich Amiri,Rich Amiri,2025-01-31,258,39,Slow climbers,0.669,likely,Mid-chart stayers,30,12.0,31.0,middle
+528,Home by Good Neighbours,Good Neighbours,2025-02-02,260,45,Brief visitors,0.636,likely,Mid-chart stayers,25,6.0,10.0,middle
+529,Bandit by Don Toliver,Don Toliver,2025-02-04,262,9,Quick fades,0.971,firm,Mid-chart stayers,25,42.0,2.0,lowest risk
+530,Praise Jah In The Moonlight by YG Marley,YG Marley,2025-02-05,263,38,Slow climbers,0.994,firm,Mid-chart stayers,25,13.0,27.0,lowest risk
+531,Should've Been A Cowboy by Toby Keith,Toby Keith,2025-02-08,266,5,Quick fades,0.782,likely,Catalogue artists,5,46.0,0.0,lowest risk
+532,As Good As I Once Was by Toby Keith,Toby Keith,2025-02-08,266,16,Brief visitors,1.0,firm,Catalogue artists,2,35.0,0.0,lowest risk
+533,Beer For My Horses by Toby Keith,Toby Keith,2025-02-08,266,18,Brief visitors,1.0,firm,Catalogue artists,1,33.0,0.0,lowest risk
+534,How Do You Like Me Now?! by Toby Keith,Toby Keith,2025-02-08,266,19,Brief visitors,1.0,firm,Catalogue artists,1,32.0,0.0,lowest risk
+535,I Love This Bar by Toby Keith,Toby Keith,2025-02-08,266,44,Brief visitors,1.0,firm,Catalogue artists,1,7.0,0.0,highest risk
+536,Forever by Noah Kahan,Noah Kahan,2025-02-11,269,3,Quick fades,0.995,firm,Catalogue artists,7,48.0,0.0,lowest risk
+537,Deeper Well by Kacey Musgraves,Kacey Musgraves,2025-02-11,269,28,Brief visitors,1.0,firm,Passing visitors,1,23.0,0.0,middle
+538,Talking / Once Again by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-11,269,33,Brief visitors,1.0,firm,Catalogue artists,1,18.0,0.0,lowest risk
+539,TALKING by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-12,270,6,Quick fades,0.997,firm,Catalogue artists,6,45.0,0.0,lowest risk
+540,STARS by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-12,270,17,Quick fades,0.995,firm,Catalogue artists,6,34.0,0.0,lowest risk
+541,CARNIVAL by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-12,270,21,Lasting hits,1.0,firm,Catalogue artists,30,30.0,49.0,lowest risk
+542,KEYS TO MY LIFE by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-12,270,32,Quick fades,0.844,likely,Catalogue artists,5,19.0,0.0,lowest risk
+543,BACK TO ME by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-12,270,38,Quick fades,0.97,firm,Catalogue artists,11,13.0,0.0,middle
+544,PAID by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-12,270,42,Quick fades,0.998,firm,Catalogue artists,6,9.0,0.0,middle
+545,FUK SUMN by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-12,270,50,Month-long fades,0.536,border,Catalogue artists,17,1.0,0.0,highest risk
+546,BURN by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-13,271,6,Month-long fades,0.98,firm,Catalogue artists,26,45.0,0.0,lowest risk
+547,DO IT by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-13,271,11,Quick fades,1.0,firm,Catalogue artists,5,40.0,0.0,lowest risk
+548,PAPERWORK by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-13,271,16,Brief visitors,0.947,firm,Catalogue artists,4,35.0,0.0,lowest risk
+549,HOODRAT by Kanye West & Ty Dolla $ign,Kanye West,2025-02-13,271,18,Brief visitors,0.979,firm,Catalogue artists,3,33.0,0.0,lowest risk
+550,BEG FORGIVENESS by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-13,271,21,Brief visitors,0.966,firm,Catalogue artists,4,30.0,0.0,lowest risk
+551,Yeah! (feat. Lil Jon & Ludacris) by USHER,USHER,2025-02-13,271,23,Quick fades,1.0,firm,Passing visitors,8,28.0,0.0,lowest risk
+552,PROBLEMATIC by Kanye West & Ty Dolla $ign,Kanye West,2025-02-13,271,27,Brief visitors,1.0,firm,Catalogue artists,3,24.0,0.0,lowest risk
+553,GOOD (DON'T DIE) by Kanye West & Ty Dolla $ign,Kanye West,2025-02-13,271,29,Brief visitors,1.0,firm,Catalogue artists,3,22.0,0.0,middle
+554,KING by Kanye West & Ty Dolla $ign,Kanye West,2025-02-13,271,36,Brief visitors,1.0,firm,Catalogue artists,2,15.0,0.0,middle
+555,DJ Got Us Fallin' In Love (feat. Pitbull) by USHER,USHER,2025-02-13,271,37,Brief visitors,1.0,firm,Passing visitors,2,14.0,0.0,lowest risk
+556,TEXAS HOLD 'EM by Beyoncé,Beyoncé,2025-02-14,272,2,Lasting hits,1.0,firm,Catalogue artists,30,49.0,32.0,lowest risk
+557,16 CARRIAGES by Beyoncé,Beyoncé,2025-02-14,272,17,Quick fades,0.8,likely,Catalogue artists,4,34.0,0.0,middle
+558,My Boo by USHER,USHER,2025-02-14,272,20,Brief visitors,1.0,firm,Passing visitors,3,31.0,0.0,lowest risk
+559,Hey Daddy (Daddy's Home) by USHER,USHER,2025-02-14,272,40,Brief visitors,1.0,firm,Passing visitors,1,11.0,0.0,middle
+560,Love in This Club (feat. Young Jeezy) by USHER,USHER,2025-02-14,272,42,Brief visitors,1.0,firm,Passing visitors,1,9.0,0.0,middle
+561,Breathe by Yeat,Yeat,2025-02-18,276,20,Slow climbers,0.528,border,Mid-chart stayers,30,31.0,27.0,lowest risk
+562,Training Season by Dua Lipa,Dua Lipa,2025-02-18,276,24,Quick fades,0.998,firm,Mid-chart stayers,8,27.0,0.0,lowest risk
+563,End of Beginning by Djo,Djo,2025-02-18,276,43,Lasting hits,1.0,firm,Top-chart hit-makers,30,8.0,48.0,middle
+564,Whatever She Wants by Bryson Tiller,Bryson Tiller,2025-02-19,277,40,Lasting hits,0.995,firm,Top-chart hit-makers,30,11.0,44.0,lowest risk
+565,Evergreen by Richy Mitch & The Coal Miners,Richy Mitch & The Coal Miners,2025-02-24,282,48,Brief visitors,1.0,firm,Mid-chart stayers,14,3.0,0.0,lowest risk
+566,Thinkin Bout You by Frank Ocean,Frank Ocean,2025-02-24,282,50,Brief visitors,1.0,firm,Mid-chart stayers,7,1.0,0.0,lowest risk
+567,Saturn by SZA,SZA,2025-02-25,283,3,Lasting hits,1.0,firm,Mid-chart stayers,30,48.0,34.0,lowest risk
+568,You Should Probably Leave by Chris Stapleton,Chris Stapleton,2025-02-26,284,46,Brief visitors,1.0,firm,Passing visitors,2,5.0,0.0,lowest risk
+569,Scared To Start by Michael Marcagi,Michael Marcagi,2025-03-03,289,43,Slow climbers,0.993,firm,Mid-chart stayers,30,8.0,27.0,lowest risk
+570,Doctor (Work It Out) [feat. Miley Cyrus] by Pharrell Williams & Miley Cyrus,Pharrell Williams,2025-03-03,289,45,Brief visitors,1.0,firm,Passing visitors,1,6.0,0.0,middle
+571,Overcompensate by Twenty One Pilots,Twenty One Pilots,2025-03-03,289,48,Brief visitors,1.0,firm,Passing visitors,1,3.0,0.0,middle
+572,bye by Ariana Grande,Ariana Grande,2025-03-10,296,2,Month-long fades,0.813,likely,Catalogue artists,13,49.0,0.0,middle
+573,we can't be friends (wait for your love) by Ariana Grande,Ariana Grande,2025-03-10,296,3,Lasting hits,1.0,firm,Catalogue artists,30,48.0,44.0,middle
+574,the boy is mine by Ariana Grande,Ariana Grande,2025-03-10,296,4,Month-long fades,0.991,firm,Catalogue artists,23,47.0,0.0,middle
+575,eternal sunshine by Ariana Grande,Ariana Grande,2025-03-10,296,5,Month-long fades,0.824,likely,Catalogue artists,13,46.0,0.0,middle
+576,don't wanna break up again by Ariana Grande,Ariana Grande,2025-03-10,296,7,Quick fades,0.972,firm,Catalogue artists,11,44.0,0.0,middle
+577,intro (end of the world) by Ariana Grande,Ariana Grande,2025-03-10,296,8,Quick fades,0.992,firm,Catalogue artists,9,43.0,0.0,middle
+578,supernatural by Ariana Grande,Ariana Grande,2025-03-10,296,9,Quick fades,0.957,firm,Catalogue artists,12,42.0,0.0,middle
+579,true story by Ariana Grande,Ariana Grande,2025-03-10,296,11,Quick fades,0.995,firm,Catalogue artists,8,40.0,0.0,middle
+580,act ii: date @ 8 (feat. Drake) - remix by 4batz & Drake,4batz,2025-03-10,296,16,Quick fades,0.988,firm,Mid-chart stayers,13,35.0,0.0,lowest risk
+581,Saturn Returns Interlude by Ariana Grande,Ariana Grande,2025-03-10,296,19,Brief visitors,0.95,firm,Catalogue artists,5,32.0,0.0,middle
+582,i wish i hated you by Ariana Grande,Ariana Grande,2025-03-10,296,21,Quick fades,1.0,firm,Catalogue artists,7,30.0,0.0,highest risk
+583,imperfect for you by Ariana Grande,Ariana Grande,2025-03-10,296,23,Quick fades,0.998,firm,Catalogue artists,7,28.0,0.0,highest risk
+584,ordinary things (feat. Nonna) by Ariana Grande,Ariana Grande,2025-03-10,296,28,Brief visitors,0.985,firm,Catalogue artists,5,23.0,0.0,highest risk
+585,Austin by Dasha,Dasha,2025-03-15,300,45,Slow climbers,0.994,firm,Mid-chart stayers,28,6.0,27.0,lowest risk
+586,Enough (Miami) by Cardi B,Cardi B,2025-03-17,302,40,Brief visitors,1.0,firm,Passing visitors,5,11.0,0.0,highest risk
+587,Baby Please by Ivan Cornejo,Ivan Cornejo,2025-03-17,302,46,Brief visitors,1.0,firm,Passing visitors,1,5.0,0.0,middle
+588,Mmhmm by BigXthaPlug,BigXthaPlug,2025-03-18,303,41,Brief visitors,0.979,firm,Mid-chart stayers,22,10.0,11.0,lowest risk
+589,Where the Wild Things Are by Luke Combs,Luke Combs,2025-03-18,303,50,Brief visitors,1.0,firm,Catalogue artists,13,1.0,16.0,highest risk
+590,I'm Shipping Up To Boston by Dropkick Murphys,Dropkick Murphys,2025-03-19,304,48,Brief visitors,1.0,firm,Passing visitors,1,3.0,0.0,lowest risk
+591,Like That by Future & Metro Boomin,Future,2025-03-24,309,1,Lasting hits,1.0,firm,Catalogue artists,30,50.0,33.0,lowest risk
+592,Too Sweet by Hozier,Hozier,2025-03-24,309,2,Lasting hits,1.0,firm,Top-chart hit-makers,30,49.0,40.0,middle
+593,Type Shit by Future & Metro Boomin,Future,2025-03-24,309,3,Lasting hits,0.998,firm,Catalogue artists,30,48.0,3.0,lowest risk
+594,We Don't Trust You by Future & Metro Boomin,Future,2025-03-24,309,4,Quick fades,0.97,firm,Catalogue artists,13,47.0,0.0,lowest risk
+595,Young Metro by Future & Metro Boomin,Future,2025-03-24,309,6,Quick fades,0.972,firm,Catalogue artists,13,45.0,0.0,lowest risk
+596,Cinderella by Future & Metro Boomin,Future,2025-03-24,309,7,Month-long fades,0.96,firm,Catalogue artists,27,44.0,0.0,lowest risk
+597,Ice Attack by Future & Metro Boomin,Future,2025-03-24,309,8,Quick fades,1.0,firm,Catalogue artists,6,43.0,0.0,middle
+598,obsessed by Olivia Rodrigo,Olivia Rodrigo,2025-03-24,309,9,Month-long fades,0.988,firm,Catalogue artists,27,42.0,0.0,lowest risk
+599,Slimed In by Future & Metro Boomin,Future,2025-03-24,309,13,Quick fades,0.854,likely,Catalogue artists,5,38.0,0.0,middle
+600,Claustrophobic by Future & Metro Boomin,Future,2025-03-24,309,14,Brief visitors,0.974,firm,Catalogue artists,4,37.0,0.0,middle
+601,Magic Don Juan (Princess Diana) by Future & Metro Boomin,Future,2025-03-24,309,15,Brief visitors,0.974,firm,Catalogue artists,4,36.0,0.0,middle
+602,Wildflower and Barley (feat. Allison Russell) by Hozier,Hozier,2025-03-24,309,16,Brief visitors,1.0,firm,Top-chart hit-makers,2,35.0,0.0,highest risk
+603,Runnin Outta Time by Future & Metro Boomin,Future,2025-03-24,309,17,Brief visitors,1.0,firm,Catalogue artists,3,34.0,0.0,middle
+604,so american by Olivia Rodrigo,Olivia Rodrigo,2025-03-24,309,20,Quick fades,0.853,likely,Catalogue artists,6,31.0,0.0,middle
+605,Fried (She a Vibe) by Future & Metro Boomin,Future,2025-03-24,309,21,Brief visitors,1.0,firm,Catalogue artists,4,30.0,0.0,middle
+606,Everyday Hustle by Future & Metro Boomin,Future,2025-03-24,309,24,Brief visitors,1.0,firm,Catalogue artists,3,27.0,0.0,highest risk
+607,Empire Now by Hozier,Hozier,2025-03-24,309,26,Brief visitors,1.0,firm,Top-chart hit-makers,1,25.0,0.0,highest risk
+608,Ain't No Love by Future & Metro Boomin,Future,2025-03-24,309,27,Brief visitors,1.0,firm,Catalogue artists,1,24.0,0.0,highest risk
+609,GTA by Future & Metro Boomin,Future,2025-03-24,309,28,Brief visitors,1.0,firm,Catalogue artists,1,23.0,0.0,highest risk
+610,girl i’ve always been by Olivia Rodrigo,Olivia Rodrigo,2025-03-24,309,29,Brief visitors,1.0,firm,Catalogue artists,1,22.0,0.0,middle
+611,stranger by Olivia Rodrigo,Olivia Rodrigo,2025-03-24,309,30,Brief visitors,1.0,firm,Catalogue artists,1,21.0,0.0,middle
+612,scared of my guitar by Olivia Rodrigo,Olivia Rodrigo,2025-03-24,309,32,Brief visitors,1.0,firm,Catalogue artists,1,19.0,0.0,highest risk
+613,Slow It Down by Benson Boone,Benson Boone,2025-03-24,309,34,Slow climbers,0.991,firm,Mid-chart stayers,26,17.0,0.0,middle
+614,Fare Well by Hozier,Hozier,2025-03-24,309,35,Brief visitors,1.0,firm,Top-chart hit-makers,1,16.0,0.0,highest risk
+615,Seen it All by Future & Metro Boomin,Future,2025-03-24,309,39,Brief visitors,1.0,firm,Catalogue artists,1,12.0,0.0,highest risk
+616,WTFYM by Future & Metro Boomin,Future,2025-03-24,309,40,Brief visitors,1.0,firm,Catalogue artists,1,11.0,0.0,highest risk
+617,LA PEOPLE II by Peso Pluma & Tito Double P & Joel De La P,Peso Pluma,2025-03-24,309,42,Brief visitors,1.0,firm,Catalogue artists,4,9.0,0.0,middle
+618,i like the way you kiss me by Artemas,Artemas,2025-03-27,311,46,Lasting hits,1.0,firm,Top-chart hit-makers,30,5.0,36.0,middle
+619,Get It Sexyy by Sexyy Red,Sexyy Red,2025-03-29,313,41,Slow climbers,0.855,likely,Mid-chart stayers,22,10.0,0.0,lowest risk
+620,I LUV IT (feat. Playboi Carti) by Camila Cabello & Playboi Carti,Camila Cabello,2025-03-30,314,31,Brief visitors,1.0,firm,Passing visitors,5,20.0,0.0,middle
+621,JOLENE by Beyoncé,Beyoncé,2025-03-31,315,3,Quick fades,0.984,firm,Catalogue artists,9,48.0,0.0,middle
+622,II MOST WANTED by Beyoncé,Beyoncé,2025-03-31,315,4,Month-long fades,0.754,likely,Catalogue artists,14,47.0,0.0,middle
+623,AMERIICAN REQUIEM by Beyoncé,Beyoncé,2025-03-31,315,6,Quick fades,0.998,firm,Catalogue artists,6,45.0,0.0,highest risk
+624,BLACKBIIRD by Beyoncé,Beyoncé,2025-03-31,315,7,Quick fades,0.986,firm,Catalogue artists,5,44.0,0.0,middle
+625,BODYGUARD by Beyoncé,Beyoncé,2025-03-31,315,8,Quick fades,0.971,firm,Catalogue artists,10,43.0,0.0,middle
+626,LEVII'S JEANS by Beyoncé,Beyoncé,2025-03-31,315,10,Quick fades,0.988,firm,Catalogue artists,9,41.0,0.0,middle
+627,DAUGHTER by Beyoncé,Beyoncé,2025-03-31,315,13,Quick fades,0.971,firm,Catalogue artists,6,38.0,0.0,highest risk
+628,PROTECTOR by Beyoncé,Beyoncé,2025-03-31,315,14,Brief visitors,0.967,firm,Catalogue artists,4,37.0,0.0,highest risk
+629,SPAGHETTII by Beyoncé,Beyoncé,2025-03-31,315,15,Quick fades,0.864,likely,Catalogue artists,6,36.0,0.0,middle
+630,SMOKE HOUR ★ WILLIE NELSON by Beyoncé,Beyoncé,2025-03-31,315,17,Brief visitors,0.981,firm,Catalogue artists,3,34.0,0.0,middle
+631,MY ROSE by Beyoncé,Beyoncé,2025-03-31,315,20,Brief visitors,0.989,firm,Catalogue artists,3,31.0,0.0,highest risk
+632,YA YA by Beyoncé,Beyoncé,2025-03-31,315,21,Quick fades,0.984,firm,Catalogue artists,7,30.0,0.0,highest risk
+633,ALLIIGATOR TEARS by Beyoncé,Beyoncé,2025-03-31,315,22,Brief visitors,0.984,firm,Catalogue artists,4,29.0,0.0,highest risk
+634,JUST FOR FUN by Beyoncé,Beyoncé,2025-03-31,315,24,Brief visitors,1.0,firm,Catalogue artists,3,27.0,0.0,highest risk
+635,FLAMENCO by Beyoncé,Beyoncé,2025-03-31,315,27,Brief visitors,1.0,firm,Catalogue artists,2,24.0,0.0,highest risk
+636,RIIVERDANCE by Beyoncé,Beyoncé,2025-03-31,315,28,Brief visitors,1.0,firm,Catalogue artists,4,23.0,0.0,highest risk
+637,DESERT EAGLE by Beyoncé,Beyoncé,2025-03-31,315,31,Brief visitors,1.0,firm,Catalogue artists,2,20.0,0.0,highest risk
+638,OH LOUISIANA by Beyoncé,Beyoncé,2025-03-31,315,32,Brief visitors,1.0,firm,Catalogue artists,2,19.0,0.0,highest risk
+639,TYRANT by Beyoncé,Beyoncé,2025-03-31,315,33,Brief visitors,1.0,firm,Catalogue artists,4,18.0,0.0,highest risk
+640,II HANDS II HEAVEN by Beyoncé,Beyoncé,2025-03-31,315,36,Brief visitors,1.0,firm,Catalogue artists,2,15.0,0.0,highest risk
+641,SWEET ★ HONEY ★ BUCKIIN' by Beyoncé,Beyoncé,2025-03-31,315,37,Brief visitors,1.0,firm,Catalogue artists,2,14.0,0.0,highest risk
+642,Gata Only by FloyyMenor & Cris Mj,FloyyMenor,2025-04-04,319,42,Slow climbers,0.905,firm,Mid-chart stayers,30,9.0,24.0,middle
+643,Magnetic by ILLIT,ILLIT,2025-04-04,319,47,Brief visitors,1.0,firm,Passing visitors,12,4.0,0.0,middle
+644,Corazón de Piedra by Xavi,Xavi,2025-04-05,320,44,Brief visitors,1.0,firm,Top-chart hit-makers,8,7.0,0.0,lowest risk
+645,7 Minute Drill by J. Cole,J. Cole,2025-04-07,322,3,Quick fades,0.991,firm,Catalogue artists,7,48.0,0.0,lowest risk
+646,Crocodile Tearz by J. Cole,J. Cole,2025-04-07,322,4,Quick fades,1.0,firm,Catalogue artists,6,47.0,0.0,lowest risk
+647,"Pricey (feat. Ari Lennox, Young Dro & Gucci Mane) by J. Cole",J. Cole,2025-04-07,322,7,Brief visitors,0.976,firm,Catalogue artists,3,44.0,0.0,lowest risk
+648,Huntin’ Wabbitz by J. Cole,J. Cole,2025-04-07,322,9,Brief visitors,0.939,firm,Catalogue artists,4,42.0,0.0,lowest risk
+649,Ready ‘24 (feat. Cam’ron) by J. Cole,J. Cole,2025-04-07,322,11,Brief visitors,0.998,firm,Catalogue artists,2,40.0,0.0,lowest risk
+650,H.Y.B. (feat. Bas & Central Cee) by J. Cole,J. Cole,2025-04-07,322,13,Brief visitors,0.975,firm,Catalogue artists,4,38.0,0.0,lowest risk
+651,Stickz N Stonez by J. Cole,J. Cole,2025-04-07,322,18,Brief visitors,1.0,firm,Catalogue artists,2,33.0,0.0,middle
+652,Fever by J. Cole,J. Cole,2025-04-07,322,19,Brief visitors,1.0,firm,Catalogue artists,1,32.0,0.0,middle
+653,Whatever She Wants [BONUS] by Bryson Tiller,Bryson Tiller,2025-04-07,322,21,Quick fades,0.956,firm,Top-chart hit-makers,10,30.0,0.0,lowest risk
+654,Pi (feat. Daylyt & Ab-Soul) by J. Cole,J. Cole,2025-04-07,322,25,Brief visitors,1.0,firm,Catalogue artists,1,26.0,0.0,middle
+655,3001 by J. Cole,J. Cole,2025-04-07,322,32,Brief visitors,1.0,firm,Catalogue artists,1,19.0,0.0,middle
+656,Stealth Mode (feat. Bas) by J. Cole,J. Cole,2025-04-07,322,33,Brief visitors,1.0,firm,Catalogue artists,1,18.0,0.0,middle
+657,Trae The Truth in Ibiza by J. Cole,J. Cole,2025-04-07,322,34,Brief visitors,1.0,firm,Catalogue artists,1,17.0,0.0,highest risk
+658,Cry by Benson Boone,Benson Boone,2025-04-07,322,48,Brief visitors,1.0,firm,Mid-chart stayers,2,3.0,0.0,middle
+659,"Good Luck, Babe! by Chappell Roan",Chappell Roan,2025-04-07,322,49,Slow climbers,0.997,firm,Catalogue artists,29,2.0,37.0,highest risk
+660,Wanna Be (with Megan Thee Stallion) by GloRilla,GloRilla,2025-04-08,323,50,Quick fades,0.834,likely,Mid-chart stayers,18,1.0,0.0,middle
+661,Total Eclipse of the Heart by Bonnie Tyler,Bonnie Tyler,2025-04-10,325,36,Brief visitors,1.0,firm,Passing visitors,1,15.0,0.0,middle
+662,Ain't No Sunshine by Bill Withers,Bill Withers,2025-04-10,325,49,Brief visitors,1.0,firm,Passing visitors,1,2.0,0.0,lowest risk
+663,Tell Ur Girlfriend by Lay Bankz,Lay Bankz,2025-04-11,326,46,Slow climbers,0.992,firm,Mid-chart stayers,30,5.0,12.0,middle
+664,if u think i'm pretty by Artemas,Artemas,2025-04-11,326,50,Brief visitors,1.0,firm,Top-chart hit-makers,6,1.0,0.0,middle
+665,Espresso by Sabrina Carpenter,Sabrina Carpenter,2025-04-14,329,7,Lasting hits,1.0,firm,Catalogue artists,30,44.0,46.0,lowest risk
+666,We Still Don't Trust You by Future & Metro Boomin,Future,2025-04-14,329,15,Quick fades,0.996,firm,Catalogue artists,7,36.0,0.0,lowest risk
+667,Red Leather by Future & Metro Boomin,Future,2025-04-14,329,40,Brief visitors,1.0,firm,Catalogue artists,2,11.0,0.0,highest risk
+668,A Bar Song (Tipsy) by Shaboozey,Shaboozey,2025-04-14,329,44,Slow climbers,0.678,likely,Top-chart hit-makers,30,7.0,47.0,middle
+669,Wild Ones (feat. Jelly Roll) by Jessie Murph & Jelly Roll,Jessie Murph,2025-04-14,329,46,Brief visitors,1.0,firm,Passing visitors,3,5.0,0.0,middle
+670,Out Of My Hands by Future & Metro Boomin,Future,2025-04-14,329,49,Brief visitors,1.0,firm,Catalogue artists,2,2.0,0.0,highest risk
+671,Red Wine Supernova by Chappell Roan,Chappell Roan,2025-04-16,331,49,Brief visitors,1.0,firm,Catalogue artists,5,2.0,0.0,lowest risk
+672,Feel It - From The Original Series “Invincible” by d4vd,d4vd,2025-04-17,332,46,Brief visitors,1.0,firm,Mid-chart stayers,4,5.0,0.0,lowest risk
+673,Fortnight (feat. Post Malone) by Taylor Swift,Taylor Swift,2025-04-21,336,1,Lasting hits,1.0,firm,Catalogue artists,30,50.0,37.0,middle
+674,Down Bad by Taylor Swift,Taylor Swift,2025-04-21,336,2,Lasting hits,1.0,firm,Catalogue artists,30,49.0,26.0,highest risk
+675,I Can Do It With a Broken Heart by Taylor Swift,Taylor Swift,2025-04-21,336,3,Lasting hits,1.0,firm,Catalogue artists,30,48.0,33.0,highest risk
+676,"So Long, London by Taylor Swift",Taylor Swift,2025-04-21,336,4,Lasting hits,0.885,likely,Catalogue artists,30,47.0,3.0,highest risk
+677,The Tortured Poets Department by Taylor Swift,Taylor Swift,2025-04-21,336,5,Month-long fades,0.982,firm,Catalogue artists,28,46.0,0.0,highest risk
+678,But Daddy I Love Him by Taylor Swift,Taylor Swift,2025-04-21,336,6,Lasting hits,0.734,likely,Catalogue artists,30,45.0,5.0,highest risk
+679,My Boy Only Breaks His Favorite Toys by Taylor Swift,Taylor Swift,2025-04-21,336,7,Month-long fades,0.735,likely,Catalogue artists,29,44.0,0.0,highest risk
+680,Florida!!! (feat. Florence + The Machine) by Taylor Swift,Taylor Swift,2025-04-21,336,8,Month-long fades,0.958,firm,Catalogue artists,28,43.0,0.0,highest risk
+681,Who’s Afraid of Little Old Me? by Taylor Swift,Taylor Swift,2025-04-21,336,9,Lasting hits,0.994,firm,Catalogue artists,30,42.0,19.0,highest risk
+682,Guilty as Sin? by Taylor Swift,Taylor Swift,2025-04-21,336,10,Lasting hits,0.775,likely,Catalogue artists,30,41.0,11.0,highest risk
+683,The Alchemy by Taylor Swift,Taylor Swift,2025-04-21,336,11,Month-long fades,0.836,likely,Catalogue artists,21,40.0,0.0,highest risk
+684,Push Ups by Drake,Drake,2025-04-21,336,12,Month-long fades,0.911,firm,Catalogue artists,28,39.0,0.0,lowest risk
+685,loml by Taylor Swift,Taylor Swift,2025-04-21,336,13,Month-long fades,0.836,likely,Catalogue artists,22,38.0,0.0,highest risk
+686,The Smallest Man Who Ever Lived by Taylor Swift,Taylor Swift,2025-04-21,336,14,Month-long fades,0.985,firm,Catalogue artists,28,37.0,0.0,highest risk
+687,Fresh Out The Slammer by Taylor Swift,Taylor Swift,2025-04-21,336,15,Month-long fades,0.83,likely,Catalogue artists,18,36.0,0.0,highest risk
+688,I Can Fix Him (No Really I Can) by Taylor Swift,Taylor Swift,2025-04-21,336,16,Quick fades,0.902,firm,Catalogue artists,15,35.0,0.0,highest risk
+689,thanK you aIMee by Taylor Swift,Taylor Swift,2025-04-21,336,18,Quick fades,0.996,firm,Catalogue artists,9,33.0,0.0,highest risk
+690,Clara Bow by Taylor Swift,Taylor Swift,2025-04-21,336,19,Quick fades,0.966,firm,Catalogue artists,13,32.0,0.0,highest risk
+691,The Black Dog by Taylor Swift,Taylor Swift,2025-04-21,336,20,Quick fades,0.959,firm,Catalogue artists,15,31.0,0.0,highest risk
+692,So High School by Taylor Swift,Taylor Swift,2025-04-21,336,21,Quick fades,0.922,firm,Catalogue artists,18,30.0,0.0,highest risk
+693,imgonnagetyouback by Taylor Swift,Taylor Swift,2025-04-21,336,22,Quick fades,0.927,firm,Catalogue artists,15,29.0,0.0,highest risk
+694,The Albatross by Taylor Swift,Taylor Swift,2025-04-21,336,24,Quick fades,0.999,firm,Catalogue artists,10,27.0,0.0,highest risk
+695,The Prophecy by Taylor Swift,Taylor Swift,2025-04-21,336,25,Quick fades,0.991,firm,Catalogue artists,13,26.0,0.0,highest risk
+696,Chloe or Sam or Sophia or Marcus by Taylor Swift,Taylor Swift,2025-04-21,336,27,Quick fades,0.871,likely,Catalogue artists,8,24.0,0.0,highest risk
+697,How Did It End? by Taylor Swift,Taylor Swift,2025-04-21,336,28,Quick fades,0.998,firm,Catalogue artists,10,23.0,0.0,highest risk
+698,I Hate It Here by Taylor Swift,Taylor Swift,2025-04-21,336,29,Quick fades,0.973,firm,Catalogue artists,9,22.0,0.0,highest risk
+699,I Look in People's Windows by Taylor Swift,Taylor Swift,2025-04-21,336,31,Brief visitors,0.839,likely,Catalogue artists,8,20.0,0.0,highest risk
+700,Cassandra by Taylor Swift,Taylor Swift,2025-04-21,336,32,Brief visitors,0.986,firm,Catalogue artists,7,19.0,0.0,highest risk
+701,Peter by Taylor Swift,Taylor Swift,2025-04-21,336,33,Brief visitors,0.995,firm,Catalogue artists,7,18.0,0.0,highest risk
+702,The Bolter by Taylor Swift,Taylor Swift,2025-04-21,336,34,Brief visitors,1.0,firm,Catalogue artists,7,17.0,0.0,highest risk
+703,The Manuscript by Taylor Swift,Taylor Swift,2025-04-21,336,36,Brief visitors,1.0,firm,Catalogue artists,5,15.0,0.0,highest risk
+704,Robin by Taylor Swift,Taylor Swift,2025-04-21,336,37,Brief visitors,1.0,firm,Catalogue artists,4,14.0,0.0,highest risk
+705,MILLION DOLLAR BABY by Tommy Richman,Tommy Richman,2025-04-28,343,31,Lasting hits,1.0,firm,Top-chart hit-makers,30,20.0,48.0,middle
+706,ADIVINO by Myke Towers & Bad Bunny,Myke Towers,2025-04-28,343,36,Brief visitors,1.0,firm,Mid-chart stayers,1,15.0,0.0,middle
+707,MILLION DOLLAR BABY (VHS) by Tommy Richman,Tommy Richman,2025-04-29,344,45,Brief visitors,1.0,firm,Top-chart hit-makers,14,6.0,0.0,middle
+708,euphoria by Kendrick Lamar,Kendrick Lamar,2025-05-02,347,19,Lasting hits,1.0,firm,Catalogue artists,30,32.0,35.0,lowest risk
+709,Family Matters by Drake,Drake,2025-05-06,351,5,Month-long fades,0.836,likely,Catalogue artists,15,46.0,0.0,lowest risk
+710,Cowgirls (feat. ERNEST) by Morgan Wallen,Morgan Wallen,2025-05-06,351,48,Slow climbers,0.976,firm,Catalogue artists,24,3.0,21.0,middle
+711,Not Like Us by Kendrick Lamar,Kendrick Lamar,2025-05-07,352,1,Lasting hits,1.0,firm,Catalogue artists,30,50.0,48.0,lowest risk
+712,meet the grahams by Kendrick Lamar,Kendrick Lamar,2025-05-07,352,9,Month-long fades,0.835,likely,Catalogue artists,13,42.0,0.0,lowest risk
+713,Gata Only (Mashup) by Dj Agus Lima,Dj Agus Lima,2025-05-09,354,26,Brief visitors,1.0,firm,Passing visitors,2,25.0,0.0,lowest risk
+714,HUMBLE. by Kendrick Lamar,Kendrick Lamar,2025-05-09,354,31,Brief visitors,1.0,firm,Catalogue artists,2,20.0,0.0,lowest risk
+715,All The Stars (with SZA) by Kendrick Lamar & SZA,Kendrick Lamar,2025-05-11,356,46,Brief visitors,1.0,firm,Catalogue artists,1,5.0,0.0,lowest risk
+716,I Had Some Help (Feat. Morgan Wallen) by Post Malone & Morgan Wallen,Post Malone,2025-05-12,357,1,Lasting hits,1.0,firm,Catalogue artists,30,50.0,47.0,lowest risk
+717,LA DURANGO by Peso Pluma & Junior H & Eslabon Armado,Peso Pluma,2025-05-12,357,42,Brief visitors,1.0,firm,Catalogue artists,1,9.0,0.0,middle
+718,Yeah Glo! by GloRilla,GloRilla,2025-05-13,358,48,Brief visitors,1.0,firm,Mid-chart stayers,12,3.0,12.0,middle
+719,Belong Together by Mark Ambor,Mark Ambor,2025-05-16,361,49,Brief visitors,1.0,firm,Passing visitors,3,2.0,0.0,middle
+720,one of wun by Gunna,Gunna,2025-05-17,362,44,Slow climbers,0.991,firm,Top-chart hit-makers,25,7.0,8.0,lowest risk
+721,LUNCH by Billie Eilish,Billie Eilish,2025-05-19,364,4,Lasting hits,1.0,firm,Catalogue artists,30,47.0,39.0,lowest risk
+722,CHIHIRO by Billie Eilish,Billie Eilish,2025-05-19,364,5,Lasting hits,1.0,firm,Catalogue artists,30,46.0,35.0,middle
+723,BIRDS OF A FEATHER by Billie Eilish,Billie Eilish,2025-05-19,364,8,Lasting hits,1.0,firm,Catalogue artists,30,43.0,47.0,middle
+724,SKINNY by Billie Eilish,Billie Eilish,2025-05-19,364,9,Quick fades,0.528,border,Catalogue artists,14,42.0,0.0,middle
+725,WILDFLOWER by Billie Eilish,Billie Eilish,2025-05-19,364,10,Month-long fades,0.74,likely,Catalogue artists,30,41.0,3.0,middle
+726,THE GREATEST by Billie Eilish,Billie Eilish,2025-05-19,364,11,Month-long fades,0.652,likely,Catalogue artists,18,40.0,0.0,middle
+727,L’AMOUR DE MA VIE by Billie Eilish,Billie Eilish,2025-05-19,364,12,Month-long fades,0.98,firm,Catalogue artists,26,39.0,0.0,middle
+728,THE DINER by Billie Eilish,Billie Eilish,2025-05-19,364,16,Quick fades,0.962,firm,Catalogue artists,14,35.0,0.0,middle
+729,BLUE by Billie Eilish,Billie Eilish,2025-05-19,364,17,Month-long fades,0.832,likely,Catalogue artists,21,34.0,0.0,highest risk
+730,BITTERSUITE by Billie Eilish,Billie Eilish,2025-05-19,364,19,Quick fades,0.996,firm,Catalogue artists,10,32.0,0.0,highest risk
+731,Ain't No Love In Oklahoma (From Twisters: The Album) by Luke Combs,Luke Combs,2025-05-19,364,29,Quick fades,0.995,firm,Catalogue artists,25,22.0,0.0,lowest risk
+732,love hotel by leftovermax,leftovermax,2025-05-24,369,37,Brief visitors,1.0,firm,Passing visitors,1,14.0,0.0,lowest risk
+733,Stargazing by Myles Smith,Myles Smith,2025-05-24,369,44,Slow climbers,0.993,firm,Mid-chart stayers,30,7.0,9.0,lowest risk
+734,Sweet Dreams by Koe Wetzel,Koe Wetzel,2025-05-24,369,46,Brief visitors,1.0,firm,Mid-chart stayers,4,5.0,0.0,lowest risk
+735,Pink Skies by Zach Bryan,Zach Bryan,2025-05-26,371,9,Lasting hits,1.0,firm,Catalogue artists,30,42.0,41.0,lowest risk
+736,BAND4BAND (feat. Lil Baby) by Central Cee & Lil Baby,Central Cee,2025-05-28,373,44,Slow climbers,0.514,border,Mid-chart stayers,30,7.0,16.0,middle
+737,Austin (Boots Stop Workin') by Dasha,Dasha,2025-05-31,376,29,Slow climbers,0.974,firm,Mid-chart stayers,30,22.0,27.0,lowest risk
+738,Houdini by Eminem,Eminem,2025-06-02,378,4,Lasting hits,1.0,firm,Catalogue artists,30,47.0,31.0,lowest risk
+739,Si No Quieres No by Luis R Conriquez & Neton Vega,Luis R Conriquez,2025-06-03,379,50,Brief visitors,1.0,firm,Passing visitors,1,1.0,0.0,middle
+740,HOT TO GO! by Chappell Roan,Chappell Roan,2025-06-05,381,48,Slow climbers,0.997,firm,Catalogue artists,28,3.0,42.0,middle
+741,Please Please Please by Sabrina Carpenter,Sabrina Carpenter,2025-06-09,385,4,Lasting hits,1.0,firm,Catalogue artists,30,47.0,49.0,lowest risk
+742,Close To You by Gracie Abrams,Gracie Abrams,2025-06-09,385,34,Quick fades,0.983,firm,Mid-chart stayers,21,17.0,0.0,lowest risk
+743,Wind Up Missin’ You by Tucker Wetmore,Tucker Wetmore,2025-06-09,385,46,Brief visitors,1.0,firm,Passing visitors,11,5.0,0.0,middle
+744,High Road (feat. Jessie Murph) by Koe Wetzel & Jessie Murph,Koe Wetzel,2025-06-10,386,40,Month-long fades,0.899,likely,Mid-chart stayers,26,11.0,0.0,highest risk
+745,Like Crazy by Jimin,Jimin,2025-06-10,386,48,Brief visitors,1.0,firm,Top-chart hit-makers,2,3.0,0.0,highest risk
+746,The Man He Sees in Me by Luke Combs,Luke Combs,2025-06-14,390,38,Quick fades,0.997,firm,Catalogue artists,7,13.0,0.0,lowest risk
+747,The Thin Grey Line by $uicideboy$,$uicideboy$,2025-06-16,392,24,Brief visitors,1.0,firm,Passing visitors,5,27.0,0.0,lowest risk
+748,BROTHER STONE (FEAT. KODAK BLACK) by Don Toliver,Don Toliver,2025-06-16,392,46,Brief visitors,1.0,firm,Mid-chart stayers,1,5.0,0.0,highest risk
+749,ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN) by Don Toliver,Don Toliver,2025-06-18,394,39,Brief visitors,1.0,firm,Mid-chart stayers,1,12.0,0.0,lowest risk
+750,DEVIL IS A LIE by Tommy Richman,Tommy Richman,2025-06-18,394,47,Slow climbers,0.895,likely,Top-chart hit-makers,30,4.0,29.0,lowest risk
+751,Nonsense by Sabrina Carpenter,Sabrina Carpenter,2025-06-19,395,49,Brief visitors,1.0,firm,Catalogue artists,3,2.0,0.0,middle
+752,WHISKEY WHISKEY (feat. Morgan Wallen) by Moneybagg Yo,Moneybagg Yo,2025-06-20,396,43,Brief visitors,1.0,firm,Passing visitors,3,8.0,0.0,middle
+753,Pour Me A Drink (Feat. Blake Shelton) by Post Malone & Blake Shelton,Post Malone,2025-06-22,398,9,Month-long fades,0.984,firm,Catalogue artists,28,42.0,0.0,lowest risk
+754,us. (feat. Taylor Swift) by Gracie Abrams,Gracie Abrams,2025-06-22,398,12,Quick fades,1.0,firm,Mid-chart stayers,8,39.0,0.0,lowest risk
+755,"The girl, so confusing version with lorde by Charli xcx & Lorde",Charli xcx,2025-06-22,398,25,Brief visitors,1.0,firm,Catalogue artists,2,26.0,0.0,lowest risk
+756,Parking Lot by Mustard & Travis Scott,Mustard,2025-06-22,398,34,Brief visitors,1.0,firm,Passing visitors,7,17.0,0.0,highest risk
+757,RELOJ by Peso Pluma,Peso Pluma,2025-06-22,398,47,Brief visitors,1.0,firm,Catalogue artists,2,4.0,0.0,highest risk
+758,Pink Pony Club by Chappell Roan,Chappell Roan,2025-06-24,400,47,Slow climbers,0.993,firm,Catalogue artists,29,4.0,28.0,middle
+759,NIGHTS LIKE THIS by The Kid LAROI,The Kid LAROI,2025-06-28,404,48,Slow climbers,0.991,firm,Mid-chart stayers,29,3.0,16.0,highest risk
+760,you look like you love me (feat. Riley Green) by Ella Langley & Riley Green,Ella Langley,2025-06-29,405,40,Quick fades,0.986,firm,Mid-chart stayers,18,11.0,0.0,middle
+761,Smeraldo Garden Marching Band (feat. Loco) by Jimin & Loco,Jimin,2025-06-30,406,49,Brief visitors,0.999,firm,Top-chart hit-makers,14,2.0,0.0,highest risk
+762,GIRLS by The Kid LAROI,The Kid LAROI,2025-07-04,410,36,Brief visitors,1.0,firm,Mid-chart stayers,2,15.0,0.0,middle
+763,Tobey (feat. Big Sean and BabyTron) by Eminem & Big Sean & BabyTron,Eminem,2025-07-04,410,37,Month-long fades,0.589,border,Catalogue artists,16,14.0,0.0,highest risk
+764,Lithonia by Childish Gambino,Childish Gambino,2025-07-04,410,50,Brief visitors,1.0,firm,Passing visitors,7,1.0,0.0,highest risk
+765,Tough by Quavo & Lana Del Rey,Quavo,2025-07-05,411,25,Month-long fades,0.834,likely,Mid-chart stayers,20,26.0,0.0,lowest risk
+766,Mamushi (feat. Yuki Chiba) by Megan Thee Stallion,Megan Thee Stallion,2025-07-05,411,43,Slow climbers,0.964,firm,Mid-chart stayers,28,8.0,13.0,middle
+767,28 by Zach Bryan,Zach Bryan,2025-07-06,412,12,Lasting hits,1.0,firm,Catalogue artists,30,39.0,28.0,lowest risk
+768,American Nights by Zach Bryan,Zach Bryan,2025-07-06,412,13,Quick fades,0.994,firm,Catalogue artists,8,38.0,0.0,lowest risk
+769,The Great American Bar Scene by Zach Bryan,Zach Bryan,2025-07-06,412,14,Brief visitors,0.999,firm,Catalogue artists,2,37.0,0.0,lowest risk
+770,Mechanical Bull by Zach Bryan,Zach Bryan,2025-07-06,412,15,Brief visitors,1.0,firm,Catalogue artists,2,36.0,0.0,lowest risk
+771,Oak Island by Zach Bryan,Zach Bryan,2025-07-06,412,18,Brief visitors,0.967,firm,Catalogue artists,5,33.0,0.0,middle
+772,Better Days (feat. John Mayer) by Zach Bryan,Zach Bryan,2025-07-06,412,26,Quick fades,0.998,firm,Catalogue artists,7,25.0,0.0,middle
+773,Brown Eyed Girl by Van Morrison,Van Morrison,2025-07-06,412,29,Brief visitors,1.0,firm,Passing visitors,3,22.0,0.0,lowest risk
+774,Rich Girl by Daryl Hall & John Oates,Daryl Hall,2025-07-06,412,30,Brief visitors,1.0,firm,Passing visitors,2,21.0,0.0,lowest risk
+775,Lucky Enough (Poem) by Zach Bryan,Zach Bryan,2025-07-06,412,31,Brief visitors,1.0,firm,Catalogue artists,1,20.0,0.0,middle
+776,Purple Gas by Zach Bryan,Zach Bryan,2025-07-06,412,34,Brief visitors,1.0,firm,Catalogue artists,2,17.0,0.0,middle
+777,The Way Back by Zach Bryan,Zach Bryan,2025-07-06,412,36,Brief visitors,1.0,firm,Catalogue artists,3,15.0,0.0,highest risk
+778,Boons by Zach Bryan,Zach Bryan,2025-07-06,412,37,Brief visitors,1.0,firm,Catalogue artists,1,14.0,0.0,highest risk
+779,Memphis; The Blues (feat. John Moreland) by Zach Bryan,Zach Bryan,2025-07-06,412,46,Brief visitors,1.0,firm,Catalogue artists,1,5.0,0.0,highest risk
+780,Lies Lies Lies by Morgan Wallen,Morgan Wallen,2025-07-07,413,9,Lasting hits,1.0,firm,Catalogue artists,30,42.0,30.0,lowest risk
+781,Renaissance by Eminem,Eminem,2025-07-14,419,2,Quick fades,0.998,firm,Catalogue artists,7,49.0,0.0,lowest risk
+782,Habits by Eminem,Eminem,2025-07-14,419,5,Quick fades,1.0,firm,Catalogue artists,6,46.0,0.0,lowest risk
+783,Brand New Dance by Eminem,Eminem,2025-07-14,419,10,Quick fades,0.985,firm,Catalogue artists,6,41.0,0.0,middle
+784,Trouble by Eminem,Eminem,2025-07-14,419,11,Brief visitors,0.93,firm,Catalogue artists,4,40.0,0.0,lowest risk
+785,Evil by Eminem,Eminem,2025-07-14,419,15,Brief visitors,0.967,firm,Catalogue artists,4,36.0,0.0,middle
+786,Fuel by Eminem,Eminem,2025-07-14,419,16,Quick fades,0.991,firm,Catalogue artists,8,35.0,0.0,middle
+787,Lucifer by Eminem,Eminem,2025-07-14,419,17,Brief visitors,0.998,firm,Catalogue artists,4,34.0,0.0,middle
+788,Antichrist by Eminem,Eminem,2025-07-14,419,18,Brief visitors,1.0,firm,Catalogue artists,4,33.0,0.0,middle
+789,Guilty Conscience 2 by Eminem,Eminem,2025-07-14,419,21,Brief visitors,1.0,firm,Catalogue artists,1,30.0,0.0,highest risk
+790,Road Rage by Eminem,Eminem,2025-07-14,419,23,Brief visitors,1.0,firm,Catalogue artists,1,28.0,0.0,middle
+791,Somebody Save Me by Eminem,Eminem,2025-07-14,419,24,Quick fades,0.607,likely,Catalogue artists,10,27.0,0.0,highest risk
+792,Temporary by Eminem,Eminem,2025-07-14,419,27,Brief visitors,1.0,firm,Catalogue artists,1,24.0,0.0,highest risk
+793,Head Honcho by Eminem,Eminem,2025-07-14,419,29,Brief visitors,1.0,firm,Catalogue artists,1,22.0,0.0,highest risk
+794,Breaking News - skit by Eminem,Eminem,2025-07-14,419,31,Brief visitors,1.0,firm,Catalogue artists,1,20.0,0.0,middle
+795,Bad One by Eminem,Eminem,2025-07-14,419,35,Brief visitors,1.0,firm,Catalogue artists,1,16.0,0.0,highest risk
+796,Si Antes Te Hubiera Conocido by KAROL G,KAROL G,2025-07-15,420,47,Brief visitors,1.0,firm,Catalogue artists,19,4.0,4.0,middle
+797,Did It First (with Central Cee) by Ice Spice & Central Cee,Ice Spice,2025-07-18,423,44,Brief visitors,1.0,firm,Mid-chart stayers,17,7.0,0.0,middle
+798,360 by Charli xcx,Charli xcx,2025-07-18,423,47,Slow climbers,0.991,firm,Catalogue artists,29,4.0,0.0,middle
+799,Casual by Chappell Roan,Chappell Roan,2025-07-20,425,48,Brief visitors,0.753,likely,Catalogue artists,30,3.0,3.0,middle
+800,Who by Jimin,Jimin,2025-07-21,426,18,Lasting hits,1.0,firm,Top-chart hit-makers,30,33.0,50.0,lowest risk
+801,misses by Dominic Fike,Dominic Fike,2025-07-24,429,47,Brief visitors,1.0,firm,Passing visitors,2,4.0,0.0,lowest risk
+802,Apple by Charli xcx,Charli xcx,2025-07-25,430,45,Slow climbers,0.994,firm,Catalogue artists,30,6.0,15.0,lowest risk
+803,Guy For That (Feat. Luke Combs) by Post Malone & Luke Combs,Post Malone,2025-07-27,432,9,Slow climbers,0.652,likely,Catalogue artists,30,42.0,8.0,lowest risk
+804,Lonely Road (with Jelly Roll) by mgk & Jelly Roll,mgk,2025-07-27,432,49,Brief visitors,1.0,firm,Passing visitors,2,2.0,0.0,highest risk
+805,Bye Bye Bye - From Deadpool and Wolverine Soundtrack by *NSYNC,*NSYNC,2025-07-31,436,32,Quick fades,0.992,firm,Mid-chart stayers,16,19.0,0.0,lowest risk
+806,Big Dawgs by Hanumankind & Kalmi,Hanumankind,2025-07-31,436,42,Slow climbers,0.874,likely,Mid-chart stayers,30,9.0,27.0,middle
+807,Guess featuring Billie Eilish by Charli xcx & Billie Eilish,Charli xcx,2025-08-04,440,8,Lasting hits,0.827,likely,Catalogue artists,30,43.0,25.0,lowest risk
+808,FIELD TRIP by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-08-04,440,19,Quick fades,0.99,firm,Catalogue artists,8,32.0,0.0,middle
+809,SLIDE by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-08-04,440,28,Brief visitors,1.0,firm,Catalogue artists,3,23.0,0.0,highest risk
+810,FRIED by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-08-04,440,45,Brief visitors,1.0,firm,Catalogue artists,3,6.0,0.0,highest risk
+811,PROMOTION by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-08-04,440,48,Brief visitors,1.0,firm,Catalogue artists,1,3.0,0.0,highest risk
+812,Femininomenon by Chappell Roan,Chappell Roan,2025-08-04,440,50,Brief visitors,1.0,firm,Catalogue artists,12,1.0,0.0,middle
+813,"I Love You, I'm Sorry by Gracie Abrams",Gracie Abrams,2025-08-08,444,48,Brief visitors,0.98,firm,Mid-chart stayers,23,3.0,19.0,highest risk
+814,KEHLANI by Jordan Adetunji,Jordan Adetunji,2025-08-09,445,44,Brief visitors,1.0,firm,Passing visitors,7,7.0,0.0,lowest risk
+815,It's Up (feat. Young Thug & 21 Savage) by Drake,Drake,2025-08-11,447,20,Brief visitors,0.967,firm,Catalogue artists,5,31.0,0.0,middle
+816,Wrong Ones (Feat. Tim McGraw) by Post Malone,Post Malone,2025-08-17,452,9,Quick fades,0.99,firm,Catalogue artists,7,42.0,0.0,middle
+817,Die With A Smile by Lady Gaga & Bruno Mars,Lady Gaga,2025-08-17,452,13,Lasting hits,1.0,firm,Top-chart hit-makers,30,38.0,48.0,lowest risk
+818,Finer Things (Feat. Hank Williams Jr.) by Post Malone,Post Malone,2025-08-17,452,14,Quick fades,0.865,likely,Catalogue artists,5,37.0,0.0,highest risk
+819,What Don't Belong To Me by Post Malone,Post Malone,2025-08-17,452,16,Quick fades,1.0,firm,Catalogue artists,7,35.0,0.0,highest risk
+820,California Sober (Feat. Chris Stapleton) by Post Malone,Post Malone,2025-08-17,452,17,Brief visitors,0.919,firm,Catalogue artists,6,34.0,0.0,highest risk
+821,Losers (Feat. Jelly Roll) by Post Malone,Post Malone,2025-08-17,452,20,Quick fades,0.781,likely,Catalogue artists,6,31.0,0.0,highest risk
+822,Have The Heart (Feat. Dolly Parton) by Post Malone,Post Malone,2025-08-17,452,21,Brief visitors,0.984,firm,Catalogue artists,3,30.0,0.0,highest risk
+823,Goes Without Saying (Feat. Brad Paisley) by Post Malone,Post Malone,2025-08-17,452,24,Brief visitors,1.0,firm,Catalogue artists,5,27.0,0.0,highest risk
+824,Nosedive (Feat. Lainey Wilson) by Post Malone,Post Malone,2025-08-17,452,25,Brief visitors,0.974,firm,Catalogue artists,5,26.0,0.0,highest risk
+825,Devil I've Been (Feat. ERNEST) by Post Malone,Post Malone,2025-08-17,452,32,Brief visitors,1.0,firm,Catalogue artists,3,19.0,0.0,highest risk
+826,Missin’ You Like This (Feat. Luke Combs) by Post Malone,Post Malone,2025-08-17,452,33,Brief visitors,1.0,firm,Catalogue artists,3,18.0,0.0,highest risk
+827,Hide My Gun (Feat. HARDY) by Post Malone,Post Malone,2025-08-17,452,35,Brief visitors,1.0,firm,Catalogue artists,3,16.0,0.0,highest risk
+828,Never Love You Again (Feat. Sierra Ferrell) by Post Malone,Post Malone,2025-08-17,452,39,Brief visitors,1.0,firm,Catalogue artists,3,12.0,0.0,highest risk
+829,Yours by Post Malone,Post Malone,2025-08-17,452,46,Brief visitors,1.0,firm,Catalogue artists,1,5.0,0.0,highest risk
+830,M-E-X-I-C-O (Feat. Billy Strings) by Post Malone,Post Malone,2025-08-17,452,49,Brief visitors,1.0,firm,Catalogue artists,1,2.0,0.0,highest risk
+831,Sailor Song by Gigi Perez,Gigi Perez,2025-08-22,457,50,Slow climbers,0.997,firm,Top-chart hit-makers,26,1.0,36.0,middle
+832,Taste by Sabrina Carpenter,Sabrina Carpenter,2025-08-24,459,2,Lasting hits,1.0,firm,Catalogue artists,30,49.0,50.0,lowest risk
+833,Good Graces by Sabrina Carpenter,Sabrina Carpenter,2025-08-24,459,6,Lasting hits,0.991,firm,Catalogue artists,30,45.0,12.0,middle
+834,Sharpest Tool by Sabrina Carpenter,Sabrina Carpenter,2025-08-24,459,8,Month-long fades,0.991,firm,Catalogue artists,23,43.0,0.0,middle
+835,Bed Chem by Sabrina Carpenter,Sabrina Carpenter,2025-08-24,459,9,Lasting hits,1.0,firm,Catalogue artists,30,42.0,42.0,middle
+836,Coincidence by Sabrina Carpenter,Sabrina Carpenter,2025-08-24,459,12,Month-long fades,0.991,firm,Catalogue artists,24,39.0,0.0,middle
+837,Slim Pickins by Sabrina Carpenter,Sabrina Carpenter,2025-08-24,459,13,Month-long fades,0.813,likely,Catalogue artists,16,38.0,0.0,middle
+838,Juno by Sabrina Carpenter,Sabrina Carpenter,2025-08-24,459,14,Month-long fades,0.98,firm,Catalogue artists,29,37.0,0.0,middle
+839,Dumb & Poetic by Sabrina Carpenter,Sabrina Carpenter,2025-08-24,459,16,Quick fades,0.963,firm,Catalogue artists,14,35.0,0.0,middle
+840,Lie To Girls by Sabrina Carpenter,Sabrina Carpenter,2025-08-24,459,19,Quick fades,0.991,firm,Catalogue artists,9,32.0,0.0,highest risk
+841,Don’t Smile by Sabrina Carpenter,Sabrina Carpenter,2025-08-24,459,20,Quick fades,0.959,firm,Catalogue artists,15,31.0,0.0,middle
+842,Drugs You Should Try It by Travis Scott,Travis Scott,2025-08-24,459,30,Brief visitors,1.0,firm,Catalogue artists,1,21.0,0.0,highest risk
+843,No Face by Drake,Drake,2025-09-02,468,37,Brief visitors,1.0,firm,Catalogue artists,3,14.0,0.0,middle
+844,The Emptiness Machine by Linkin Park,Linkin Park,2025-09-08,474,17,Quick fades,0.972,firm,Mid-chart stayers,15,34.0,0.0,lowest risk
+845,Neva Play (feat. RM of BTS) by Megan Thee Stallion & RM,Megan Thee Stallion,2025-09-08,474,38,Brief visitors,1.0,firm,Mid-chart stayers,6,13.0,0.0,highest risk
+846,Disco by Surf Curse,Surf Curse,2025-09-08,474,48,Brief visitors,1.0,firm,Passing visitors,6,3.0,0.0,middle
+847,505 by Arctic Monkeys,Arctic Monkeys,2025-09-09,475,49,Brief visitors,1.0,firm,Mid-chart stayers,17,2.0,0.0,middle
+848,World Tour (Aquafina) by Juice WRLD,Juice WRLD,2025-09-12,478,49,Brief visitors,1.0,firm,Passing visitors,1,2.0,0.0,highest risk
+849,ALL RED by Playboi Carti,Playboi Carti,2025-09-15,481,1,Month-long fades,0.991,firm,Top-chart hit-makers,20,50.0,0.0,lowest risk
+850,It's ok I'm ok by Tate McRae,Tate McRae,2025-09-15,481,9,Month-long fades,0.83,likely,Top-chart hit-makers,25,42.0,0.0,lowest risk
+851,Dancing In The Flames by The Weeknd,The Weeknd,2025-09-15,481,10,Quick fades,0.998,firm,Catalogue artists,7,41.0,0.0,lowest risk
+852,Talk talk featuring troye sivan by Charli xcx & Troye Sivan,Charli xcx,2025-09-15,481,46,Brief visitors,1.0,firm,Catalogue artists,2,5.0,0.0,highest risk
+853,LA PATRULLA by Peso Pluma,Peso Pluma,2025-09-16,482,48,Brief visitors,0.919,firm,Catalogue artists,30,3.0,11.0,middle
+854,TEFLON DON by Future,Future,2025-09-22,488,10,Brief visitors,0.969,firm,Catalogue artists,6,41.0,0.0,middle
+855,LIL DEMON by Future,Future,2025-09-22,488,13,Brief visitors,1.0,firm,Catalogue artists,3,38.0,0.0,middle
+856,SKI by Future,Future,2025-09-22,488,14,Brief visitors,1.0,firm,Catalogue artists,2,37.0,0.0,middle
+857,TOO FAST by Future,Future,2025-09-22,488,17,Brief visitors,1.0,firm,Catalogue artists,2,34.0,0.0,middle
+858,Una Velita by Bad Bunny,Bad Bunny,2025-09-22,488,20,Brief visitors,1.0,firm,Catalogue artists,1,31.0,0.0,lowest risk
+859,PLUTOSKI by Future,Future,2025-09-22,488,23,Brief visitors,1.0,firm,Catalogue artists,1,28.0,0.0,highest risk
+860,READY TO COOK UP by Future,Future,2025-09-22,488,26,Brief visitors,1.0,firm,Catalogue artists,1,25.0,0.0,highest risk
+861,OCEAN by Future,Future,2025-09-22,488,36,Brief visitors,1.0,firm,Catalogue artists,1,15.0,0.0,highest risk
+862,PRESS THE BUTTON by Future,Future,2025-09-22,488,50,Brief visitors,1.0,firm,Catalogue artists,1,1.0,0.0,highest risk
+863,Heavy Is the Crown by Linkin Park,Linkin Park,2025-09-27,493,45,Brief visitors,1.0,firm,Mid-chart stayers,2,6.0,0.0,lowest risk
+864,Timeless (with Playboi Carti) by The Weeknd & Playboi Carti,The Weeknd,2025-09-29,495,1,Lasting hits,1.0,firm,Catalogue artists,30,50.0,40.0,lowest risk
+865,NEL by Fuerza Regida,Fuerza Regida,2025-10-02,498,48,Brief visitors,1.0,firm,Mid-chart stayers,10,3.0,0.0,lowest risk
+866,No One Noticed by The Marías,The Marías,2025-10-02,498,50,Brief visitors,0.689,likely,Mid-chart stayers,27,1.0,11.0,middle
+867,Diet Pepsi by Addison Rae,Addison Rae,2025-10-03,499,45,Brief visitors,0.647,likely,Mid-chart stayers,29,6.0,3.0,middle
+868,Or What by NLE Choppa,NLE Choppa,2025-10-08,504,46,Brief visitors,1.0,firm,Mid-chart stayers,13,5.0,0.0,middle
+869,Sympathy is a knife featuring ariana grande by Charli xcx,Charli xcx,2025-10-13,509,8,Quick fades,0.851,likely,Catalogue artists,6,43.0,0.0,lowest risk
+870,I might say something stupid featuring the 1975 & jon hopkins by Charli xcx,Charli xcx,2025-10-13,509,47,Brief visitors,1.0,firm,Catalogue artists,1,4.0,0.0,highest risk
+871,Thick Of It (feat. Trippie Redd) by KSI & Trippie Redd,KSI,2025-10-14,510,50,Brief visitors,1.0,firm,Passing visitors,2,1.0,0.0,highest risk
+872,Night Changes by One Direction,One Direction,2025-10-19,515,16,Quick fades,0.999,firm,Passing visitors,10,35.0,0.0,lowest risk
+873,Story of My Life by One Direction,One Direction,2025-10-19,515,24,Brief visitors,0.98,firm,Passing visitors,6,27.0,0.0,lowest risk
+874,Love Somebody by Morgan Wallen,Morgan Wallen,2025-10-20,516,1,Lasting hits,0.911,firm,Catalogue artists,30,50.0,25.0,lowest risk
+875,APT. by ROSÉ & Bruno Mars,ROSÉ,2025-10-20,516,11,Lasting hits,1.0,firm,Top-chart hit-makers,30,40.0,43.0,lowest risk
+876,That’s So True by Gracie Abrams,Gracie Abrams,2025-10-20,516,30,Lasting hits,0.995,firm,Mid-chart stayers,29,21.0,50.0,lowest risk
+877,Tu Boda by Oscar Maydon & Fuerza Regida,Oscar Maydon,2025-10-20,516,41,Slow climbers,0.855,likely,Mid-chart stayers,30,10.0,32.0,middle
+878,"Noid by Tyler, The Creator","Tyler, The Creator",2025-10-23,519,6,Month-long fades,0.979,firm,Catalogue artists,26,45.0,0.0,lowest risk
+879,NEW DROP by Don Toliver,Don Toliver,2025-10-25,521,49,Brief visitors,1.0,firm,Mid-chart stayers,4,2.0,0.0,lowest risk
+880,DOS DÍAS by Tito Double P,Tito Double P,2025-10-26,522,50,Brief visitors,1.0,firm,Passing visitors,9,1.0,0.0,middle
+881,Disease by Lady Gaga,Lady Gaga,2025-10-27,523,16,Brief visitors,0.981,firm,Top-chart hit-makers,3,35.0,0.0,lowest risk
+882,TGIF by GloRilla,GloRilla,2025-10-28,524,37,Brief visitors,1.0,firm,Mid-chart stayers,2,14.0,0.0,middle
