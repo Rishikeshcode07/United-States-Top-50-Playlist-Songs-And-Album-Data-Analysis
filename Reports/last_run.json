@@ -1,0 +1,85 @@
+{
+  "run_id": "ed00c80e-0748-4c90-8d52-558bbfeccbdf",
+  "status": "SUCCESS",
+  "pipeline_version": "1.0.0",
+  "started_at_utc": "2026-10-18T02:21:58Z",
+  "finished_at_utc": "2026-10-18T02:22:06Z",
+  "source": {
+    "name": "Atlantic_United_States.csv",
+    "size_bytes": 3802835,
+    "sha256": "4b7b5871c98cde27a6a33d87be50b2473d305f87134ee4745d16cb66925a08d8",
+    "rows": 27800
+  },
+  "validation": {
+    "PASS": 17,
+    "WARN": 8,
+    "INFO": 6,
+    "FAIL": 0
+  },
+  "gate": {
+    "passed": 25,
+    "total": 25
+  },
+  "tables": {
+    "playlist_daily": {
+      "rows": 27750,
+      "columns": 54
+    },
+    "fact_chart_daily": {
+      "rows": 27750,
+      "columns": 21
+    },
+    "dim_track": {
+      "rows": 944,
+      "columns": 47
+    },
+    "dim_artist": {
+      "rows": 283,
+      "columns": 17
+    },
+    "bridge_track_artist": {
+      "rows": 1105,
+      "columns": 4
+    },
+    "dim_date": {
+      "rows": 559,
+      "columns": 15
+    },
+    "daily_summary": {
+      "rows": 555,
+      "columns": 15
+    }
+  },
+  "timings_seconds": {
+    "extract": 0.06,
+    "validate": 0.1,
+    "standardize": 1.38,
+    "clean": 0.87,
+    "features": 3.13,
+    "gate": 0.04,
+    "save": 1.27,
+    "load": 1.12,
+    "total": 8.06
+  },
+  "database": {
+    "target": "sqlite:///D:\\INTERNSHIP PROJECTS\\UNIFIED MENTOR WORK\\PROJECT_2\\United States Top 50 Playlist Performance and Song Popularity Trend Analysis Project\\atlantic-top50-analytics\\data\\warehouse\\atlantic_top50.db",
+    "rows": {
+      "dim_date": 559,
+      "dim_track": 944,
+      "dim_artist": 283,
+      "bridge_track_artist": 1105,
+      "fact_chart_daily": 27750,
+      "daily_summary": 555
+    },
+    "views": [
+      "vw_artist_leaderboard",
+      "vw_artist_songs",
+      "vw_chart_daily",
+      "vw_longevity_summary",
+      "vw_monthly_trend",
+      "vw_movement_by_month",
+      "vw_song_scorecard",
+      "vw_weekday_pattern"
+    ]
+  }
+}

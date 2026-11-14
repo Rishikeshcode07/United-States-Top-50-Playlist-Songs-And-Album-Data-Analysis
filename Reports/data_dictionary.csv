@@ -1,0 +1,174 @@
+﻿table,column,data_type,definition,example
+playlist_daily,date,date,"Calendar date of the playlist snapshot, kept exactly as provided in the source file.",2024-05-18 00:00:00
+playlist_daily,snapshot_index,whole number,"Order number of the snapshot: 1 for the first date, 555 for the last. Missing calendar days get no number.",1
+playlist_daily,days_since_prev_snapshot,decimal number,"Calendar days since the previous snapshot (1 normally, 2 right after a missing day; empty for the first).",1.0
+playlist_daily,year,whole number,Calendar year.,2024
+playlist_daily,month,whole number,Calendar month number (1-12).,5
+playlist_daily,month_name,text,Calendar month name.,May
+playlist_daily,year_month,text,"Year and month as text, e.g. 2024-05 (sorts correctly).",2024-05
+playlist_daily,quarter,whole number,Calendar quarter (1-4).,2
+playlist_daily,iso_week,whole number,ISO week number of the year.,20
+playlist_daily,day_of_week,whole number,"Day of the week, Monday = 1 ... Sunday = 7.",6
+playlist_daily,day_name,text,Name of the weekday.,Saturday
+playlist_daily,is_weekend,true/false,True for Saturday and Sunday.,True
+playlist_daily,track_id,whole number,"Unique id of a song after resolving title and artist-credit variants (Phase 1, Step 6.5).",1
+playlist_daily,track_label,text,Readable name: song title + 'by' + artist credit. Unique per song.,Ella Baila Sola by Eslabon Armado
+playlist_daily,song_clean,text,"Cleaned song title (single spaces, one spelling per song).",Ella Baila Sola
+playlist_daily,artist_credit,text,Fullest artist credit seen for the song; artists joined with ' & '.,Eslabon Armado
+playlist_daily,primary_artist,text,First (lead) artist of the credit.,Eslabon Armado
+playlist_daily,artist_count,whole number,Number of artists in the credit.,1
+playlist_daily,artists_all,text,All artists of the credit joined with ' | ' (easy to split into a list).,Eslabon Armado
+playlist_daily,is_collab,true/false,True when the song has two or more artists.,False
+playlist_daily,position,whole number,"Playlist rank on that day: 1 = top, 50 = bottom.",1
+playlist_daily,rank_tier,text,"Rank group of the row: Top 10, 11-20 or 21-50.",Top 10
+playlist_daily,in_top10,true/false,True when position is 10 or better.,True
+playlist_daily,in_top20,true/false,True when position is 20 or better.,True
+playlist_daily,is_number_one,true/false,True when position = 1.,True
+playlist_daily,chart_points,whole number,51 minus position (rank 1 = 50 points ... rank 50 = 1 point); the basis of the Artist Dominance Index.,50
+playlist_daily,popularity,whole number,Popularity score from the source file (0-100). A 0 means 'not yet scored'; see popularity_clean.,89
+playlist_daily,popularity_clean,decimal number,"Popularity after repairing zeros (run interpolation, then song median; empty if no real value exists).",89.0
+playlist_daily,popularity_was_zero,true/false,True when the source popularity value was 0.,False
+playlist_daily,popularity_fill_method,text,"How popularity_clean was obtained: original, interpolated_in_run, song_median or unfilled.",original
+playlist_daily,popularity_trend_7d,decimal number,Popularity Trend Score: 7-day rolling average of popularity_clean inside the same chart run.,89.0
+playlist_daily,prev_position,decimal number,Position on the immediately preceding snapshot (empty on the first day of a run).,1.0
+playlist_daily,rank_change,decimal number,"prev_position minus position. Positive = climbed, negative = fell, 0 = unchanged.",0.0
+playlist_daily,movement,text,"Up, Down, Same, New entry, Re-entry or Chart start.",Chart start
+playlist_daily,rank_gain_7d,decimal number,Position 7 snapshots ago minus position now (positive = climbed over the week); empty unless present on all 7.,0.0
+playlist_daily,avg_rank_7d,decimal number,7-day rolling average of position inside the same run.,1.0
+playlist_daily,rank_volatility_7d,decimal number,7-day rolling standard deviation of position inside the same run (needs at least 3 days).,0.0
+playlist_daily,stint_no,whole number,"Run number of the song: 1 for its first unbroken streak on the chart, 2 for the next, and so on.",1
+playlist_daily,stint_key,text,Unique id of one run: track_id-run number.,1-1
+playlist_daily,days_in_stint,whole number,Day number inside the current run (1 = first day of the run).,1
+playlist_daily,stint_length,whole number,Total length in days of the run this row belongs to.,164
+playlist_daily,is_stint_start,true/false,True on the first day of a run (an entry or re-entry).,True
+playlist_daily,is_stint_end,true/false,True on the last day of a run.,False
+playlist_daily,exits_next_snapshot,true/false,True when the song is on the chart today but absent on the next snapshot (a real exit).,False
+playlist_daily,chart_day_number,whole number,Chart days accumulated so far by the song (1 = debut day).,1
+playlist_daily,calendar_age_days,whole number,Calendar days since the song's first appearance.,0
+playlist_daily,duration_ms,whole number,Song duration in milliseconds.,165671
+playlist_daily,duration_min,decimal number,Song duration in minutes (the brief's 'Duration in minutes').,2.761
+playlist_daily,album_type,text,"Album type from the source: single, album or compilation.",album
+playlist_daily,release_format,text,"Single, or Album (album and compilation together).",Album
+playlist_daily,total_tracks,whole number,Number of tracks on the release.,16
+playlist_daily,release_size_band,text,"Release size group: 1 track, 2-3, 4-7, 8-15, 16-40 or 41+.",16-40
+playlist_daily,is_explicit,true/false,Explicit-content flag.,False
+playlist_daily,album_cover_url,text,Link to the artwork image.,https://i.scdn.co/image/ab67616d0000b273dfddf
+fact_chart_daily,date,date,"Calendar date of the playlist snapshot, kept exactly as provided in the source file.",2024-05-18 00:00:00
+fact_chart_daily,track_id,whole number,"Unique id of a song after resolving title and artist-credit variants (Phase 1, Step 6.5).",1
+fact_chart_daily,position,whole number,"Playlist rank on that day: 1 = top, 50 = bottom.",1
+fact_chart_daily,chart_points,whole number,51 minus position (rank 1 = 50 points ... rank 50 = 1 point); the basis of the Artist Dominance Index.,50
+fact_chart_daily,popularity_clean,decimal number,"Popularity after repairing zeros (run interpolation, then song median; empty if no real value exists).",89.0
+fact_chart_daily,popularity_trend_7d,decimal number,Popularity Trend Score: 7-day rolling average of popularity_clean inside the same chart run.,89.0
+fact_chart_daily,popularity_fill_method,text,"How popularity_clean was obtained: original, interpolated_in_run, song_median or unfilled.",original
+fact_chart_daily,rank_change,decimal number,"prev_position minus position. Positive = climbed, negative = fell, 0 = unchanged.",0.0
+fact_chart_daily,rank_gain_7d,decimal number,Position 7 snapshots ago minus position now (positive = climbed over the week); empty unless present on all 7.,0.0
+fact_chart_daily,avg_rank_7d,decimal number,7-day rolling average of position inside the same run.,1.0
+fact_chart_daily,rank_volatility_7d,decimal number,7-day rolling standard deviation of position inside the same run (needs at least 3 days).,0.0
+fact_chart_daily,movement,text,"Up, Down, Same, New entry, Re-entry or Chart start.",Chart start
+fact_chart_daily,rank_tier,text,"Rank group of the row: Top 10, 11-20 or 21-50.",Top 10
+fact_chart_daily,in_top10,true/false,True when position is 10 or better.,True
+fact_chart_daily,in_top20,true/false,True when position is 20 or better.,True
+fact_chart_daily,is_number_one,true/false,True when position = 1.,True
+fact_chart_daily,chart_day_number,whole number,Chart days accumulated so far by the song (1 = debut day).,1
+fact_chart_daily,days_in_stint,whole number,Day number inside the current run (1 = first day of the run).,1
+fact_chart_daily,is_stint_start,true/false,True on the first day of a run (an entry or re-entry).,True
+fact_chart_daily,is_stint_end,true/false,True on the last day of a run.,False
+fact_chart_daily,is_explicit,true/false,Explicit-content flag.,False
+dim_track,track_id,whole number,"Unique id of a song after resolving title and artist-credit variants (Phase 1, Step 6.5).",1
+dim_track,track_label,text,Readable name: song title + 'by' + artist credit. Unique per song.,Ella Baila Sola by Eslabon Armado
+dim_track,song_clean,text,"Cleaned song title (single spaces, one spelling per song).",Ella Baila Sola
+dim_track,artist_credit,text,Fullest artist credit seen for the song; artists joined with ' & '.,Eslabon Armado
+dim_track,primary_artist,text,First (lead) artist of the credit.,Eslabon Armado
+dim_track,artist_count,whole number,Number of artists in the credit.,1
+dim_track,is_collab,true/false,True when the song has two or more artists.,False
+dim_track,artists_all,text,All artists of the credit joined with ' | ' (easy to split into a list).,Eslabon Armado
+dim_track,days_on_chart,whole number,KPI Days on Chart: number of snapshots on which the song appeared.,170
+dim_track,first_seen,date,First date the song appeared.,2024-05-18 00:00:00
+dim_track,last_seen,date,Last date the song appeared.,2025-01-03 00:00:00
+dim_track,span_days,whole number,"Calendar days from first to last appearance, inclusive.",231
+dim_track,span_snapshots,whole number,"Snapshots from first to last appearance, inclusive.",231
+dim_track,presence_ratio,decimal number,"days_on_chart divided by span_snapshots: 1.0 = never left the chart, near 0 = many short visits.",0.736
+dim_track,n_runs,whole number,Number of separate chart runs.,5
+dim_track,longest_run_days,whole number,Length of the longest unbroken run in days.,164
+dim_track,avg_rank,decimal number,KPI Average Rank: mean position over the song's chart days (lower is better).,18.96
+dim_track,median_rank,decimal number,Median position.,18.5
+dim_track,best_rank,whole number,KPI Best Rank Achieved: the smallest position reached.,1
+dim_track,worst_rank,whole number,Largest (worst) position reached.,50
+dim_track,rank_volatility_index,decimal number,KPI Rank Volatility Index: standard deviation of position (empty for songs with a single day).,15.26
+dim_track,avg_daily_rank_move,decimal number,Average absolute day-to-day rank change (day-to-day jumpiness).,2.18
+dim_track,days_in_top10,whole number,Days in the Top 10.,69
+dim_track,days_in_top20,whole number,Days in the Top 20.,95
+dim_track,days_at_number_one,whole number,Days at #1.,26
+dim_track,chart_points,whole number,Total chart points earned by the song (sum of 51 - position).,5446
+dim_track,entry_rank,whole number,Position on the first chart day.,1
+dim_track,exit_rank,whole number,Position on the last chart day.,46
+dim_track,peak_date,date,First date the best rank was reached.,2024-05-18 00:00:00
+dim_track,days_to_peak,whole number,Calendar days from first appearance to peak_date.,0
+dim_track,avg_popularity,decimal number,Average of popularity_clean.,89.68
+dim_track,peak_popularity,decimal number,Highest popularity_clean.,94.0
+dim_track,popularity_std,decimal number,Standard deviation of popularity_clean (lower = more stable).,2.91
+dim_track,on_chart_at_window_start,true/false,True when the song was already on the chart on the first snapshot (history before our data is unknown).,True
+dim_track,on_chart_at_window_end,true/false,True when the song is still on the chart on the last snapshot (its run is not finished).,False
+dim_track,run_status,text,"Complete history observed, Already on chart at start, Still on chart at end, or On chart the whole window.",Already on chart at start
+dim_track,longevity_class,text,"Flash (1-3 days), Short (4-14), Medium (15-60), Long (61-180) or Evergreen (181+).",Long (61-180)
+dim_track,reached_top10,true/false,True when the song reached position 10 or better.,True
+dim_track,reached_number_one,true/false,True when the song reached #1.,True
+dim_track,duration_ms,whole number,Song duration in milliseconds. Song level: the most frequent value across the song's chart days (ties: most recent).,165671
+dim_track,duration_min,decimal number,Song duration in minutes (the brief's 'Duration in minutes'). Song level: the most frequent value across the song's chart days (ties: most recent).,2.761
+dim_track,album_type,text,"Album type from the source: single, album or compilation. Song level: the most frequent value across the song's chart days (ties: most recent).",album
+dim_track,release_format,text,"Single, or Album (album and compilation together). Song level: the most frequent value across the song's chart days (ties: most recent).",Album
+dim_track,total_tracks,whole number,Number of tracks on the release. Song level: the most frequent value across the song's chart days (ties: most recent).,16
+dim_track,release_size_band,text,"Release size group: 1 track, 2-3, 4-7, 8-15, 16-40 or 41+. Song level: the most frequent value across the song's chart days (ties: most recent).",16-40
+dim_track,is_explicit,true/false,Explicit-content flag. Song level: the most frequent value across the song's chart days (ties: most recent).,False
+dim_track,album_cover_url,text,Link to the song's latest artwork image.,https://i.scdn.co/image/ab67616d0000b273dfddf
+dim_artist,artist_name,text,Individual artist name (standardized spelling).,Taylor Swift
+dim_artist,unique_tracks,whole number,KPI: number of unique songs the artist is credited on.,96
+dim_artist,unique_tracks_as_primary,whole number,Songs on which the artist is the lead artist.,96
+dim_artist,chart_slot_days,whole number,Song-days on the chart (three songs on one day count as three).,2015
+dim_artist,chart_slot_days_primary,whole number,Song-days where the artist is the lead artist.,2015
+dim_artist,days_present,whole number,KPI: distinct dates on which the artist had at least one song on the chart.,438
+dim_artist,first_seen,date,First date the artist had a song on the chart.,2024-05-18 00:00:00
+dim_artist,last_seen,date,Last date the artist had a song on the chart.,2025-08-23 00:00:00
+dim_artist,avg_rank,decimal number,Mean position over all of the artist's song-days (every credited artist counts).,24.55
+dim_artist,best_rank,whole number,Best position reached by any of the artist's songs.,1
+dim_artist,days_in_top10,whole number,Song-days the artist had in the Top 10.,428
+dim_artist,days_at_number_one,whole number,Song-days the artist had at #1.,34
+dim_artist,chart_points,whole number,Total chart points of all songs the artist is credited on.,53293
+dim_artist,chart_points_primary,whole number,Chart points of songs where the artist is the lead artist.,53293
+dim_artist,dominance_index_primary,decimal number,KPI Artist Dominance Index (%): share of all chart points earned as lead artist; adds up to 100.,7.5312
+dim_artist,dominance_index_all_credits,decimal number,Artist Dominance Index (%) when every credited artist receives the song's full points; adds up to more than 100.,7.5312
+dim_artist,share_of_slots_primary_pct,decimal number,"Share (%) of all 27,750 chart slots held as lead artist.",7.2613
+bridge_track_artist,track_id,whole number,"Unique id of a song after resolving title and artist-credit variants (Phase 1, Step 6.5).",1
+bridge_track_artist,artist_name,text,Individual artist name (standardized spelling).,Eslabon Armado
+bridge_track_artist,artist_order,whole number,Position of the artist inside the credit (1 = lead).,1
+bridge_track_artist,is_primary,true/false,True for the lead artist.,True
+dim_date,date,date,"Calendar date of the playlist snapshot, kept exactly as provided in the source file.",2024-05-18 00:00:00
+dim_date,date_key,whole number,"Date as a whole number yyyymmdd, e.g. 20240518 (handy join key).",20240518
+dim_date,has_snapshot,true/false,True if the playlist was captured on this calendar day; False for the 4 missing days.,True
+dim_date,snapshot_index,whole number,"Order number of the snapshot: 1 for the first date, 555 for the last. Missing calendar days get no number.",1
+dim_date,days_since_prev_snapshot,whole number,"Calendar days since the previous snapshot (1 normally, 2 right after a missing day; empty for the first).",1
+dim_date,year,whole number,Calendar year.,2024
+dim_date,month,whole number,Calendar month number (1-12).,5
+dim_date,month_name,text,Calendar month name.,May
+dim_date,year_month,text,"Year and month as text, e.g. 2024-05 (sorts correctly).",2024-05
+dim_date,quarter,whole number,Calendar quarter (1-4).,2
+dim_date,iso_week,whole number,ISO week number of the year.,20
+dim_date,day_of_week,whole number,"Day of the week, Monday = 1 ... Sunday = 7.",6
+dim_date,day_name,text,Name of the weekday.,Saturday
+dim_date,is_weekend,true/false,True for Saturday and Sunday.,True
+dim_date,season,text,"Northern-hemisphere season: Winter (Dec-Feb), Spring (Mar-May), Summer (Jun-Aug), Fall (Sep-Nov).",Spring
+daily_summary,date,date,"Calendar date of the playlist snapshot, kept exactly as provided in the source file.",2024-05-18 00:00:00
+daily_summary,snapshot_index,whole number,"Order number of the snapshot: 1 for the first date, 555 for the last. Missing calendar days get no number.",1
+daily_summary,unique_tracks,whole number,Distinct songs on the date (always 50).,50
+daily_summary,new_entries,whole number,Songs appearing in our data for the first time on this date.,0
+daily_summary,re_entries,whole number,Songs returning after being off the chart.,0
+daily_summary,exits,whole number,Songs that were on the previous snapshot but are not on this one.,0
+daily_summary,turnover_rate_pct,decimal number,(new_entries + re_entries) / 50 x 100.,0.0
+daily_summary,is_high_turnover_day,true/false,True when entries exceed Tukey's upper far-out fence (Q3 + 3 x IQR).,False
+daily_summary,avg_popularity,decimal number,Average popularity_clean of the 50 songs on the date.,90.06
+daily_summary,median_popularity,decimal number,Median popularity_clean of the 50 songs.,90.0
+daily_summary,explicit_share,decimal number,KPI Explicit Content Share: share of the 50 rows flagged explicit (0-1).,0.52
+daily_summary,collab_share,decimal number,Share of the 50 rows that are collaborations (0-1).,0.18
+daily_summary,single_share,decimal number,Share of the 50 rows that are singles (0-1).,0.38
+daily_summary,avg_duration_min,decimal number,Average song duration in minutes.,3.263
+daily_summary,unique_primary_artists,whole number,Distinct lead artists on the date.,36

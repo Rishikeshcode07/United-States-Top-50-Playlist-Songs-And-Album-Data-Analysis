@@ -1,0 +1,12 @@
+﻿kpi,where_to_find_it,formula,interpretation
+Days on Chart,dim_track.days_on_chart,Count of snapshots on which the song appears,Longevity indicator
+Average Rank,dim_track.avg_rank,Mean of position over the song's chart days,Overall performance; lower is better
+Best Rank Achieved,dim_track.best_rank,Minimum of position,Peak performance
+Rank Volatility Index,dim_track.rank_volatility_index,Standard deviation of position over the song's chart days,Stability: higher = less stable
+Average Daily Rank Move,dim_track.avg_daily_rank_move,Mean of |rank_change| from one snapshot to the next,Day-to-day jumpiness
+Popularity Score Trend,playlist_daily.popularity_trend_7d,7-day rolling mean of popularity_clean inside a run,Listener engagement over time
+Artist Dominance Index,dim_artist.dominance_index_primary,Artist's chart points / all chart points x 100; points = 51 - position,Market presence; adds up to 100%
+Explicit Content Share,daily_summary.explicit_share,Share of the 50 daily rows with is_explicit = True,Content strategy
+Presence Ratio,dim_track.presence_ratio,days_on_chart / snapshots between first and last appearance,1.0 = never left the chart
+Turnover Rate,daily_summary.turnover_rate_pct,(new entries + re-entries) / 50 x 100,How much of the chart changed that day
+Longevity Class,dim_track.longevity_class,Flash / Short / Medium / Long / Evergreen by days_on_chart,Segmentation of songs

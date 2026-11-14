@@ -1,0 +1,9 @@
+﻿step,rule,rows_before,rows_after,rows_affected,note
+1.6,Calendar kept exactly as provided; evidence suggests it is one year ahead of real-world dates,27800,27800,0,Median gap between real release and first chart appearance is about 367 days; relative analysis is unaffected
+2.1,Keep the latest block of a double-snapshot date (2025-03-01),27800,27750,50,Decision #2 of the Phase 1 log
+2.2,"Added snapshot_index and days_since_prev_snapshot (time counted in snapshots, no invented rows)",27750,27750,0,"Decision #3: 4 missing calendar days are kept as gaps, never filled"
+2.3,"Added chart-run columns (stint_no, stint_key, days_in_stint, stint_length, is_stint_start, is_stint_end)",27750,27750,0,A run = consecutive snapshots; any absence starts a new run
+2.4,"One title, one fullest artist credit and one label per song",27750,27750,1137,Rows whose song had more than one credit before the unification
+2.5,Popularity zeros treated as missing and repaired (run interpolation -> song median -> unfilled),27750,27750,189,original column kept; method recorded in popularity_fill_method; unfilled rows stay empty
+2.6,Added release_format (Single/Album) and release_size_band,27750,27750,27750,album_type kept unchanged; compilation merged into Album only inside release_format
+3.x,"Added daily features (calendar, rank tiers, movement, chart life, rolling trend)",27750,27750,27750,No rows removed; only new columns

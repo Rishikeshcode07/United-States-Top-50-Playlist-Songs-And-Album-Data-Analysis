@@ -1,0 +1,32 @@
+dimension,check,rule,affected,total,unit,pct_affected,status,action
+Coverage,Exactly 50 rows per date,Each snapshot has 50 rows,1,555,days,0.18,WARN,Investigate (Step 5.2) and keep one snapshot per date
+Coverage,No missing calendar days,Every day between first and last date has a snapshot,4,559,days,0.72,WARN,Do not invent rows; make time features gap-aware
+Uniqueness,A song keeps one artist credit over time,Same title + shared artist + never on the chart together = the same song,29,973,title+credit pairs,2.98,WARN,Merged into one track_id (Step 6.5)
+Uniqueness,No identical rows,No row is an exact copy of another row,10,27800,rows,0.04,WARN,Resolved by keeping one snapshot per date
+Uniqueness,No rank repeated within a date,"Each (date, position) pair is unique",50,27800,rows,0.18,WARN,Keep one snapshot per date (Step 5.2)
+Uniqueness,No song repeated within a date,"Each (date, song, artist) appears once per date",48,27800,rows,0.17,WARN,Resolved by keeping one snapshot per date
+Validity,No disguised-missing popularity (0),A song inside the Top 50 should not have popularity 0,189,27800,rows,0.68,WARN,Flag now; Phase 2 treats as missing and fills from the track's own history
+Validity,album_type is Single or Album,"album_type in {single, album}",42,27800,rows,0.15,WARN,Keep as its own category; group with 'album' only where a test needs bigger groups
+Consistency,Titles with several artist credits,A title is expected to carry one artist credit,34,938,titles,3.62,INFO,Decide per title: same song or different songs (below)
+Consistency,album_cover_url is stable per track,A track keeps one value across all the days it appears,183,944,tracks,19.39,INFO,Phase 2: pick a rule (most recent value) when building one row per track
+Consistency,album_type is stable per track,A track keeps one value across all the days it appears,51,944,tracks,5.4,INFO,Phase 2: pick a rule (most recent value) when building one row per track
+Consistency,duration_ms is stable per track,A track keeps one value across all the days it appears,17,944,tracks,1.8,INFO,Phase 2: pick a rule (most recent value) when building one row per track
+Consistency,is_explicit is stable per track,A track keeps one value across all the days it appears,12,944,tracks,1.27,INFO,Phase 2: pick a rule (most recent value) when building one row per track
+Consistency,total_tracks is stable per track,A track keeps one value across all the days it appears,61,944,tracks,6.46,INFO,Phase 2: pick a rule (most recent value) when building one row per track
+Completeness,Every date has all ranks 1-50,Each date contains 50 distinct ranks,0,555,days,0.0,PASS,Investigate the day
+Completeness,No blank or placeholder text,No empty strings or N/A-style values in text columns,0,27800,rows,0.0,PASS,Treat as missing
+Completeness,No missing values (NaN) in any column,Every cell is filled,0,27800,rows,0.0,PASS,"Decide per column: drop, fill or flag"
+Structure,No expected column is missing,All 10 columns from the brief exist,0,10,columns,0.0,PASS,Stop and re-export the data
+Structure,No unexpected extra column,Only the 10 columns from the brief exist,0,10,columns,0.0,PASS,Review the extra columns
+Validity,Dates parse with DD-MM-YYYY,Every date matches the DD-MM-YYYY pattern,0,27800,rows,0.0,PASS,Inspect the raw text of the failing rows
+Validity,Duration between 30 s and 20 min,"30,000 <= duration_ms <= 1,200,000",0,27800,rows,0.0,PASS,Check units (seconds vs milliseconds)
+Validity,Popularity inside 0-100,0 <= popularity <= 100,0,27800,rows,0.0,PASS,Drop or correct the rows
+Validity,Rank inside 1-50,1 <= position <= 50,0,27800,rows,0.0,PASS,Drop or correct the rows
+Validity,Rank is a whole number,position has no decimals,0,27800,rows,0.0,PASS,Drop or correct the rows
+Validity,album_cover_url looks like a link,starts with http:// or https://,0,27800,rows,0.0,PASS,Treat as missing
+Validity,duration_ms is numeric,Every value can be read as a number,0,27800,rows,0.0,PASS,Inspect the raw text of the failing rows
+Validity,is_explicit is True/False,boolean,0,27800,rows,0.0,PASS,Map text values to True/False
+Validity,popularity is numeric,Every value can be read as a number,0,27800,rows,0.0,PASS,Inspect the raw text of the failing rows
+Validity,position is numeric,Every value can be read as a number,0,27800,rows,0.0,PASS,Inspect the raw text of the failing rows
+Validity,total_tracks is a whole number >= 1,total_tracks >= 1,0,27800,rows,0.0,PASS,Drop or correct the rows
+Validity,total_tracks is numeric,Every value can be read as a number,0,27800,rows,0.0,PASS,Inspect the raw text of the failing rows
