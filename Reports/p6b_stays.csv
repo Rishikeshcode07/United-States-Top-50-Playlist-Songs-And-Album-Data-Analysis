@@ -1,0 +1,895 @@
+﻿track_id,track_label,primary_artist,entry_date,entry_snapshot,entry_rank,debut_band,drop_size,total_tracks,is_single,is_explicit,is_collab,duration_min,entry_pop,artist_prior_slot_days,artist_prior_mean_pop,artist_on_chart_prev_day,stay,exit_seen,last_snapshot,short_breaks,first_run_days,returned,risk_third_arrival,risk_third_after_3_days
+51,Princess Diana (with Nicki Minaj) by Ice Spice & Nicki Minaj,Ice Spice,2024-05-19,1,49,41 to 50,1,1,1,1,1,2.869,87.0,1.0,96.0,1,2,True,2,0,2,False,highest risk,
+52,Favorite Song by Toosii,Toosii,2024-05-19,1,50,41 to 50,1,1,1,0,0,3.477,86.0,0.0,,0,2,True,2,0,2,False,highest risk,
+53,WHERE SHE GOES by Bad Bunny,Bad Bunny,2024-05-21,3,1,1 to 10,1,1,1,1,0,3.862,82.0,3.0,99.66666666666667,1,89,True,99,3,69,True,lowest risk,middle
+54,Mourning by Post Malone,Post Malone,2024-05-21,3,9,1 to 10,1,1,1,1,0,2.464,73.0,3.0,90.0,1,7,True,9,0,7,True,lowest risk,highest risk
+55,Say Yes To Heaven by Lana Del Rey,Lana Del Rey,2024-05-21,3,10,1 to 10,1,2,1,0,0,3.486,77.0,0.0,,0,15,True,21,1,7,False,lowest risk,highest risk
+56,Favorite Song (feat. Future) [Toxic Version] by Toosii & Future,Toosii,2024-05-21,3,40,31 to 40,1,1,1,1,1,3.477,52.0,2.0,86.0,1,4,True,6,0,4,False,highest risk,highest risk
+57,TQM by Fuerza Regida,Fuerza Regida,2024-05-22,4,33,31 to 40,1,1,1,1,0,2.649,75.0,0.0,,0,68,True,71,0,68,False,middle,lowest risk
+58,AMERICA HAS A PROBLEM (feat. Kendrick Lamar) by Beyoncé & Kendrick Lamar,Beyoncé,2024-05-22,4,40,31 to 40,1,1,1,1,1,4.349,65.0,4.0,84.0,1,10,True,16,1,7,False,highest risk,middle
+59,Karma (feat. Ice Spice) by Taylor Swift,Taylor Swift,2024-05-28,10,1,1 to 10,3,23,0,1,0,3.358,77.0,31.0,91.25806451612904,1,6,True,16,1,5,False,lowest risk,highest risk
+60,Hits Different by Taylor Swift,Taylor Swift,2024-05-28,10,2,1 to 10,3,23,0,1,0,3.908,77.0,31.0,91.25806451612904,1,12,True,22,1,9,False,middle,middle
+61,Snow On The Beach (feat. More Lana Del Rey) by Taylor Swift,Taylor Swift,2024-05-28,10,4,1 to 10,3,23,0,1,0,3.832,77.0,31.0,91.25806451612904,1,3,True,12,0,3,False,middle,highest risk
+62,War Bout It (feat. 21 Savage) by Lil Durk,Lil Durk,2024-05-28,10,13,11 to 20,3,21,0,1,0,2.67,74.0,10.0,87.2,1,3,True,12,0,3,False,highest risk,highest risk
+63,Stand By Me (feat. Morgan Wallen) by Lil Durk,Lil Durk,2024-05-28,10,20,11 to 20,3,21,0,1,0,3.653,73.0,10.0,87.2,1,31,True,44,2,28,False,highest risk,middle
+64,Dance The Night (From Barbie The Album) by Dua Lipa,Dua Lipa,2024-05-28,10,31,31 to 40,1,1,1,0,0,2.943,75.0,0.0,,0,8,True,22,1,1,True,highest risk,
+65,Pelle Coat by Lil Durk,Lil Durk,2024-05-28,10,41,41 to 50,3,21,0,1,0,4.229,71.0,10.0,87.2,1,1,True,10,0,1,False,highest risk,
+66,Whiskey Glasses by Morgan Wallen,Morgan Wallen,2024-05-29,11,50,41 to 50,1,14,0,0,0,3.906,84.0,51.0,86.37254901960785,1,3,True,13,0,3,True,middle,middle
+67,The Kind of Love We Make by Luke Combs,Luke Combs,2024-05-30,12,49,41 to 50,1,12,0,0,0,3.74,83.0,12.0,88.91666666666667,1,2,True,13,0,2,True,highest risk,
+68,Bye by Peso Pluma,Peso Pluma,2024-06-02,15,36,31 to 40,1,1,1,1,0,3.55,81.0,75.0,95.46666666666667,1,33,True,50,2,30,False,middle,middle
+69,"Peso Pluma: Bzrp Music Sessions, Vol. 55 by Bizarrap & Peso Pluma",Bizarrap,2024-06-03,16,11,11 to 20,1,1,1,1,1,3.139,82.0,81.0,95.27160493827161,1,46,True,67,2,29,False,middle,lowest risk
+70,Popular (with Playboi Carti & Madonna) by The Weeknd & Playboi Carti & Madonna,The Weeknd,2024-06-04,17,3,1 to 10,1,36,0,1,1,3.591,75.0,17.0,91.0,1,6,True,22,0,6,True,lowest risk,middle
+71,"Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset) by Metro Boomin",Metro Boomin,2024-06-04,17,14,11 to 20,5,13,0,0,0,3.862,73.0,46.0,92.21739130434783,1,28,True,44,0,28,False,middle,middle
+72,"Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie) by Metro Boomin",Metro Boomin,2024-06-04,17,18,11 to 20,5,13,0,0,0,3.658,72.0,46.0,92.21739130434783,1,31,True,51,2,28,False,highest risk,middle
+73,"All The Way Live (Spider-Man: Across the Spider-Verse) (Metro Boomin & Future, Lil Uzi Vert) by Metro Boomin",Metro Boomin,2024-06-04,17,27,21 to 30,5,13,0,0,0,4.087,71.0,46.0,92.21739130434783,1,6,True,22,0,6,False,highest risk,highest risk
+74,"Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee) by Metro Boomin",Metro Boomin,2024-06-04,17,31,31 to 40,5,13,0,0,0,4.267,72.0,46.0,92.21739130434783,1,28,True,44,0,28,False,highest risk,middle
+75,Danger (Spider) (Offset & JID) by Metro Boomin,Metro Boomin,2024-06-04,17,49,41 to 50,5,13,0,0,0,3.421,70.0,46.0,92.21739130434783,1,1,True,17,0,1,False,highest risk,
+76,Sunflower - Spider-Man: Into the Spider-Verse by Post Malone,Post Malone,2024-06-05,18,48,41 to 50,1,17,0,0,0,2.626,85.0,11.0,83.0,0,44,True,71,4,27,False,highest risk,highest risk
+77,Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray) by Metro Boomin,Metro Boomin,2024-06-06,19,40,31 to 40,1,13,0,0,0,3.158,77.0,59.0,89.45762711864407,1,25,True,43,0,25,False,highest risk,lowest risk
+78,Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series) by The Weeknd & Playboi Carti & Madonna,The Weeknd,2024-06-10,23,23,21 to 30,1,1,1,1,1,3.591,86.0,25.0,88.64,1,3,True,25,0,3,False,middle,highest risk
+79,Dial Drunk by Noah Kahan,Noah Kahan,2024-06-11,24,3,1 to 10,6,21,0,1,0,3.564,71.0,0.0,,0,20,True,44,1,14,True,middle,lowest risk
+80,Take Two by BTS,BTS,2024-06-11,24,17,11 to 20,1,1,1,0,0,3.833,83.0,0.0,,0,1,True,24,0,1,False,lowest risk,
+81,No Complaints by Noah Kahan,Noah Kahan,2024-06-11,24,24,21 to 30,6,21,0,0,0,3.424,65.0,0.0,,0,1,True,24,0,1,False,highest risk,
+82,Who Told You (feat. Drake) by J Hus & Drake,J Hus,2024-06-11,24,31,31 to 40,1,1,1,0,1,3.482,77.0,52.0,90.25,1,1,True,24,0,1,False,middle,
+83,Call Your Mom by Noah Kahan,Noah Kahan,2024-06-11,24,35,31 to 40,6,21,0,0,0,4.645,66.0,0.0,,0,1,True,24,0,1,False,highest risk,
+84,Paul Revere by Noah Kahan,Noah Kahan,2024-06-11,24,36,31 to 40,6,21,0,0,0,3.555,65.0,0.0,,0,1,True,24,0,1,False,highest risk,
+85,You’re Gonna Go Far by Noah Kahan,Noah Kahan,2024-06-11,24,39,31 to 40,6,21,0,1,0,4.773,65.0,0.0,,0,1,True,24,0,1,False,highest risk,
+86,"Your Needs, My Needs by Noah Kahan",Noah Kahan,2024-06-11,24,47,41 to 50,6,21,0,0,0,3.465,64.0,0.0,,0,1,True,24,0,1,False,highest risk,
+87,Attention by Doja Cat,Doja Cat,2024-06-18,31,3,1 to 10,1,1,1,1,0,4.617,74.0,0.0,,0,14,True,44,0,14,False,lowest risk,lowest risk
+88,back to the moon by Gunna,Gunna,2024-06-18,31,18,11 to 20,2,15,0,1,0,3.222,69.0,0.0,,0,2,True,32,0,2,False,middle,
+89,back at it by Gunna,Gunna,2024-06-18,31,44,41 to 50,2,15,0,1,0,3.103,67.0,0.0,,0,1,True,31,0,1,False,highest risk,
+90,fukumean by Gunna,Gunna,2024-06-19,32,40,31 to 40,1,15,0,1,0,2.084,72.0,2.0,68.0,1,236,True,276,2,188,False,highest risk,lowest risk
+91,Oh U Went (feat. Drake) by Young Thug,Young Thug,2024-06-25,38,3,1 to 10,10,15,0,1,0,3.089,74.0,0.0,,0,8,True,51,1,7,False,lowest risk,middle
+92,Parade on Cleveland (feat. Drake) by Young Thug,Young Thug,2024-06-25,38,4,1 to 10,10,15,0,1,0,3.804,73.0,0.0,,0,1,True,38,0,1,False,lowest risk,
+93,Barbie World (with Aqua) [From Barbie The Album] by Nicki Minaj & Ice Spice & Aqua,Nicki Minaj,2024-06-25,38,6,1 to 10,1,1,1,1,1,1.829,74.0,40.0,94.95,1,104,True,141,0,104,False,lowest risk,lowest risk
+94,LADY GAGA by Peso Pluma,Peso Pluma,2024-06-25,38,7,1 to 10,4,17,0,1,0,3.548,77.0,229.0,94.39737991266375,1,150,True,190,3,34,False,lowest risk,lowest risk
+95,LUNA by Peso Pluma,Peso Pluma,2024-06-25,38,8,1 to 10,4,17,0,1,0,2.726,76.0,229.0,94.39737991266375,1,14,True,51,0,14,False,lowest risk,lowest risk
+96,SABOR FRESA by Fuerza Regida,Fuerza Regida,2024-06-25,38,10,1 to 10,1,1,1,1,0,2.608,76.0,34.0,90.05882352941177,1,41,True,85,2,34,True,lowest risk,lowest risk
+97,"Wit Da Racks (feat. 21 Savage, Travis Scott & Yak Gotti) by Young Thug",Young Thug,2024-06-25,38,13,11 to 20,10,15,0,1,0,3.774,71.0,0.0,,0,1,True,38,0,1,False,middle,
+98,VVS by Peso Pluma,Peso Pluma,2024-06-25,38,16,11 to 20,4,14,0,1,0,2.711,73.0,229.0,94.39737991266375,1,4,True,41,0,4,False,middle,highest risk
+99,Cars Bring Me Out (feat. Future) by Young Thug,Young Thug,2024-06-25,38,17,11 to 20,10,15,0,1,0,3.382,71.0,0.0,,0,1,True,38,0,1,False,middle,
+100,Money On The Dresser by Young Thug,Young Thug,2024-06-25,38,23,21 to 30,10,15,0,1,0,2.217,70.0,0.0,,0,1,True,38,0,1,False,middle,
+101,Doomsday (with Juice WRLD & Cordae) by Lyrical Lemonade & Juice WRLD & Cordae,Lyrical Lemonade,2024-06-25,38,28,21 to 30,1,1,1,1,1,2.516,70.0,0.0,,0,7,True,44,0,7,False,middle,highest risk
+102,Hellcat Kenny (feat. Lil Uzi Vert) by Young Thug,Young Thug,2024-06-25,38,31,31 to 40,10,15,0,1,0,2.574,69.0,0.0,,0,1,True,38,0,1,False,highest risk,
+103,Want Me Dead (feat. 21 Savage) by Young Thug,Young Thug,2024-06-25,38,33,31 to 40,10,15,0,1,0,3.245,69.0,0.0,,0,1,True,38,0,1,False,highest risk,
+104,Gucci Grocery Bag by Young Thug,Young Thug,2024-06-25,38,36,31 to 40,10,15,0,1,0,2.919,69.0,0.0,,0,1,True,38,0,1,False,highest risk,
+105,Uncle M by Young Thug,Young Thug,2024-06-25,38,38,31 to 40,10,15,0,1,0,2.333,69.0,0.0,,0,1,True,38,0,1,False,highest risk,
+106,ROSA PASTEL by Peso Pluma,Peso Pluma,2024-06-25,38,48,41 to 50,4,14,0,1,0,3.404,68.0,229.0,94.39737991266375,1,1,True,38,0,1,False,highest risk,
+107,Abracadabra (feat. Travis Scott) by Young Thug,Young Thug,2024-06-25,38,49,41 to 50,10,15,0,1,0,4.129,69.0,0.0,,0,1,True,38,0,1,False,highest risk,
+108,Area Codes by Kaliii,Kaliii,2024-06-30,43,24,21 to 30,1,1,1,1,0,2.322,91.0,0.0,,0,9,True,51,0,9,True,lowest risk,highest risk
+109,vampire by Olivia Rodrigo,Olivia Rodrigo,2024-07-02,45,1,1 to 10,1,12,0,1,0,3.662,85.0,0.0,,0,258,True,314,5,146,False,lowest risk,lowest risk
+110,Flooded The Face by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,2,1 to 10,24,26,0,1,0,3.212,79.0,28.0,89.89285714285714,0,27,True,71,0,27,False,highest risk,middle
+111,Suicide Doors by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,3,1 to 10,24,26,0,1,0,4.318,77.0,28.0,89.89285714285714,0,3,True,47,0,3,False,highest risk,highest risk
+112,Aye (feat. Travis Scott) by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,4,1 to 10,24,26,0,1,0,3.464,77.0,28.0,89.89285714285714,0,3,True,47,0,3,False,highest risk,highest risk
+113,Endless Fashion (feat. Nicki Minaj) by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,6,1 to 10,24,26,0,1,0,3.612,75.0,28.0,89.89285714285714,0,7,True,51,0,7,False,highest risk,middle
+114,Crush Em by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,7,1 to 10,24,26,0,1,0,2.76,75.0,28.0,89.89285714285714,0,3,True,47,0,3,False,highest risk,highest risk
+115,x2 by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,8,1 to 10,24,26,0,1,0,3.905,74.0,28.0,89.89285714285714,0,3,True,47,0,3,False,highest risk,highest risk
+116,I Gotta by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,9,1 to 10,24,26,0,1,0,2.884,74.0,28.0,89.89285714285714,0,3,True,47,0,3,False,highest risk,highest risk
+117,Amped by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,10,1 to 10,24,26,0,1,0,2.884,74.0,28.0,89.89285714285714,0,2,True,46,0,2,False,highest risk,
+118,Spin Again by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,13,11 to 20,24,26,0,1,0,1.629,73.0,28.0,89.89285714285714,0,2,True,46,0,2,False,highest risk,
+119,Died and Came Back by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,14,11 to 20,24,26,0,1,0,3.011,73.0,28.0,89.89285714285714,0,1,True,45,0,1,False,highest risk,
+120,Nakamura by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,16,11 to 20,24,26,0,1,0,3.298,72.0,28.0,89.89285714285714,0,2,True,46,0,2,False,highest risk,
+121,"Mama, I’m Sorry by Lil Uzi Vert",Lil Uzi Vert,2024-07-02,45,18,11 to 20,24,26,0,1,0,3.516,72.0,28.0,89.89285714285714,0,2,True,46,0,2,False,highest risk,
+122,Pluto to Mars by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,19,11 to 20,24,26,0,1,0,4.108,72.0,28.0,89.89285714285714,0,3,True,47,0,3,False,highest risk,highest risk
+123,That Fiya by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,20,11 to 20,24,26,0,1,0,2.581,72.0,28.0,89.89285714285714,0,1,True,45,0,1,False,highest risk,
+124,All Alone by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,22,21 to 30,24,26,0,1,0,3.71,72.0,28.0,89.89285714285714,0,1,True,45,0,1,False,highest risk,
+125,Patience (feat. Don Toliver) by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,23,21 to 30,24,26,0,0,0,4.374,19.0,28.0,89.89285714285714,0,2,True,46,0,2,False,highest risk,
+126,Werewolf (feat. Bring Me The Horizon) by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,24,21 to 30,24,26,0,1,0,3.998,71.0,28.0,89.89285714285714,0,3,True,47,0,3,False,highest risk,highest risk
+127,CS by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,27,21 to 30,24,26,0,0,0,3.534,20.0,28.0,89.89285714285714,0,1,True,45,0,1,False,highest risk,
+128,Fire Alarm by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,28,21 to 30,24,26,0,1,0,3.086,70.0,28.0,89.89285714285714,0,1,True,45,0,1,False,highest risk,
+129,MOJABI GHOST by Tainy,Tainy,2024-07-02,45,30,21 to 30,1,19,0,1,0,3.869,78.0,0.0,,0,8,True,58,1,7,False,middle,lowest risk
+130,Zoom (Bonus Track) by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,32,31 to 40,24,26,0,1,0,2.767,70.0,28.0,89.89285714285714,0,1,True,45,0,1,False,highest risk,
+131,Days Come and Go by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,40,31 to 40,24,26,0,1,0,4.295,69.0,28.0,89.89285714285714,0,1,True,45,0,1,False,highest risk,
+132,The End (feat. BABYMETAL) by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,43,41 to 50,24,26,0,0,0,3.121,25.0,28.0,89.89285714285714,0,1,True,45,0,1,False,highest risk,
+133,Of Course (Bonus Track) by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,45,41 to 50,24,26,0,1,0,3.483,68.0,28.0,89.89285714285714,0,1,True,45,0,1,False,highest risk,
+134,Rehab by Lil Uzi Vert,Lil Uzi Vert,2024-07-02,45,48,41 to 50,24,26,0,1,0,4.085,68.0,28.0,89.89285714285714,0,1,True,45,0,1,False,highest risk,
+135,TULUM by Peso Pluma,Peso Pluma,2024-07-03,46,47,41 to 50,1,17,0,1,0,3.49,77.0,284.0,92.9524647887324,1,21,True,71,1,6,True,middle,middle
+136,Party In The U.S.A. by Miley Cyrus,Miley Cyrus,2024-07-05,48,4,1 to 10,1,7,0,0,0,3.368,81.0,48.0,91.0,1,3,True,50,0,3,True,lowest risk,lowest risk
+137,Born in the U.S.A. by Bruce Springsteen,Bruce Springsteen,2024-07-05,48,8,1 to 10,1,12,0,0,0,4.645,79.0,0.0,,0,2,True,49,0,2,True,lowest risk,
+138,Chicken Fried by Zac Brown Band,Zac Brown Band,2024-07-05,48,10,1 to 10,1,12,0,0,0,3.969,83.0,0.0,,0,3,True,50,0,3,True,lowest risk,highest risk
+139,American Girl by Tom Petty and the Heartbreakers,Tom Petty and the Heartbreakers,2024-07-05,48,11,11 to 20,1,10,0,0,0,3.579,77.0,0.0,,0,2,True,49,0,2,True,lowest risk,
+140,American Pie by Don McLean,Don McLean,2024-07-05,48,15,11 to 20,1,10,0,0,0,8.615,82.0,0.0,,0,2,True,49,0,2,True,lowest risk,
+141,"Courtesy Of The Red, White And Blue (The Angry American) by Toby Keith",Toby Keith,2024-07-05,48,17,11 to 20,1,13,0,0,0,3.259,74.0,0.0,,0,2,True,49,0,2,True,lowest risk,
+142,Firework by Katy Perry,Katy Perry,2024-07-05,48,18,11 to 20,1,12,0,0,0,3.798,75.0,0.0,,0,2,True,49,0,2,True,lowest risk,
+143,Sweet Home Alabama by Lynyrd Skynyrd,Lynyrd Skynyrd,2024-07-05,48,26,21 to 30,1,11,0,1,0,4.73,86.0,0.0,,0,2,True,49,0,2,True,lowest risk,
+144,All Summer Long by Kid Rock,Kid Rock,2024-07-05,48,28,21 to 30,1,12,0,0,0,4.96,78.0,0.0,,0,2,True,49,0,2,False,lowest risk,
+145,Fortunate Son by Creedence Clearwater Revival,Creedence Clearwater Revival,2024-07-05,48,30,21 to 30,1,13,0,0,0,2.346,88.0,0.0,,0,2,True,49,0,2,True,lowest risk,
+146,Wagon Wheel by Darius Rucker,Darius Rucker,2024-07-05,48,41,41 to 50,1,12,0,0,0,4.973,83.0,0.0,,0,2,True,49,0,2,False,middle,
+147,"Take Me Home, Country Roads by John Denver",John Denver,2024-07-05,48,42,41 to 50,1,11,0,0,0,3.297,78.0,0.0,,0,2,True,49,0,2,False,middle,
+148,When It Rains It Pours by Luke Combs,Luke Combs,2024-07-05,48,43,41 to 50,1,12,0,0,0,4.013,86.0,53.0,89.26415094339623,1,2,True,49,0,2,True,middle,
+149,American Kids by Kenny Chesney,Kenny Chesney,2024-07-05,48,44,41 to 50,1,11,0,0,0,3.049,79.0,0.0,,0,2,True,49,0,2,True,middle,
+150,I Ain't Worried by OneRepublic,OneRepublic,2024-07-05,48,47,41 to 50,1,1,1,0,0,2.475,95.0,0.0,,0,3,True,50,0,3,False,middle,lowest risk
+151,Enchanted by Taylor Swift,Taylor Swift,2024-07-08,51,35,31 to 40,1,14,0,0,0,5.87,83.0,172.0,91.21511627906976,1,1,True,51,0,1,False,middle,
+152,Mine (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,1,1 to 10,22,22,0,0,0,3.862,86.0,176.0,91.22727272727273,1,8,True,59,0,8,False,middle,middle
+153,Back To December (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,2,1 to 10,22,22,0,0,0,4.903,86.0,176.0,91.22727272727273,1,11,True,62,0,11,False,middle,middle
+154,Sparks Fly (Taylor’s Version) by Taylor Swift,Taylor Swift,2024-07-09,52,3,1 to 10,22,22,0,0,0,4.354,85.0,176.0,91.22727272727273,1,7,True,58,0,7,False,middle,highest risk
+155,I Can See You (Taylor’s Version) (From The Vault) by Taylor Swift,Taylor Swift,2024-07-09,52,4,1 to 10,22,22,0,0,0,4.553,86.0,176.0,91.22727272727273,1,20,True,71,0,20,True,middle,middle
+156,Better Than Revenge (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,5,1 to 10,22,22,0,0,0,3.672,85.0,176.0,91.22727272727273,1,7,True,58,0,7,False,middle,highest risk
+157,Dear John (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,6,1 to 10,22,22,0,0,0,6.765,85.0,176.0,91.22727272727273,1,7,True,58,0,7,False,highest risk,highest risk
+158,Enchanted (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,7,1 to 10,22,22,0,0,0,5.888,86.0,176.0,91.22727272727273,1,11,True,62,0,11,False,highest risk,middle
+159,Speak Now (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,8,1 to 10,22,22,0,0,0,4.041,85.0,176.0,91.22727272727273,1,7,True,58,0,7,False,highest risk,highest risk
+160,Electric Touch (feat. Fall Out Boy) (Taylor’s Version) (From The Vault) by Taylor Swift,Taylor Swift,2024-07-09,52,9,1 to 10,22,22,0,0,0,4.441,83.0,176.0,91.22727272727273,1,7,True,58,0,7,False,highest risk,highest risk
+161,Mean (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,10,1 to 10,22,22,0,0,0,3.978,84.0,176.0,91.22727272727273,1,6,True,57,0,6,False,highest risk,highest risk
+162,Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault) by Taylor Swift,Taylor Swift,2024-07-09,52,11,11 to 20,22,22,0,0,0,5.101,83.0,176.0,91.22727272727273,1,7,True,58,0,7,False,highest risk,middle
+163,When Emma Falls in Love (Taylor’s Version) (From The Vault) by Taylor Swift,Taylor Swift,2024-07-09,52,12,11 to 20,22,22,0,0,0,4.206,83.0,176.0,91.22727272727273,1,7,True,58,0,7,False,highest risk,highest risk
+164,The Story Of Us (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,13,11 to 20,22,22,0,0,0,4.461,84.0,176.0,91.22727272727273,1,6,True,57,0,6,False,highest risk,highest risk
+165,Haunted (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,14,11 to 20,22,22,0,0,0,4.09,83.0,176.0,91.22727272727273,1,5,True,56,0,5,False,highest risk,highest risk
+166,Foolish One (Taylor’s Version) (From The Vault) by Taylor Swift,Taylor Swift,2024-07-09,52,15,11 to 20,22,22,0,0,0,5.196,82.0,176.0,91.22727272727273,1,7,True,58,0,7,False,highest risk,highest risk
+167,Timeless (Taylor’s Version) (From The Vault) by Taylor Swift,Taylor Swift,2024-07-09,52,16,11 to 20,22,22,0,0,0,5.357,82.0,176.0,91.22727272727273,1,6,True,57,0,6,False,highest risk,highest risk
+168,Never Grow Up (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,17,11 to 20,22,22,0,0,0,4.882,82.0,176.0,91.22727272727273,1,4,True,55,0,4,False,highest risk,highest risk
+169,Last Kiss (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,18,11 to 20,22,22,0,0,0,6.152,82.0,176.0,91.22727272727273,1,5,True,56,0,5,False,highest risk,highest risk
+170,Long Live (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,20,11 to 20,22,22,0,0,0,5.299,82.0,176.0,91.22727272727273,1,5,True,56,0,5,False,highest risk,highest risk
+171,Innocent (Taylor's Version) by Taylor Swift,Taylor Swift,2024-07-09,52,21,21 to 30,22,22,0,0,0,5.02,81.0,176.0,91.22727272727273,1,4,True,55,0,4,False,highest risk,highest risk
+172,Ours (Taylor’s Version) by Taylor Swift,Taylor Swift,2024-07-09,52,22,21 to 30,22,22,0,0,0,3.93,81.0,176.0,91.22727272727273,1,4,True,55,0,4,False,highest risk,highest risk
+173,Superman (Taylor’s Version) by Taylor Swift,Taylor Swift,2024-07-09,52,23,21 to 30,22,22,0,0,0,4.582,80.0,176.0,91.22727272727273,1,3,True,54,0,3,False,highest risk,highest risk
+174,Super Shy by NewJeans,NewJeans,2024-07-09,52,37,31 to 40,1,2,1,0,0,2.578,81.0,0.0,,0,48,True,99,0,48,True,middle,middle
+175,Seven (feat. Latto) (Explicit Ver.) by Jung Kook & Latto & BTS,Jung Kook,2024-07-16,59,1,1 to 10,1,3,1,1,1,3.073,86.0,1.0,83.0,0,83,True,141,0,83,True,middle,lowest risk
+176,"What Was I Made For? [From The Motion Picture ""Barbie""] by Billie Eilish",Billie Eilish,2024-07-16,59,11,11 to 20,1,1,1,0,0,3.706,81.0,0.0,,0,99,True,163,2,83,True,lowest risk,lowest risk
+177,Overdrive by Post Malone,Post Malone,2024-07-16,59,16,11 to 20,1,1,1,0,0,2.461,76.0,42.0,85.71428571428571,0,9,True,73,1,7,False,middle,highest risk
+178,LALA by Myke Towers,Myke Towers,2024-07-16,59,38,31 to 40,1,23,0,1,0,3.299,96.0,0.0,,0,49,True,116,3,13,False,middle,lowest risk
+179,Rush by Troye Sivan,Troye Sivan,2024-07-16,59,40,31 to 40,1,1,1,1,0,2.607,78.0,0.0,,0,10,True,71,1,7,False,middle,middle
+180,Style by Taylor Swift,Taylor Swift,2024-07-16,59,48,41 to 50,1,13,0,0,0,3.85,84.0,322.0,89.14906832298136,1,3,True,61,0,3,True,highest risk,middle
+181,Religiously by Bailey Zimmerman,Bailey Zimmerman,2024-07-19,62,50,41 to 50,1,16,0,0,0,2.979,84.0,0.0,,0,67,True,136,3,1,False,middle,
+182,Dial Drunk (with Post Malone) by Noah Kahan & Post Malone,Noah Kahan,2024-07-20,63,4,1 to 10,1,1,1,1,1,3.564,72.0,50.0,85.5,1,35,True,99,1,25,False,lowest risk,lowest risk
+183,From The Start by Laufey,Laufey,2024-07-20,63,50,41 to 50,1,1,1,0,0,2.826,85.0,0.0,,0,9,True,71,0,9,True,lowest risk,middle
+184,Try That In A Small Town by Jason Aldean,Jason Aldean,2024-07-22,65,6,1 to 10,1,2,1,1,0,3.001,73.0,0.0,,0,7,True,71,0,7,False,lowest risk,lowest risk
+185,K-POP by Travis Scott & Bad Bunny & The Weeknd,Travis Scott,2024-07-23,66,2,1 to 10,1,1,1,1,1,3.087,82.0,129.0,98.33333333333333,1,33,True,98,0,33,False,lowest risk,lowest risk
+186,Cool With You by NewJeans,NewJeans,2024-07-23,66,26,21 to 30,3,6,1,0,0,2.465,76.0,14.0,88.85714285714286,1,4,True,69,0,4,False,highest risk,highest risk
+187,ETA by NewJeans,NewJeans,2024-07-23,66,30,21 to 30,3,6,1,0,0,2.523,76.0,14.0,88.85714285714286,1,3,True,68,0,3,False,highest risk,highest risk
+188,New Jeans by NewJeans,NewJeans,2024-07-23,66,31,31 to 40,3,2,1,0,0,1.816,88.0,14.0,88.85714285714286,1,3,True,68,0,3,False,middle,highest risk
+189,Deli by Ice Spice,Ice Spice,2024-07-23,66,38,31 to 40,1,11,1,1,0,2.114,68.0,96.0,92.60416666666667,1,33,True,99,1,6,False,highest risk,middle
+190,Speed Drive (From Barbie The Album) by Charli xcx,Charli xcx,2024-07-25,68,44,41 to 50,1,1,1,0,0,1.963,84.0,0.0,,0,30,True,97,0,30,False,middle,lowest risk
+191,I’m Just Ken (From Barbie The Album) by Ryan Gosling,Ryan Gosling,2024-07-26,69,42,41 to 50,1,1,1,0,0,3.711,68.0,0.0,,0,8,True,82,2,3,False,middle,lowest risk
+192,MELTDOWN by Travis Scott,Travis Scott,2024-07-29,72,1,1 to 10,18,19,0,1,0,4.102,84.0,6.0,62.666666666666664,1,3,True,74,0,3,False,middle,lowest risk
+193,HYAENA by Travis Scott,Travis Scott,2024-07-29,72,2,1 to 10,18,19,0,1,0,3.701,85.0,6.0,62.666666666666664,1,9,True,80,0,9,False,middle,middle
+194,FE!N by Travis Scott,Travis Scott,2024-07-29,72,3,1 to 10,18,19,0,1,0,3.195,84.0,6.0,62.666666666666664,1,3,True,74,0,3,False,middle,lowest risk
+195,THANK GOD by Travis Scott,Travis Scott,2024-07-29,72,4,1 to 10,18,19,0,1,0,3.081,84.0,6.0,62.666666666666664,1,9,True,80,0,9,False,middle,highest risk
+196,MODERN JAM by Travis Scott,Travis Scott,2024-07-29,72,5,1 to 10,18,19,0,1,0,4.257,83.0,6.0,62.666666666666664,1,3,True,74,0,3,False,middle,highest risk
+197,MY EYES by Travis Scott,Travis Scott,2024-07-29,72,6,1 to 10,18,19,0,1,0,4.187,83.0,6.0,62.666666666666664,1,21,True,92,0,21,True,middle,middle
+198,I KNOW ? by Travis Scott,Travis Scott,2024-07-29,72,7,1 to 10,18,19,0,1,0,3.526,82.0,6.0,62.666666666666664,1,221,True,305,4,135,False,middle,middle
+199,DELRESTO (ECHOES) by Travis Scott,Travis Scott,2024-07-29,72,8,1 to 10,18,19,0,1,0,4.569,82.0,6.0,62.666666666666664,1,3,True,74,0,3,False,middle,highest risk
+200,SIRENS by Travis Scott,Travis Scott,2024-07-29,72,9,1 to 10,18,19,0,1,0,3.407,82.0,6.0,62.666666666666664,1,9,True,80,0,9,False,middle,highest risk
+201,TOPIA TWINS by Travis Scott,Travis Scott,2024-07-29,72,10,1 to 10,18,19,0,1,0,3.72,82.0,6.0,62.666666666666664,1,3,True,74,0,3,False,middle,middle
+202,GOD'S COUNTRY by Travis Scott,Travis Scott,2024-07-29,72,11,11 to 20,18,19,0,1,0,2.133,82.0,6.0,62.666666666666664,1,8,True,79,0,8,False,middle,highest risk
+203,CIRCUS MAXIMUS by Travis Scott,Travis Scott,2024-07-29,72,12,11 to 20,18,19,0,1,0,4.314,80.0,6.0,62.666666666666664,1,3,True,74,0,3,False,middle,highest risk
+204,SKITZO by Travis Scott,Travis Scott,2024-07-29,72,14,11 to 20,18,19,0,1,0,6.11,80.0,6.0,62.666666666666664,1,3,True,74,0,3,False,highest risk,highest risk
+205,TELEKINESIS by Travis Scott,Travis Scott,2024-07-29,72,15,11 to 20,18,19,0,1,0,5.896,80.0,6.0,62.666666666666664,1,3,True,74,0,3,False,highest risk,middle
+206,LOST FOREVER by Travis Scott,Travis Scott,2024-07-29,72,16,11 to 20,18,19,0,1,0,2.718,79.0,6.0,62.666666666666664,1,3,True,74,0,3,False,middle,highest risk
+207,PARASAIL by Travis Scott,Travis Scott,2024-07-29,72,17,11 to 20,18,19,0,1,0,2.583,79.0,6.0,62.666666666666664,1,3,True,74,0,3,False,middle,highest risk
+208,TIL FURTHER NOTICE by Travis Scott,Travis Scott,2024-07-29,72,18,11 to 20,18,19,0,1,0,5.247,79.0,6.0,62.666666666666664,1,3,True,74,0,3,False,highest risk,highest risk
+209,LOOOVE by Travis Scott,Travis Scott,2024-07-29,72,19,11 to 20,18,19,0,1,0,3.779,79.0,6.0,62.666666666666664,1,3,True,74,0,3,False,highest risk,highest risk
+210,Enough Is Enough by Post Malone,Post Malone,2024-07-29,72,28,21 to 30,6,17,0,1,0,2.753,46.0,71.0,85.05633802816901,1,8,True,79,0,8,False,highest risk,highest risk
+211,Something Real by Post Malone,Post Malone,2024-07-29,72,29,21 to 30,6,17,0,1,0,3.421,47.0,71.0,85.05633802816901,1,4,True,75,0,4,False,highest risk,highest risk
+212,Don't Understand by Post Malone,Post Malone,2024-07-29,72,32,31 to 40,6,17,0,0,0,3.056,48.0,71.0,85.05633802816901,1,1,True,72,0,1,False,highest risk,
+213,Novacandy by Post Malone,Post Malone,2024-07-29,72,36,31 to 40,6,17,0,1,0,3.288,46.0,71.0,85.05633802816901,1,1,True,72,0,1,False,highest risk,
+214,Aquí Te Espero by Ivan Cornejo,Ivan Cornejo,2024-07-29,72,37,31 to 40,1,1,1,0,0,4.256,,0.0,,0,1,True,72,0,1,False,highest risk,
+215,Too Cool To Die by Post Malone,Post Malone,2024-07-29,72,38,31 to 40,6,17,0,1,0,3.416,45.0,71.0,85.05633802816901,1,1,True,72,0,1,False,highest risk,
+216,In Your Love by Tyler Childers,Tyler Childers,2024-07-29,72,40,31 to 40,1,1,1,0,0,3.764,62.0,0.0,,0,7,True,80,1,6,False,middle,middle
+217,Sign Me Up by Post Malone,Post Malone,2024-07-29,72,44,41 to 50,6,17,0,1,0,3.316,44.0,71.0,85.05633802816901,1,1,True,72,0,1,False,highest risk,
+218,On The Radar Freestyle by Drake & Central Cee,Drake,2024-07-29,72,46,41 to 50,1,1,1,1,1,4.588,72.0,121.0,90.27272727272727,1,1,True,72,0,1,False,highest risk,
+219,MELTDOWN (feat. Drake) by Travis Scott,Travis Scott,2024-08-01,75,1,1 to 10,12,19,0,1,0,4.102,89.0,63.0,81.0952380952381,1,86,True,163,1,74,False,lowest risk,lowest risk
+220,FE!N (feat. Playboi Carti) by Travis Scott,Travis Scott,2024-08-01,75,2,1 to 10,12,19,0,1,0,3.195,89.0,63.0,81.0952380952381,1,52,True,128,1,47,True,lowest risk,lowest risk
+221,TOPIA TWINS (feat. Rob49 & 21 Savage) by Travis Scott,Travis Scott,2024-08-01,75,7,1 to 10,12,19,0,1,0,3.72,86.0,63.0,81.0952380952381,1,18,True,92,0,18,False,middle,middle
+222,TELEKINESIS (feat. SZA & Future) by Travis Scott,Travis Scott,2024-08-01,75,12,11 to 20,12,19,0,1,0,5.896,85.0,63.0,81.0952380952381,1,67,True,141,0,67,False,middle,middle
+223,MODERN JAM (feat. Teezo Touchdown) by Travis Scott,Travis Scott,2024-08-01,75,15,11 to 20,12,19,0,1,0,4.257,87.0,63.0,81.0952380952381,1,6,True,80,0,6,False,middle,middle
+224,DELRESTO (ECHOES) (feat. Beyoncé) by Travis Scott,Travis Scott,2024-08-01,75,17,11 to 20,12,19,0,1,0,4.569,86.0,63.0,81.0952380952381,1,5,True,79,0,5,False,highest risk,middle
+225,SKITZO (feat. Young Thug) by Travis Scott,Travis Scott,2024-08-01,75,21,21 to 30,12,19,0,1,0,6.11,84.0,63.0,81.0952380952381,1,5,True,79,0,5,False,highest risk,highest risk
+226,TIL FURTHER NOTICE (feat. James Blake & 21 Savage) by Travis Scott,Travis Scott,2024-08-01,75,22,21 to 30,12,19,0,1,0,5.247,84.0,63.0,81.0952380952381,1,6,True,80,0,6,False,highest risk,middle
+227,CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee) by Travis Scott,Travis Scott,2024-08-01,75,23,21 to 30,12,19,0,1,0,4.314,85.0,63.0,81.0952380952381,1,5,True,79,0,5,False,highest risk,highest risk
+228,LOST FOREVER (feat. Westside Gunn) by Travis Scott,Travis Scott,2024-08-01,75,27,21 to 30,12,19,0,1,0,2.718,83.0,63.0,81.0952380952381,1,4,True,78,0,4,False,highest risk,highest risk
+229,LOOOVE (feat. Kid Cudi) by Travis Scott,Travis Scott,2024-08-01,75,28,21 to 30,12,19,0,1,0,3.779,83.0,63.0,81.0952380952381,1,5,True,79,0,5,False,highest risk,highest risk
+230,PARASAIL (feat. Yung Lean & Dave Chappelle) by Travis Scott,Travis Scott,2024-08-01,75,32,31 to 40,12,19,0,1,0,2.583,83.0,63.0,81.0952380952381,1,3,True,77,0,3,False,highest risk,highest risk
+231,august by Taylor Swift,Taylor Swift,2024-08-03,77,9,1 to 10,1,16,0,0,0,4.365,90.0,391.0,90.0383631713555,1,38,True,118,2,24,True,lowest risk,lowest risk
+232,Paint The Town Red by Doja Cat,Doja Cat,2024-08-06,80,8,1 to 10,1,15,0,1,0,3.841,75.0,14.0,83.78571428571429,0,197,True,291,5,140,False,lowest risk,lowest risk
+233,cardigan by Taylor Swift,Taylor Swift,2024-08-07,81,48,41 to 50,1,16,0,0,0,3.993,92.0,405.0,90.17283950617283,1,7,True,87,0,7,True,middle,lowest risk
+234,Blank Space by Taylor Swift,Taylor Swift,2024-08-10,84,50,41 to 50,1,13,0,0,0,3.864,83.0,426.0,90.24413145539906,1,12,True,95,0,12,True,middle,lowest risk
+235,Don’t Blame Me by Taylor Swift,Taylor Swift,2024-08-11,85,45,41 to 50,1,15,0,0,0,3.94,91.0,434.0,90.24884792626727,1,2,True,86,0,2,True,middle,
+236,New Romantics by Taylor Swift,Taylor Swift,2024-08-12,86,31,31 to 40,3,19,0,0,0,3.841,76.0,443.0,90.25507900677201,1,1,True,86,0,1,False,highest risk,
+237,Shake It Off by Taylor Swift,Taylor Swift,2024-08-12,86,34,31 to 40,3,13,0,0,0,3.653,79.0,443.0,90.25507900677201,1,1,True,86,0,1,False,highest risk,
+238,Out Of The Woods by Taylor Swift,Taylor Swift,2024-08-12,86,41,41 to 50,3,13,0,0,0,3.93,72.0,443.0,90.25507900677201,1,1,True,86,0,1,False,highest risk,
+239,bad idea right? by Olivia Rodrigo,Olivia Rodrigo,2024-08-13,87,1,1 to 10,1,12,0,1,0,3.08,79.0,42.0,96.69047619047619,1,83,True,176,2,77,False,lowest risk,lowest risk
+240,MI EX TENÍA RAZÓN by KAROL G,KAROL G,2024-08-13,87,13,11 to 20,4,9,0,0,0,2.573,62.0,1.0,96.0,0,15,True,101,0,15,False,middle,highest risk
+241,QLONA by KAROL G,KAROL G,2024-08-13,87,21,21 to 30,4,9,0,1,0,2.88,57.0,1.0,96.0,0,83,True,178,3,1,True,highest risk,
+242,S91 by KAROL G,KAROL G,2024-08-13,87,23,21 to 30,4,9,0,0,0,2.883,50.0,1.0,96.0,0,1,True,87,0,1,False,highest risk,
+243,UNA NOCHE EN MEDELLÍN - REMIX by KAROL G,KAROL G,2024-08-13,87,40,31 to 40,4,9,0,1,0,3.419,56.0,1.0,96.0,0,1,True,87,0,1,False,highest risk,
+244,Rich Men North of Richmond by Oliver Anthony Music,Oliver Anthony Music,2024-08-14,88,9,1 to 10,1,1,1,0,0,3.121,64.0,0.0,,0,54,True,141,0,54,False,lowest risk,lowest risk
+245,It's Getting Hot by NLE Choppa,NLE Choppa,2024-08-14,88,48,41 to 50,1,1,1,1,0,2.24,79.0,33.0,76.03030303030303,0,2,True,89,0,2,False,middle,
+246,Call Your Friends by Rod Wave,Rod Wave,2024-08-19,93,33,31 to 40,1,1,1,1,0,2.552,,0.0,,0,1,True,93,0,1,False,highest risk,
+247,Pink + White by Frank Ocean,Frank Ocean,2024-08-24,98,49,41 to 50,1,17,0,0,0,3.075,89.0,0.0,,0,93,True,210,10,2,True,lowest risk,
+248,I Remember Everything (feat. Kacey Musgraves) by Zach Bryan,Zach Bryan,2024-08-26,100,1,1 to 10,17,16,0,0,0,3.787,43.0,100.0,89.03,1,446,False,550,2,121,False,middle,middle
+249,Overtime by Zach Bryan,Zach Bryan,2024-08-26,100,2,1 to 10,17,16,0,1,0,3.182,44.0,100.0,89.03,1,12,True,114,1,8,False,middle,highest risk
+250,East Side of Sorrow by Zach Bryan,Zach Bryan,2024-08-26,100,3,1 to 10,17,16,0,1,0,3.489,43.0,100.0,89.03,1,22,True,121,0,22,False,middle,middle
+251,Summertime's Close by Zach Bryan,Zach Bryan,2024-08-26,100,4,1 to 10,17,16,0,0,0,3.103,43.0,100.0,89.03,1,12,True,114,1,8,False,middle,highest risk
+252,Hey Driver (feat. The War and Treaty) by Zach Bryan,Zach Bryan,2024-08-26,100,5,1 to 10,17,16,0,0,0,3.791,42.0,100.0,89.03,1,53,True,163,2,42,True,middle,middle
+253,Spotless (feat. The Lumineers) by Zach Bryan,Zach Bryan,2024-08-26,100,6,1 to 10,17,16,0,1,0,2.824,41.0,100.0,89.03,1,28,True,127,0,28,False,middle,middle
+254,Fear and Friday's by Zach Bryan,Zach Bryan,2024-08-26,100,8,1 to 10,17,16,0,0,0,2.857,42.0,100.0,89.03,1,15,True,114,0,15,False,middle,middle
+255,Fear and Friday's (Poem) by Zach Bryan,Zach Bryan,2024-08-26,100,9,1 to 10,17,16,0,0,0,1.788,44.0,100.0,89.03,1,6,True,105,0,6,False,middle,highest risk
+256,Ticking by Zach Bryan,Zach Bryan,2024-08-26,100,10,1 to 10,17,16,0,0,0,4.037,41.0,100.0,89.03,1,13,True,114,1,8,False,highest risk,highest risk
+257,Used To Be Young by Miley Cyrus,Miley Cyrus,2024-08-26,100,12,11 to 20,1,14,0,0,0,3.186,67.0,73.0,90.4931506849315,0,17,True,116,0,17,False,lowest risk,lowest risk
+258,Holy Roller (feat. Sierra Ferrell) by Zach Bryan,Zach Bryan,2024-08-26,100,13,11 to 20,17,16,0,1,0,3.6,41.0,100.0,89.03,1,8,True,107,0,8,False,highest risk,highest risk
+259,Tourniquet by Zach Bryan,Zach Bryan,2024-08-26,100,14,11 to 20,17,16,0,1,0,3.151,40.0,100.0,89.03,1,42,True,141,0,42,False,highest risk,middle
+260,El Dorado by Zach Bryan,Zach Bryan,2024-08-26,100,15,11 to 20,17,16,0,0,0,3.048,40.0,100.0,89.03,1,8,True,107,0,8,False,highest risk,highest risk
+261,Jake's Piano - Long Island by Zach Bryan,Zach Bryan,2024-08-26,100,17,11 to 20,17,16,0,0,0,5.32,40.0,100.0,89.03,1,8,True,107,0,8,False,highest risk,highest risk
+262,Tradesman by Zach Bryan,Zach Bryan,2024-08-26,100,18,11 to 20,17,16,0,0,0,3.129,39.0,100.0,89.03,1,8,True,107,0,8,False,highest risk,highest risk
+263,Smaller Acts by Zach Bryan,Zach Bryan,2024-08-26,100,19,11 to 20,17,16,0,1,0,3.121,39.0,100.0,89.03,1,11,True,113,1,8,False,highest risk,highest risk
+264,Single Soon by Selena Gomez,Selena Gomez,2024-08-26,100,21,21 to 30,1,1,1,0,0,2.861,77.0,0.0,,0,10,True,111,1,9,False,lowest risk,lowest risk
+265,Oklahoman Son by Zach Bryan,Zach Bryan,2024-08-26,100,22,21 to 30,17,16,0,0,0,4.158,39.0,100.0,89.03,1,6,True,105,0,6,False,highest risk,highest risk
+266,Heading South by Zach Bryan,Zach Bryan,2024-08-26,100,47,41 to 50,17,1,1,1,0,2.862,85.0,100.0,89.03,1,21,True,121,1,1,True,highest risk,
+267,Dance The Night - From Barbie The Album by Dua Lipa,Dua Lipa,2024-08-31,105,21,21 to 30,1,1,1,0,0,2.943,97.0,48.0,94.79166666666667,1,38,True,143,1,37,True,lowest risk,lowest risk
+268,Dawns (feat. Maggie Rogers) by Zach Bryan & Maggie Rogers,Zach Bryan,2024-09-01,106,50,41 to 50,1,1,1,1,1,4.848,84.0,207.0,80.42995169082126,1,4,True,113,1,2,False,highest risk,
+269,Margaritaville by Jimmy Buffett,Jimmy Buffett,2024-09-03,108,6,1 to 10,4,10,0,0,0,4.182,70.0,0.0,,0,3,True,110,0,3,False,lowest risk,highest risk
+270,It's Five O'Clock Somewhere by Alan Jackson,Alan Jackson,2024-09-03,108,12,11 to 20,1,26,0,0,0,3.83,69.0,0.0,,0,2,True,109,0,2,False,lowest risk,
+271,Demons by Doja Cat,Doja Cat,2024-09-03,108,26,21 to 30,1,1,1,1,0,3.26,69.0,42.0,87.5952380952381,1,7,True,114,0,7,True,lowest risk,highest risk
+272,Cheeseburger In Paradise by Jimmy Buffett,Jimmy Buffett,2024-09-03,108,30,21 to 30,4,9,0,0,0,2.935,60.0,0.0,,0,2,True,109,0,2,False,middle,
+273,Last Time I Saw You by Nicki Minaj,Nicki Minaj,2024-09-03,108,34,31 to 40,1,1,1,0,0,3.606,73.0,72.0,91.36111111111111,1,3,True,111,1,2,False,lowest risk,
+274,Come Monday by Jimmy Buffett,Jimmy Buffett,2024-09-03,108,44,41 to 50,4,11,0,0,0,3.196,59.0,0.0,,0,1,True,108,0,1,False,highest risk,
+275,Knee Deep (feat. Jimmy Buffett) by Zac Brown Band,Zac Brown Band,2024-09-03,108,45,41 to 50,1,14,0,0,0,3.386,77.0,3.0,83.66666666666667,0,2,True,109,0,2,False,highest risk,
+276,"Changes In Latitudes, Changes In Attitudes by Jimmy Buffett",Jimmy Buffett,2024-09-03,108,50,41 to 50,4,10,0,0,0,3.289,58.0,0.0,,0,1,True,108,0,1,False,highest risk,
+277,Sun to Me by Zach Bryan,Zach Bryan,2024-09-05,110,49,41 to 50,1,34,0,0,0,2.717,84.0,257.0,80.90661478599222,1,4,True,114,1,1,True,middle,
+278,get him back! by Olivia Rodrigo,Olivia Rodrigo,2024-09-10,115,3,1 to 10,10,12,0,1,0,3.519,80.0,98.0,94.91836734693878,1,34,True,148,0,34,False,lowest risk,lowest risk
+279,all-american bitch by Olivia Rodrigo,Olivia Rodrigo,2024-09-10,115,4,1 to 10,10,12,0,1,0,2.764,80.0,98.0,94.91836734693878,1,27,True,141,0,27,False,lowest risk,lowest risk
+280,the grudge by Olivia Rodrigo,Olivia Rodrigo,2024-09-10,115,6,1 to 10,10,12,0,1,0,3.156,77.0,98.0,94.91836734693878,1,22,True,136,0,22,False,lowest risk,lowest risk
+281,making the bed by Olivia Rodrigo,Olivia Rodrigo,2024-09-10,115,7,1 to 10,10,12,0,0,0,3.314,78.0,98.0,94.91836734693878,1,14,True,128,0,14,False,lowest risk,middle
+282,logical by Olivia Rodrigo,Olivia Rodrigo,2024-09-10,115,9,1 to 10,10,12,0,0,0,3.865,78.0,98.0,94.91836734693878,1,14,True,128,0,14,False,lowest risk,middle
+283,ballad of a homeschooled girl by Olivia Rodrigo,Olivia Rodrigo,2024-09-10,115,10,1 to 10,10,12,0,0,0,3.389,78.0,98.0,94.91836734693878,1,14,True,128,0,14,False,lowest risk,middle
+284,lacy by Olivia Rodrigo,Olivia Rodrigo,2024-09-10,115,11,11 to 20,10,12,0,0,0,2.954,78.0,98.0,94.91836734693878,1,18,True,132,0,18,False,lowest risk,middle
+285,love is embarrassing by Olivia Rodrigo,Olivia Rodrigo,2024-09-10,115,12,11 to 20,10,12,0,1,0,2.575,77.0,98.0,94.91836734693878,1,14,True,128,0,14,False,lowest risk,middle
+286,pretty isn’t pretty by Olivia Rodrigo,Olivia Rodrigo,2024-09-10,115,14,11 to 20,10,12,0,1,0,3.324,76.0,98.0,94.91836734693878,1,14,True,128,0,14,False,lowest risk,middle
+287,teenage dream by Olivia Rodrigo,Olivia Rodrigo,2024-09-10,115,17,11 to 20,10,12,0,0,0,3.706,76.0,98.0,94.91836734693878,1,9,True,124,1,7,False,middle,middle
+288,Bongos (feat. Megan Thee Stallion) by Cardi B & Megan Thee Stallion,Cardi B,2024-09-10,115,26,21 to 30,1,1,1,1,1,2.918,72.0,0.0,,0,9,True,123,0,9,False,lowest risk,middle
+289,Sweater Weather by The Neighbourhood,The Neighbourhood,2024-09-12,117,49,41 to 50,1,11,0,0,0,4.007,91.0,0.0,,0,64,True,201,9,5,True,lowest risk,middle
+290,Slime You Out (feat. SZA) by Drake & SZA,Drake,2024-09-17,122,1,1 to 10,1,23,0,1,1,5.175,75.0,198.0,92.71212121212122,1,42,True,163,0,42,False,lowest risk,lowest risk
+291,greedy by Tate McRae,Tate McRae,2024-09-17,122,15,11 to 20,1,1,1,1,0,2.198,51.0,0.0,,0,217,True,347,2,99,False,lowest risk,lowest risk
+292,Snooze (Acoustic) (feat. Justin Bieber) by SZA & Justin Bieber,SZA,2024-09-17,122,36,31 to 40,1,1,1,1,1,3.174,,198.0,92.71212121212122,1,1,True,122,0,1,False,highest risk,
+293,Turks & Caicos (feat. 21 Savage) by Rod Wave,Rod Wave,2024-09-17,122,43,41 to 50,1,18,0,1,0,3.389,66.0,1.0,,0,1,True,122,0,1,False,middle,
+294,Strangers by Kenya Grace,Kenya Grace,2024-09-18,123,41,41 to 50,1,1,1,0,0,2.883,89.0,0.0,,0,69,True,195,2,44,True,lowest risk,middle
+295,Shut up My Moms Calling by Hotel Ugly,Hotel Ugly,2024-09-18,123,48,41 to 50,1,1,1,0,0,2.743,89.0,0.0,,0,19,True,141,0,19,True,lowest risk,middle
+296,Clouded by Brent Faiyaz,Brent Faiyaz,2024-09-19,124,50,41 to 50,1,10,0,1,0,1.835,85.0,0.0,,0,16,True,141,1,13,True,lowest risk,lowest risk
+297,My Love Mine All Mine by Mitski,Mitski,2024-09-20,125,50,41 to 50,1,11,0,0,0,2.296,72.0,0.0,,0,205,True,335,3,2,True,middle,
+298,"September by Earth, Wind & Fire & sped up + slowed","Earth, Wind & Fire",2024-09-23,128,12,11 to 20,1,3,1,0,1,3.6,80.0,0.0,,0,1,True,128,0,1,True,lowest risk,
+299,Sarah's Place (feat. Noah Kahan) by Zach Bryan & Noah Kahan,Zach Bryan,2024-09-24,129,4,1 to 10,4,1,1,0,1,3.568,63.0,402.0,82.73383084577114,1,13,True,141,0,13,False,lowest risk,middle
+300,Agora Hills by Doja Cat,Doja Cat,2024-09-24,129,10,1 to 10,1,15,0,1,0,4.423,35.0,70.0,89.81428571428572,1,175,True,308,2,92,False,lowest risk,lowest risk
+301,Boys Of Faith (feat. Bon Iver) by Zach Bryan & Bon Iver,Zach Bryan,2024-09-24,129,13,11 to 20,4,1,1,1,1,2.847,54.0,402.0,82.73383084577114,1,8,True,136,0,8,False,middle,middle
+302,500lbs by Lil Tecca,Lil Tecca,2024-09-24,129,17,11 to 20,3,16,0,1,0,2.407,30.0,0.0,,0,186,True,335,7,13,False,middle,lowest risk
+303,Deep Satin by Zach Bryan,Zach Bryan,2024-09-24,129,22,21 to 30,4,5,1,0,0,3.52,69.0,402.0,82.73383084577114,1,4,True,132,0,4,False,middle,highest risk
+304,Nine Ball by Zach Bryan,Zach Bryan,2024-09-24,129,36,31 to 40,4,5,1,0,0,2.832,68.0,402.0,82.73383084577114,1,3,True,131,0,3,False,highest risk,highest risk
+305,HVN ON EARTH (with Kodak Black) by Lil Tecca,Lil Tecca,2024-09-24,129,41,41 to 50,3,16,0,1,0,3.148,31.0,0.0,,0,1,True,129,0,1,False,highest risk,
+306,Dead or Alive by Lil Tecca,Lil Tecca,2024-09-24,129,47,41 to 50,3,16,0,1,0,2.041,30.0,0.0,,0,1,True,129,0,1,False,highest risk,
+307,UN PREVIEW by Bad Bunny,Bad Bunny,2024-09-27,132,3,1 to 10,1,1,1,0,0,2.76,79.0,222.0,93.96396396396396,0,17,True,153,1,10,False,lowest risk,lowest risk
+308,Stick Season by Noah Kahan,Noah Kahan,2024-09-27,132,47,41 to 50,1,14,0,0,0,3.039,82.0,66.0,81.57575757575758,1,414,False,554,4,5,False,highest risk,middle
+309,3D (feat. Jack Harlow) by Jung Kook & Jack Harlow,Jung Kook,2024-09-30,135,9,1 to 10,1,7,0,1,1,3.364,86.0,76.0,98.63157894736842,1,12,True,146,0,12,False,lowest risk,lowest risk
+310,Mamaw's House by Thomas Rhett,Thomas Rhett,2024-09-30,135,13,11 to 20,1,22,0,0,0,3.121,25.0,0.0,,0,2,True,136,0,2,False,lowest risk,
+311,Dreams - 2004 Remaster by Fleetwood Mac,Fleetwood Mac,2024-10-02,137,44,41 to 50,1,58,0,0,0,4.297,87.0,0.0,,0,2,True,138,0,2,True,middle,
+312,Dark Red by Steve Lacy,Steve Lacy,2024-10-02,137,46,41 to 50,1,1,1,0,0,2.885,88.0,34.0,85.0,0,5,True,141,0,5,True,lowest risk,middle
+313,we fell in love in october by girl in red,girl in red,2024-10-04,139,48,41 to 50,1,3,1,0,0,3.069,87.0,0.0,,0,2,True,140,0,2,True,middle,
+314,Lovers Rock by TV Girl,TV Girl,2024-10-04,139,50,41 to 50,1,12,0,0,0,3.565,88.0,0.0,,0,2,True,140,0,2,True,middle,
+315,First Person Shooter (feat. J. Cole) by Drake,Drake,2024-10-07,142,1,1 to 10,22,23,0,1,0,4.124,75.0,201.0,89.35820895522389,1,124,True,269,1,78,True,lowest risk,middle
+316,Virginia Beach by Drake,Drake,2024-10-07,142,2,1 to 10,22,23,0,1,0,4.185,73.0,201.0,89.35820895522389,1,22,True,163,0,22,True,lowest risk,middle
+317,IDGAF (feat. Yeat) by Drake,Drake,2024-10-07,142,3,1 to 10,22,23,0,1,0,4.335,74.0,201.0,89.35820895522389,1,150,True,295,1,78,False,lowest risk,middle
+318,Calling For You (feat. 21 Savage) by Drake,Drake,2024-10-07,142,4,1 to 10,22,23,0,1,0,4.761,73.0,201.0,89.35820895522389,1,7,True,148,0,7,False,middle,middle
+319,Fear Of Heights by Drake,Drake,2024-10-07,142,5,1 to 10,22,23,0,1,0,2.586,72.0,201.0,89.35820895522389,1,7,True,148,0,7,False,lowest risk,middle
+320,Daylight by Drake,Drake,2024-10-07,142,6,1 to 10,22,23,0,1,0,2.736,72.0,201.0,89.35820895522389,1,7,True,148,0,7,False,middle,middle
+321,Amen (feat. Teezo Touchdown) by Drake,Drake,2024-10-07,142,7,1 to 10,22,23,0,1,0,2.354,71.0,201.0,89.35820895522389,1,7,True,148,0,7,False,middle,highest risk
+322,7969 Santa by Drake,Drake,2024-10-07,142,9,1 to 10,22,23,0,1,0,4.331,71.0,201.0,89.35820895522389,1,7,True,148,0,7,False,middle,highest risk
+323,Bahamas Promises by Drake,Drake,2024-10-07,142,10,1 to 10,22,23,0,1,0,3.068,70.0,201.0,89.35820895522389,1,7,True,148,0,7,False,middle,highest risk
+324,Gently (feat. Bad Bunny) by Drake,Drake,2024-10-07,142,11,11 to 20,22,23,0,1,0,2.228,71.0,201.0,89.35820895522389,1,15,True,156,0,15,False,middle,middle
+325,Tried Our Best by Drake,Drake,2024-10-07,142,12,11 to 20,22,23,0,1,0,3.5,70.0,201.0,89.35820895522389,1,7,True,148,0,7,False,middle,highest risk
+326,8am in Charlotte by Drake,Drake,2024-10-07,142,13,11 to 20,22,23,0,1,0,4.447,70.0,201.0,89.35820895522389,1,7,True,148,0,7,False,middle,middle
+327,Rich Baby Daddy (feat. Sexyy Red & SZA) by Drake,Drake,2024-10-07,142,14,11 to 20,22,23,0,1,0,5.32,70.0,201.0,89.35820895522389,1,53,True,195,1,51,True,middle,middle
+328,What Would Pluto Do by Drake,Drake,2024-10-07,142,15,11 to 20,22,23,0,1,0,3.05,70.0,201.0,89.35820895522389,1,7,True,148,0,7,False,middle,highest risk
+329,Drew A Picasso by Drake,Drake,2024-10-07,142,16,11 to 20,22,23,0,1,0,4.379,69.0,201.0,89.35820895522389,1,7,True,148,0,7,False,middle,highest risk
+330,All The Parties (feat. Chief Keef) by Drake,Drake,2024-10-07,142,17,11 to 20,22,23,0,1,0,3.644,69.0,201.0,89.35820895522389,1,7,True,148,0,7,False,middle,highest risk
+331,Members Only (feat. PARTYNEXTDOOR) by Drake,Drake,2024-10-07,142,18,11 to 20,22,23,0,1,0,4.629,69.0,201.0,89.35820895522389,1,7,True,148,0,7,False,highest risk,highest risk
+332,Another Late Night (feat. Lil Yachty) by Drake,Drake,2024-10-07,142,19,11 to 20,22,23,0,1,0,2.84,69.0,201.0,89.35820895522389,1,7,True,148,0,7,False,middle,highest risk
+333,Screw The World - Interlude by Drake,Drake,2024-10-07,142,21,21 to 30,22,23,0,1,0,1.868,68.0,201.0,89.35820895522389,1,2,True,143,0,2,False,middle,
+334,Away From Home by Drake,Drake,2024-10-07,142,23,21 to 30,22,23,0,1,0,4.31,67.0,201.0,89.35820895522389,1,6,True,147,0,6,False,highest risk,highest risk
+335,BBL Love - Interlude by Drake,Drake,2024-10-07,142,24,21 to 30,22,23,0,1,0,2.689,67.0,201.0,89.35820895522389,1,5,True,146,0,5,False,highest risk,highest risk
+336,Polar Opposites by Drake,Drake,2024-10-07,142,26,21 to 30,22,23,0,1,0,4.286,66.0,201.0,89.35820895522389,1,5,True,146,0,5,False,highest risk,highest risk
+337,She Calls Me Back (with Kacey Musgraves) by Noah Kahan & Kacey Musgraves,Noah Kahan,2024-10-07,142,46,41 to 50,1,1,1,1,1,4.066,31.0,84.0,80.63095238095238,1,1,True,142,0,1,False,highest risk,
+338,MONACO by Bad Bunny,Bad Bunny,2024-10-14,149,1,1 to 10,19,22,0,1,0,4.453,85.0,234.0,93.57264957264957,1,55,True,205,1,51,True,lowest risk,lowest risk
+339,FINA by Bad Bunny,Bad Bunny,2024-10-14,149,2,1 to 10,19,22,0,1,0,3.605,83.0,234.0,93.57264957264957,1,15,True,163,0,15,False,lowest risk,middle
+340,NADIE SABE by Bad Bunny,Bad Bunny,2024-10-14,149,3,1 to 10,19,22,0,1,0,6.318,83.0,234.0,93.57264957264957,1,5,True,153,0,5,False,lowest risk,highest risk
+341,HIBIKI by Bad Bunny,Bad Bunny,2024-10-14,149,5,1 to 10,19,22,0,1,0,3.467,83.0,234.0,93.57264957264957,1,7,True,155,0,7,False,lowest risk,highest risk
+342,MR. OCTOBER by Bad Bunny,Bad Bunny,2024-10-14,149,6,1 to 10,19,22,0,1,0,3.154,82.0,234.0,93.57264957264957,1,7,True,155,0,7,False,lowest risk,highest risk
+343,CYBERTRUCK by Bad Bunny,Bad Bunny,2024-10-14,149,7,1 to 10,19,22,0,1,0,3.199,81.0,234.0,93.57264957264957,1,5,True,153,0,5,False,lowest risk,highest risk
+344,SEDA by Bad Bunny,Bad Bunny,2024-10-14,149,8,1 to 10,19,22,0,1,0,3.175,81.0,234.0,93.57264957264957,1,5,True,153,0,5,False,lowest risk,highest risk
+345,TELEFONO NUEVO by Bad Bunny,Bad Bunny,2024-10-14,149,10,1 to 10,19,22,0,1,0,5.913,81.0,234.0,93.57264957264957,1,5,True,153,0,5,False,lowest risk,highest risk
+346,VOU 787 by Bad Bunny,Bad Bunny,2024-10-14,149,11,11 to 20,19,22,0,1,0,2.061,80.0,234.0,93.57264957264957,1,3,True,151,0,3,False,lowest risk,highest risk
+347,GRACIAS POR NADA by Bad Bunny,Bad Bunny,2024-10-14,149,12,11 to 20,19,22,0,1,0,2.958,80.0,234.0,93.57264957264957,1,3,True,151,0,3,False,lowest risk,highest risk
+348,BABY NUEVA by Bad Bunny,Bad Bunny,2024-10-14,149,13,11 to 20,19,22,0,1,0,4.013,80.0,234.0,93.57264957264957,1,6,True,154,0,6,False,lowest risk,highest risk
+349,PERRO NEGRO by Bad Bunny,Bad Bunny,2024-10-14,149,14,11 to 20,19,22,0,1,0,2.713,81.0,234.0,93.57264957264957,1,35,True,183,0,35,True,lowest risk,middle
+350,MERCEDES CAROTA by Bad Bunny,Bad Bunny,2024-10-14,149,17,11 to 20,19,22,0,1,0,3.377,79.0,234.0,93.57264957264957,1,2,True,150,0,2,False,lowest risk,
+351,LOS PITS by Bad Bunny,Bad Bunny,2024-10-14,149,19,11 to 20,19,22,0,1,0,4.181,79.0,234.0,93.57264957264957,1,2,True,150,0,2,False,middle,
+352,VUELVE CANDY B by Bad Bunny,Bad Bunny,2024-10-14,149,22,21 to 30,19,22,0,1,0,4.436,78.0,234.0,93.57264957264957,1,2,True,150,0,2,False,middle,
+353,NO ME QUIERO CASAR by Bad Bunny,Bad Bunny,2024-10-14,149,25,21 to 30,19,22,0,1,0,3.761,78.0,234.0,93.57264957264957,1,2,True,150,0,2,False,middle,
+354,BATICANO by Bad Bunny,Bad Bunny,2024-10-14,149,27,21 to 30,19,22,0,1,0,4.267,78.0,234.0,93.57264957264957,1,2,True,150,0,2,False,middle,
+355,ACHO PR by Bad Bunny,Bad Bunny,2024-10-14,149,28,21 to 30,19,22,0,1,0,5.994,78.0,234.0,93.57264957264957,1,2,True,150,0,2,False,middle,
+356,SAY MY GRACE (feat. Travis Scott) by Offset,Offset,2024-10-14,149,29,21 to 30,1,21,0,1,0,2.888,73.0,0.0,,0,6,True,154,0,6,False,lowest risk,lowest risk
+357,THUNDER Y LIGHTNING by Bad Bunny,Bad Bunny,2024-10-14,149,30,21 to 30,19,22,0,1,0,3.619,78.0,234.0,93.57264957264957,1,2,True,150,0,2,False,middle,
+358,Jennifer’s Body by Ken Carson,Ken Carson,2024-10-14,149,47,41 to 50,1,18,0,1,0,2.642,,0.0,,0,2,True,150,0,2,False,highest risk,
+359,Water by Tyla,Tyla,2024-10-19,154,33,31 to 40,1,1,1,0,0,3.338,91.0,0.0,,0,33,True,189,3,13,True,lowest risk,lowest risk
+360,One Of Your Girls by Troye Sivan,Troye Sivan,2024-10-19,154,45,41 to 50,1,10,0,0,0,3.025,77.0,10.0,85.1,0,10,True,163,0,10,False,middle,lowest risk
+361,Cruel Summer - Live from TS | The Eras Tour by Taylor Swift,Taylor Swift,2024-10-20,155,10,1 to 10,1,3,1,0,0,3.826,,641.0,91.02496099843994,1,2,True,156,0,2,False,highest risk,
+362,A Night To Remember by beabadoobee & Laufey,beabadoobee,2024-10-21,156,32,31 to 40,1,1,1,0,1,3.89,,24.0,82.125,0,1,True,156,0,1,False,highest risk,
+363,TOO MUCH by The Kid LAROI & Jung Kook & Central Cee,The Kid LAROI,2024-10-21,156,33,31 to 40,1,1,1,1,1,3.398,55.0,95.0,96.23157894736842,0,1,True,156,0,1,False,highest risk,
+364,ANTHEM PART 3 by blink-182,blink-182,2024-10-21,156,40,31 to 40,1,17,0,1,0,3.553,,0.0,,0,1,True,156,0,1,False,highest risk,
+365,Que Onda by Calle 24 & Chino Pacas & Fuerza Regida,Calle 24,2024-10-22,157,44,41 to 50,1,1,1,1,1,3.191,93.0,115.0,92.0695652173913,0,7,True,163,0,7,True,middle,middle
+366,Lover by Taylor Swift,Taylor Swift,2024-10-22,157,50,41 to 50,1,18,0,0,0,3.688,92.0,651.0,91.01540832049307,1,1,True,157,0,1,True,highest risk,
+367,Is It Over Now? (Taylor's Version) (From The Vault) by Taylor Swift,Taylor Swift,2024-10-29,164,1,1 to 10,22,21,0,0,0,3.825,83.0,692.0,90.9608695652174,1,89,True,265,4,51,False,middle,middle
+368,Now That We Don't Talk (Taylor's Version) (From The Vault) by Taylor Swift,Taylor Swift,2024-10-29,164,2,1 to 10,22,21,0,0,0,2.441,83.0,692.0,90.9608695652174,1,34,True,197,0,34,False,middle,middle
+369,"""Slut!"" (Taylor's Version) (From The Vault) by Taylor Swift",Taylor Swift,2024-10-29,164,3,1 to 10,22,21,0,0,0,3.006,84.0,692.0,90.9608695652174,1,26,True,189,0,26,False,middle,middle
+370,Say Don't Go (Taylor's Version) (From The Vault) by Taylor Swift,Taylor Swift,2024-10-29,164,4,1 to 10,22,21,0,0,0,4.664,83.0,692.0,90.9608695652174,1,23,True,187,1,22,False,middle,middle
+371,Style (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,5,1 to 10,22,21,0,0,0,3.85,84.0,692.0,90.9608695652174,1,18,True,181,0,18,False,middle,middle
+372,Suburban Legends (Taylor's Version) (From The Vault) by Taylor Swift,Taylor Swift,2024-10-29,164,6,1 to 10,22,21,0,0,0,2.864,81.0,692.0,90.9608695652174,1,14,True,177,0,14,False,middle,middle
+373,Blank Space (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,7,1 to 10,22,21,0,0,0,3.864,83.0,692.0,90.9608695652174,1,11,True,174,0,11,False,highest risk,middle
+374,Out Of The Woods (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,8,1 to 10,22,21,0,0,0,3.93,82.0,692.0,90.9608695652174,1,11,True,174,0,11,False,highest risk,middle
+375,Welcome To New York (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,9,1 to 10,22,21,0,0,0,3.543,83.0,692.0,90.9608695652174,1,10,True,173,0,10,False,highest risk,middle
+376,Wildest Dreams (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,10,1 to 10,22,21,0,0,0,3.674,80.0,692.0,90.9608695652174,1,15,True,180,1,13,False,highest risk,middle
+377,All You Had To Do Was Stay (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,11,11 to 20,22,21,0,0,0,3.221,81.0,692.0,90.9608695652174,1,9,True,172,0,9,False,highest risk,middle
+378,New Romantics (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,12,11 to 20,22,21,0,0,0,3.836,80.0,692.0,90.9608695652174,1,9,True,172,0,9,False,highest risk,middle
+379,I Wish You Would (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,13,11 to 20,22,21,0,0,0,3.461,80.0,692.0,90.9608695652174,1,8,True,171,0,8,False,highest risk,highest risk
+380,Clean (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,14,11 to 20,22,21,0,0,0,4.517,80.0,692.0,90.9608695652174,1,8,True,171,0,8,False,highest risk,middle
+381,Shake It Off (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,15,11 to 20,22,21,0,0,0,3.653,81.0,692.0,90.9608695652174,1,6,True,169,0,6,False,highest risk,highest risk
+382,How You Get The Girl (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,16,11 to 20,22,21,0,0,0,4.126,80.0,692.0,90.9608695652174,1,6,True,169,0,6,False,highest risk,highest risk
+383,Bad Blood (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,17,11 to 20,22,21,0,0,0,3.518,81.0,692.0,90.9608695652174,1,4,True,167,0,4,False,highest risk,highest risk
+384,I Know Places (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,18,11 to 20,22,21,0,0,0,3.262,79.0,692.0,90.9608695652174,1,6,True,169,0,6,False,highest risk,highest risk
+385,Wonderland (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,19,11 to 20,22,21,0,0,0,4.093,79.0,692.0,90.9608695652174,1,6,True,169,0,6,False,highest risk,highest risk
+386,This Love (Taylor’s Version) by Taylor Swift,Taylor Swift,2024-10-29,164,21,21 to 30,22,21,0,0,0,4.168,78.0,692.0,90.9608695652174,1,6,True,169,0,6,False,highest risk,highest risk
+387,You Are In Love (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,22,21 to 30,22,21,0,0,0,4.456,78.0,692.0,90.9608695652174,1,6,True,169,0,6,False,highest risk,highest risk
+388,Bad Blood (feat. Kendrick Lamar) (Taylor's Version) by Taylor Swift,Taylor Swift,2024-10-29,164,27,21 to 30,22,22,0,0,0,3.33,74.0,692.0,90.9608695652174,1,3,True,166,0,3,False,highest risk,highest risk
+389,"Monster Mash by Bobby ""Boris"" Pickett & The Crypt-Kickers","Bobby ""Boris"" Pickett & The Crypt-Kickers",2024-10-29,164,44,41 to 50,1,16,0,0,0,3.201,77.0,0.0,,0,4,True,168,1,2,True,middle,
+390,This Is Halloween by Various Artists,Various Artists,2024-10-29,164,47,41 to 50,1,20,0,0,0,3.276,55.0,0.0,,0,4,True,168,1,2,True,highest risk,
+391,Thriller by Michael Jackson,Michael Jackson,2024-10-30,165,49,41 to 50,1,9,0,0,0,5.963,73.0,0.0,,0,3,True,168,1,1,True,lowest risk,
+392,Somebody's Watching Me - Single Version by Rockwell,Rockwell,2024-11-01,167,9,1 to 10,1,2,1,0,0,3.98,78.0,0.0,,0,1,True,167,0,1,True,lowest risk,
+393,Ghostbusters by Various Artists,Various Artists,2024-11-01,167,13,11 to 20,1,14,0,0,0,4.088,78.0,2.0,55.5,0,1,True,167,0,1,False,lowest risk,
+394,"Spooky, Scary Skeletons - Undead Tombstone Remix by Andrew Gold",Andrew Gold,2024-11-01,167,24,21 to 30,1,14,0,0,0,2.094,77.0,0.0,,0,1,True,167,0,1,True,lowest risk,
+395,Ghostbusters by Ray Parker Jr.,Ray Parker Jr.,2024-11-01,167,26,21 to 30,1,14,0,0,0,3.986,75.0,0.0,,0,1,True,167,0,1,True,lowest risk,
+396,Five Nights at Freddy's by The Living Tombstone,The Living Tombstone,2024-11-01,167,43,41 to 50,1,2,1,0,0,2.764,71.0,0.0,,0,1,True,167,0,1,False,middle,
+397,Blinding Lights by The Weeknd,The Weeknd,2024-11-01,167,46,41 to 50,1,14,0,0,0,3.334,92.0,77.0,88.44155844155844,0,1,True,167,0,1,False,middle,
+398,All I Want for Christmas Is You by Mariah Carey,Mariah Carey,2024-11-02,168,31,31 to 40,1,10,0,0,0,4.018,81.0,0.0,,0,56,True,223,0,56,True,lowest risk,middle
+399,White Christmas - 1947 Version by Bing Crosby & Fred Astaire,Bing Crosby,2024-11-02,168,42,41 to 50,1,12,0,0,1,2.958,68.0,0.0,,0,56,True,223,0,56,False,middle,middle
+400,Standing Next to You by Jung Kook,Jung Kook,2024-11-04,170,17,11 to 20,1,11,0,0,0,3.434,83.0,96.0,95.80208333333333,0,14,True,183,0,14,False,lowest risk,lowest risk
+401,Can’t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes by Olivia Rodrigo & Rachel Zegler & Flatland Cavalry,Olivia Rodrigo,2024-11-04,170,23,21 to 30,1,17,0,0,1,3.425,73.0,382.0,90.25130890052355,1,28,True,205,2,8,True,lowest risk,highest risk
+402,Now And Then by The Beatles,The Beatles,2024-11-04,170,24,21 to 30,1,2,1,0,0,4.139,73.0,0.0,,0,4,True,173,0,4,False,lowest risk,highest risk
+403,HARLEY QUINN by Fuerza Regida,Fuerza Regida,2024-11-04,170,42,41 to 50,1,30,0,1,0,2.389,87.0,122.0,92.17213114754098,0,33,True,205,1,29,True,middle,lowest risk
+404,Cobra by Megan Thee Stallion,Megan Thee Stallion,2024-11-04,170,45,41 to 50,1,1,1,1,0,2.816,67.0,9.0,78.66666666666667,0,3,True,172,0,3,False,highest risk,middle
+405,Northern Attitude (with Hozier) by Noah Kahan & Hozier,Noah Kahan,2024-11-11,177,2,1 to 10,1,1,1,1,1,4.454,42.0,120.0,81.89166666666667,1,8,True,184,0,8,False,lowest risk,middle
+406,Lovin On Me by Jack Harlow,Jack Harlow,2024-11-11,177,4,1 to 10,1,1,1,1,0,2.307,75.0,12.0,80.58333333333333,0,157,True,335,1,45,False,lowest risk,lowest risk
+407,Houdini by Dua Lipa,Dua Lipa,2024-11-11,177,8,1 to 10,1,1,1,0,0,3.099,58.0,86.0,95.33720930232558,0,13,True,189,0,13,False,lowest risk,lowest risk
+408,White Horse by Chris Stapleton,Chris Stapleton,2024-11-11,177,36,31 to 40,1,14,0,0,0,4.465,25.0,0.0,,0,2,True,178,0,2,False,highest risk,
+409,Jingle Bell Rock by Bobby Helms,Bobby Helms,2024-11-12,178,44,41 to 50,1,2,1,0,0,2.183,80.0,0.0,,0,43,True,223,2,3,True,middle,middle
+410,Last Christmas - Single Version by Wham!,Wham!,2024-11-12,178,50,41 to 50,1,16,0,0,0,4.433,72.0,0.0,,0,46,True,223,0,46,True,highest risk,middle
+411,Rockin' Around The Christmas Tree by Brenda Lee,Brenda Lee,2024-11-13,179,23,21 to 30,1,12,0,0,0,2.104,80.0,0.0,,0,46,True,224,0,46,True,lowest risk,middle
+412,You Broke My Heart by Drake,Drake,2024-11-18,184,2,1 to 10,6,29,0,1,0,3.845,71.0,504.0,85.49603174603175,1,7,True,190,0,7,False,lowest risk,middle
+413,Evil Ways (feat. J. Cole) by Drake,Drake,2024-11-18,184,5,1 to 10,6,29,0,1,0,3.795,69.0,504.0,85.49603174603175,1,4,True,187,0,4,False,lowest risk,highest risk
+414,Red Button by Drake,Drake,2024-11-18,184,6,1 to 10,6,29,0,1,0,2.667,67.0,504.0,85.49603174603175,1,2,True,185,0,2,False,lowest risk,
+415,Stories About My Brother by Drake,Drake,2024-11-18,184,12,11 to 20,6,29,0,1,0,4.402,67.0,504.0,85.49603174603175,1,2,True,185,0,2,False,middle,
+416,exes by Tate McRae,Tate McRae,2024-11-18,184,13,11 to 20,1,14,0,1,0,2.657,48.0,62.0,89.59677419354838,1,24,True,212,2,15,True,lowest risk,lowest risk
+417,The Shoe Fits by Drake,Drake,2024-11-18,184,15,11 to 20,6,29,0,1,0,6.234,67.0,504.0,85.49603174603175,1,2,True,185,0,2,False,middle,
+418,Wick Man by Drake,Drake,2024-11-18,184,21,21 to 30,6,29,0,1,0,3.024,,504.0,85.49603174603175,1,1,True,184,0,1,False,highest risk,
+419,"I swear, I Really Wanted To Make A ""Rap"" Album But This Is Literally The Way The Wind Blew Me This Time by André 3000",André 3000,2024-11-18,184,31,31 to 40,1,8,0,0,0,12.334,37.0,0.0,,0,1,True,184,0,1,False,highest risk,
+420,It's the Most Wonderful Time of the Year by Andy Williams,Andy Williams,2024-11-19,185,41,41 to 50,1,12,0,0,0,2.517,70.0,0.0,,0,39,True,223,0,39,True,middle,middle
+421,Let It Snow! Let It Snow! Let It Snow! by Dean Martin,Dean Martin,2024-11-20,186,39,31 to 40,1,12,0,0,0,1.952,83.0,0.0,,0,38,True,223,0,38,True,lowest risk,lowest risk
+422,It's Beginning to Look a Lot like Christmas by Michael Bublé,Michael Bublé,2024-11-20,186,41,41 to 50,1,21,0,0,0,3.453,75.0,0.0,,0,37,True,223,1,1,False,lowest risk,
+423,A Holly Jolly Christmas by Burl Ives,Burl Ives,2024-11-20,186,43,41 to 50,1,12,0,0,0,2.259,80.0,0.0,,0,37,True,223,1,1,False,lowest risk,
+424,VULTURES by ¥$ & Kanye West & Ty Dolla $ign,¥$,2024-11-23,189,34,31 to 40,1,16,0,1,1,4.616,77.0,0.0,,0,1,True,189,0,1,True,lowest risk,
+425,Santa Tell Me by Ariana Grande,Ariana Grande,2024-11-23,189,43,41 to 50,1,1,1,0,0,3.402,86.0,0.0,,0,33,True,223,1,20,True,lowest risk,lowest risk
+426,The Christmas Song (Merry Christmas To You) by Nat King Cole,Nat King Cole,2024-11-24,190,34,31 to 40,1,19,0,0,0,3.203,81.0,0.0,,0,34,True,223,0,34,False,lowest risk,lowest risk
+427,Sleigh Ride by The Ronettes,The Ronettes,2024-11-24,190,36,31 to 40,1,15,0,0,0,3.021,72.0,0.0,,0,34,True,223,0,34,False,lowest risk,lowest risk
+428,Feliz Navidad by José Feliciano,José Feliciano,2024-11-24,190,38,31 to 40,1,15,0,0,0,3.034,78.0,0.0,,0,34,True,223,0,34,False,lowest risk,lowest risk
+429,It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra) by Perry Como,Perry Como,2024-11-24,190,40,31 to 40,1,21,0,0,0,2.599,79.0,0.0,,0,34,True,223,0,34,False,lowest risk,lowest risk
+430,Underneath the Tree by Kelly Clarkson,Kelly Clarkson,2024-11-24,190,41,41 to 50,1,14,0,0,0,3.827,77.0,0.0,,0,34,True,223,0,34,False,middle,lowest risk
+431,Jingle Bells - Remastered 1999 by Frank Sinatra,Frank Sinatra,2024-11-24,190,42,41 to 50,1,15,0,0,0,2.012,77.0,0.0,,0,34,True,223,0,34,False,lowest risk,lowest risk
+432,Holly Jolly Christmas by Michael Bublé,Michael Bublé,2024-11-24,190,44,41 to 50,1,16,0,0,0,1.996,73.0,3.0,75.66666666666667,1,34,True,223,0,34,False,lowest risk,middle
+433,Ain't No Mountain High Enough by Marvin Gaye & Tammi Terrell,Marvin Gaye,2024-11-24,190,50,41 to 50,1,12,0,0,1,2.528,87.0,0.0,,0,1,True,190,0,1,False,middle,
+434,Blue Christmas by Elvis Presley,Elvis Presley,2024-11-25,191,34,31 to 40,1,12,0,0,0,2.153,79.0,0.0,,0,30,True,223,2,5,False,lowest risk,lowest risk
+435,Christmas (Baby Please Come Home) by Darlene Love,Darlene Love,2024-11-25,191,35,31 to 40,1,15,0,0,0,2.774,74.0,0.0,,0,31,True,223,1,5,False,lowest risk,lowest risk
+436,Deck The Halls by Nat King Cole,Nat King Cole,2024-11-25,191,39,31 to 40,1,19,0,0,0,1.146,79.0,1.0,81.0,1,15,True,211,3,4,False,middle,middle
+437,Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet) by Frank Sinatra,Frank Sinatra,2024-11-25,191,40,31 to 40,1,14,0,0,0,2.591,80.0,1.0,77.0,1,23,True,223,3,3,False,lowest risk,middle
+438,Little Saint Nick - 1991 Remix by The Beach Boys,The Beach Boys,2024-11-25,191,44,41 to 50,1,12,0,0,0,1.981,74.0,0.0,,0,22,True,223,4,3,False,middle,lowest risk
+439,Run Rudolph Run by Chuck Berry,Chuck Berry,2024-11-25,191,45,41 to 50,1,20,0,0,0,2.762,78.0,0.0,,0,20,True,223,3,3,False,middle,lowest risk
+440,Mistletoe by Justin Bieber,Justin Bieber,2024-11-25,191,46,41 to 50,1,15,0,0,0,3.049,83.0,1.0,,0,29,True,223,3,3,False,middle,lowest risk
+441,Mele Kalikimaka (Merry Christmas) by Bing Crosby,Bing Crosby,2024-11-25,191,48,41 to 50,1,12,0,0,0,2.922,76.0,23.0,75.82608695652173,1,18,True,223,3,3,False,middle,middle
+442,Santa Baby (with Henri René & His Orchestra) by Eartha Kitt,Eartha Kitt,2024-11-25,191,50,41 to 50,1,14,0,0,0,3.434,70.0,0.0,,0,23,True,223,2,3,False,middle,lowest risk
+443,Surround Sound (feat. 21 Savage & Baby Tate) by JID,JID,2024-11-28,194,49,41 to 50,1,16,0,1,0,3.832,87.0,0.0,,0,110,True,308,2,6,False,middle,middle
+444,You’re Losing Me (From The Vault) by Taylor Swift,Taylor Swift,2024-11-30,196,1,1 to 10,1,1,1,0,0,4.631,81.0,999.0,90.16850551654964,1,16,True,212,1,12,False,lowest risk,lowest risk
+445,MY HOUSE by Beyoncé,Beyoncé,2024-12-02,198,40,31 to 40,1,1,1,1,0,4.382,82.0,10.0,77.9,0,2,True,205,1,1,False,middle,
+446,Heather by Conan Gray,Conan Gray,2024-12-04,200,42,41 to 50,1,12,0,0,0,3.301,88.0,0.0,,0,2,True,201,0,2,False,lowest risk,
+447,Needle (feat. Drake) by Nicki Minaj,Nicki Minaj,2024-12-10,206,10,1 to 10,9,22,0,1,0,3.928,73.0,109.0,91.4770642201835,0,7,True,212,0,7,False,highest risk,highest risk
+448,Are You Gone Already by Nicki Minaj,Nicki Minaj,2024-12-10,206,18,11 to 20,9,22,0,0,0,4.514,72.0,109.0,91.4770642201835,0,1,True,206,0,1,False,highest risk,
+449,Barbie Dangerous by Nicki Minaj,Nicki Minaj,2024-12-10,206,19,11 to 20,9,22,0,1,0,2.213,71.0,109.0,91.4770642201835,0,1,True,206,0,1,False,highest risk,
+450,Everybody (feat. Lil Uzi Vert) by Nicki Minaj,Nicki Minaj,2024-12-10,206,24,21 to 30,9,22,0,1,0,3.014,70.0,109.0,91.4770642201835,0,30,True,240,1,13,False,highest risk,highest risk
+451,FTCU by Nicki Minaj,Nicki Minaj,2024-12-10,206,27,21 to 30,9,22,0,1,0,2.869,71.0,109.0,91.4770642201835,0,54,True,264,2,2,False,highest risk,
+452,run for the hills by Tate McRae,Tate McRae,2024-12-10,206,34,31 to 40,1,14,0,1,0,2.399,72.0,101.0,90.76237623762377,1,4,True,210,1,2,False,lowest risk,
+453,Let Me Calm Down (feat. J. Cole) by Nicki Minaj,Nicki Minaj,2024-12-10,206,42,41 to 50,9,22,0,1,0,4.074,70.0,109.0,91.4770642201835,0,1,True,206,0,1,False,highest risk,
+454,Beep Beep by Nicki Minaj,Nicki Minaj,2024-12-10,206,43,41 to 50,9,22,0,1,0,1.59,70.0,109.0,91.4770642201835,0,1,True,206,0,1,False,highest risk,
+455,Fallin 4 U by Nicki Minaj,Nicki Minaj,2024-12-10,206,48,41 to 50,9,22,0,1,0,3.844,69.0,109.0,91.4770642201835,0,1,True,206,0,1,False,highest risk,
+456,Big Difference by Nicki Minaj,Nicki Minaj,2024-12-10,206,49,41 to 50,9,22,0,1,0,3.186,69.0,109.0,91.4770642201835,0,1,True,206,0,1,False,highest risk,
+457,Wonderful Christmastime - Edited Version / Remastered 2011 by Paul McCartney,Paul McCartney,2024-12-11,207,49,41 to 50,1,19,0,0,0,3.794,89.0,0.0,,0,13,True,223,1,2,False,lowest risk,
+458,Christmas Time Is Here by Vince Guaraldi Trio,Vince Guaraldi Trio,2024-12-12,208,46,41 to 50,1,14,0,0,0,2.718,82.0,0.0,,0,12,True,223,1,1,False,lowest risk,
+459,Please Come Home for Christmas - 2013 Remaster by Eagles,Eagles,2024-12-12,208,48,41 to 50,1,2,1,0,0,2.957,86.0,0.0,,0,12,True,223,1,1,False,middle,
+460,Santa Tell Me - Naughty Version by Ariana Grande,Ariana Grande,2024-12-13,209,10,1 to 10,1,7,1,0,0,3.392,56.0,20.0,90.85,1,2,True,210,0,2,False,lowest risk,
+461,Deck The Hall by Nat King Cole,Nat King Cole,2024-12-16,212,48,41 to 50,1,19,0,0,0,1.146,87.0,37.0,85.27027027027027,1,12,True,223,0,12,False,middle,lowest risk
+462,Rudolph The Red-Nosed Reindeer by Burl Ives,Burl Ives,2024-12-17,213,49,41 to 50,1,12,0,0,0,2.167,85.0,26.0,86.34615384615384,1,8,True,223,1,3,False,middle,middle
+463,Santa Claus Is Coming To Town by The Jackson 5,The Jackson 5,2024-12-19,215,50,41 to 50,1,11,0,0,0,2.4,87.0,0.0,,0,5,True,223,1,1,False,lowest risk,
+464,Lace It (with Eminem & benny blanco) by Juice WRLD & Eminem & benny blanco,Juice WRLD,2024-12-20,216,41,41 to 50,1,1,1,1,1,3.625,72.0,7.0,76.85714285714286,0,1,True,216,0,1,True,highest risk,
+465,Happy Xmas (War Is Over) - Remastered 2010 by John Lennon,John Lennon,2024-12-22,218,50,41 to 50,1,119,0,0,0,3.572,92.0,0.0,,0,6,True,223,0,6,False,highest risk,lowest risk
+466,"Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975 by Bruce Springsteen",Bruce Springsteen,2024-12-23,219,48,41 to 50,1,1,1,0,0,4.46,86.0,2.0,79.5,0,5,True,223,0,5,False,highest risk,middle
+467,This Christmas by Donny Hathaway,Donny Hathaway,2024-12-23,219,49,41 to 50,1,11,0,0,0,3.853,74.0,0.0,,0,5,True,223,0,5,False,middle,lowest risk
+468,Snowman by Sia,Sia,2024-12-23,219,50,41 to 50,1,13,0,0,0,2.765,94.0,0.0,,0,5,True,223,0,5,False,middle,lowest risk
+469,Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version by Gene Autry,Gene Autry,2024-12-24,220,40,31 to 40,1,18,0,0,0,2.504,86.0,0.0,,0,4,True,223,0,4,False,lowest risk,lowest risk
+470,Winter Wonderland - Spotify Singles Holiday by Laufey,Laufey,2024-12-24,220,42,41 to 50,1,1,1,0,0,2.213,87.0,25.0,82.125,0,4,True,223,0,4,False,middle,middle
+471,Christmas Tree Farm by Taylor Swift,Taylor Swift,2024-12-24,220,43,41 to 50,1,1,1,0,0,3.8,87.0,1061.0,90.43059490084985,1,2,True,221,0,2,False,highest risk,
+472,"Santa, Can’t You Hear Me by Kelly Clarkson",Kelly Clarkson,2024-12-24,220,45,41 to 50,1,15,0,0,0,4.044,87.0,30.0,82.66666666666667,1,4,True,223,0,4,False,middle,middle
+473,Joy To The World by Nat King Cole,Nat King Cole,2024-12-24,220,46,41 to 50,1,19,0,0,0,1.416,86.0,53.0,83.73584905660377,1,4,True,223,0,4,False,middle,middle
+474,Do They Know It's Christmas? - 1984 Version by Band Aid,Band Aid,2024-12-24,220,47,41 to 50,1,2,1,0,0,3.709,89.0,0.0,,0,4,True,223,0,4,False,middle,middle
+475,Happy Holiday / The Holiday Season by Andy Williams,Andy Williams,2024-12-24,220,50,41 to 50,1,12,0,0,0,2.617,72.0,35.0,76.05714285714286,1,4,True,223,0,4,False,middle,middle
+476,"Baby, It's Cold Outside by Dean Martin",Dean Martin,2024-12-25,221,44,41 to 50,1,12,0,0,0,2.396,83.0,35.0,90.97142857142858,1,3,True,223,0,3,False,lowest risk,lowest risk
+477,I Want a Hippopotamus for Christmas (Hippo the Hero) by Gayla Peevey,Gayla Peevey,2024-12-25,221,45,41 to 50,1,1,1,0,0,2.591,83.0,0.0,,0,3,True,223,0,3,False,lowest risk,middle
+478,Have Yourself A Merry Little Christmas - Remastered 1999 by Frank Sinatra,Frank Sinatra,2024-12-25,221,46,41 to 50,1,15,0,0,0,3.443,84.0,51.0,85.84313725490196,1,3,True,223,0,3,False,lowest risk,middle
+479,Christmas (Baby Please Come Home) by Mariah Carey,Mariah Carey,2024-12-25,221,47,41 to 50,1,10,0,0,0,2.554,88.0,53.0,92.77358490566037,1,1,True,221,0,1,False,lowest risk,
+480,Winter Wonderland - Remastered by Bing Crosby,Bing Crosby,2024-12-25,221,48,41 to 50,1,11,0,0,0,2.375,74.0,68.0,82.58823529411765,1,3,True,223,0,3,False,lowest risk,middle
+481,I Saw Mommy Kissing Santa Claus by The Jackson 5,The Jackson 5,2024-12-25,221,49,41 to 50,1,11,0,0,0,3.021,83.0,2.0,87.0,1,3,True,223,0,3,False,lowest risk,middle
+482,Here Comes Santa Claus (Right Down Santa Claus Lane) by Elvis Presley,Elvis Presley,2024-12-25,221,50,41 to 50,1,12,0,0,0,1.93,85.0,27.0,85.81481481481481,1,3,True,223,0,3,False,lowest risk,middle
+483,(There's No Place Like) Home for the Holidays - 1959 Version by Perry Como,Perry Como,2024-12-26,222,45,41 to 50,1,10,0,0,0,2.932,70.0,32.0,86.78125,1,2,True,223,0,2,False,lowest risk,
+484,Do You Hear What I Hear? - Remastered 2006 by Bing Crosby,Bing Crosby,2024-12-26,222,48,41 to 50,1,16,0,0,0,2.761,83.0,71.0,82.61971830985915,1,2,True,223,0,2,False,middle,
+485,Mistletoe And Holly - Remastered 1999 by Frank Sinatra,Frank Sinatra,2024-12-26,222,50,41 to 50,1,15,0,0,0,2.274,81.0,54.0,85.94444444444444,1,2,True,223,0,2,False,lowest risk,
+486,La Diabla by Xavi,Xavi,2024-12-28,224,19,11 to 20,2,1,1,0,0,2.871,89.0,0.0,,0,104,True,333,3,91,False,lowest risk,lowest risk
+487,La Víctima by Xavi,Xavi,2024-12-28,224,24,21 to 30,2,1,1,1,0,2.606,89.0,0.0,,0,72,True,295,0,72,True,lowest risk,lowest risk
+488,Not Allowed by TV Girl,TV Girl,2024-12-28,224,39,31 to 40,1,10,0,1,0,2.798,86.0,19.0,89.26315789473684,0,25,True,254,3,6,False,lowest risk,lowest risk
+489,"One Of The Girls (with JENNIE, Lily Rose Depp) by The Weeknd & JENNIE & Lily-Rose Depp",The Weeknd,2024-12-28,224,42,41 to 50,2,3,1,0,1,4.078,92.0,78.0,88.48717948717949,0,86,True,313,2,47,True,highest risk,middle
+490,Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series by The Weeknd & Madonna,The Weeknd,2024-12-28,224,46,41 to 50,2,1,1,1,1,3.591,89.0,78.0,88.48717948717949,0,27,True,250,0,27,False,highest risk,middle
+491,Lose Control by Teddy Swims,Teddy Swims,2024-12-28,224,47,41 to 50,1,10,0,0,0,3.511,83.0,0.0,,0,329,False,554,2,6,False,lowest risk,lowest risk
+492,BELLAKEO by Peso Pluma & Anitta,Peso Pluma,2024-12-28,224,48,41 to 50,1,1,1,1,1,3.289,87.0,573.0,93.25392670157068,0,27,True,257,3,17,False,middle,lowest risk
+493,Heartless by Kanye West,Kanye West,2024-12-28,224,49,41 to 50,1,12,0,0,0,3.517,87.0,1.0,77.0,0,32,True,262,2,17,True,middle,middle
+494,Feather by Sabrina Carpenter,Sabrina Carpenter,2024-12-29,225,49,41 to 50,1,17,0,1,0,3.093,87.0,0.0,,0,97,True,335,7,5,True,middle,middle
+495,Rompe La Dompe by Peso Pluma & Junior H & Oscar Maydon,Peso Pluma,2024-12-30,226,32,31 to 40,1,1,1,1,1,2.761,,575.0,93.23391304347827,1,1,True,226,0,1,False,highest risk,
+496,Mr. Brightside by The Killers,The Killers,2025-01-01,228,39,31 to 40,1,12,0,0,0,3.716,86.0,0.0,,0,3,True,230,0,3,False,lowest risk,lowest risk
+497,Lil Boo Thang by Paul Russell,Paul Russell,2025-01-03,230,36,31 to 40,1,1,1,0,0,1.904,87.0,0.0,,0,1,True,230,0,1,False,lowest risk,
+498,We Found Love by Rihanna,Rihanna,2025-01-03,230,38,31 to 40,1,11,0,0,0,3.587,85.0,0.0,,0,1,True,230,0,1,False,lowest risk,
+499,New Year’s Day by Taylor Swift,Taylor Swift,2025-01-03,230,39,31 to 40,1,15,0,0,0,3.924,77.0,1076.0,90.4608938547486,1,1,True,230,0,1,False,middle,
+500,Father Stretch My Hands Pt. 1 by Kanye West,Kanye West,2025-01-03,230,42,41 to 50,1,20,0,1,0,2.265,88.0,7.0,85.85714285714286,1,39,True,294,6,4,False,lowest risk,middle
+501,Murder On The Dancefloor by Sophie Ellis-Bextor,Sophie Ellis-Bextor,2025-01-07,234,47,41 to 50,1,15,0,0,0,3.834,77.0,0.0,,0,31,True,264,0,31,False,middle,lowest risk
+502,Never Lose Me by Flo Milli,Flo Milli,2025-01-08,235,46,41 to 50,1,1,1,1,0,2.098,82.0,0.0,,0,70,True,304,0,70,True,lowest risk,middle
+503,"yes, and? by Ariana Grande",Ariana Grande,2025-01-14,241,1,1 to 10,1,1,1,1,0,3.583,85.0,35.0,90.85714285714286,0,30,True,270,0,30,True,lowest risk,lowest risk
+504,redrum by 21 Savage,21 Savage,2025-01-14,241,3,1 to 10,13,15,0,1,0,4.512,77.0,18.0,90.0,0,116,True,363,3,95,False,lowest risk,lowest risk
+505,née-nah by 21 Savage,21 Savage,2025-01-14,241,4,1 to 10,13,15,0,1,0,3.676,77.0,18.0,90.0,0,27,True,268,1,26,False,lowest risk,lowest risk
+506,n.h.i.e. by 21 Savage,21 Savage,2025-01-14,241,6,1 to 10,13,15,0,1,0,2.395,76.0,18.0,90.0,0,14,True,254,0,14,False,lowest risk,middle
+507,all of me by 21 Savage,21 Savage,2025-01-14,241,8,1 to 10,13,15,0,1,0,3.305,77.0,18.0,90.0,0,10,True,251,1,9,False,lowest risk,middle
+508,pop ur shit by 21 Savage,21 Savage,2025-01-14,241,13,11 to 20,13,15,0,1,0,3.222,75.0,18.0,90.0,0,5,True,245,0,5,False,middle,middle
+509,Igual Que Un Ángel (with Peso Pluma) by Kali Uchis,Kali Uchis,2025-01-14,241,14,11 to 20,1,14,0,0,0,4.34,75.0,105.0,86.78095238095239,0,35,True,276,1,31,False,lowest risk,lowest risk
+510,dangerous by 21 Savage,21 Savage,2025-01-14,241,15,11 to 20,13,15,0,1,0,4.422,74.0,18.0,90.0,0,5,True,245,0,5,False,middle,highest risk
+511,sneaky by 21 Savage,21 Savage,2025-01-14,241,17,11 to 20,13,15,0,1,0,3.361,75.0,18.0,90.0,0,6,True,247,1,5,False,middle,middle
+512,should've wore a bonnet by 21 Savage,21 Savage,2025-01-14,241,21,21 to 30,13,15,0,1,0,3.113,73.0,18.0,90.0,0,4,True,244,0,4,False,middle,highest risk
+513,prove it by 21 Savage,21 Savage,2025-01-14,241,25,21 to 30,13,15,0,1,0,3.46,73.0,18.0,90.0,0,3,True,243,0,3,False,middle,highest risk
+514,red sky by 21 Savage,21 Savage,2025-01-14,241,29,21 to 30,13,15,0,1,0,2.947,72.0,18.0,90.0,0,3,True,243,0,3,False,highest risk,highest risk
+515,letter to my brudda by 21 Savage,21 Savage,2025-01-14,241,36,31 to 40,13,15,0,1,0,2.652,73.0,18.0,90.0,0,2,True,242,0,2,False,highest risk,
+516,see the real by 21 Savage,21 Savage,2025-01-14,241,39,31 to 40,13,15,0,1,0,3.034,73.0,18.0,90.0,0,2,True,242,0,2,False,highest risk,
+517,just like me by 21 Savage,21 Savage,2025-01-14,241,46,41 to 50,13,15,0,1,0,3.856,72.0,18.0,90.0,0,2,True,242,0,2,False,highest risk,
+518,act ii: date @ 8 by 4batz,4batz,2025-01-18,245,44,41 to 50,1,1,1,1,0,1.895,84.0,0.0,,0,53,True,299,2,27,False,lowest risk,middle
+519,Beautiful Things by Benson Boone,Benson Boone,2025-01-21,248,4,1 to 10,1,15,0,0,0,3.005,78.0,0.0,,0,307,False,554,0,307,False,lowest risk,lowest risk
+520,Skin and Bones by David Kushner,David Kushner,2025-01-21,248,37,31 to 40,1,1,1,0,0,3.577,73.0,55.0,97.4,0,1,True,248,0,1,False,middle,
+521,Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series) by The Weeknd & Madonna,The Weeknd,2025-01-24,251,21,21 to 30,1,1,1,1,1,3.591,95.0,132.0,90.87878787878788,1,18,True,268,0,18,False,lowest risk,lowest risk
+522,HISS by Megan Thee Stallion,Megan Thee Stallion,2025-01-28,255,5,1 to 10,1,1,1,1,0,3.214,70.0,12.0,76.08333333333333,0,17,True,271,0,17,False,lowest risk,lowest risk
+523,Think U The Shit (Fart) by Ice Spice,Ice Spice,2025-01-28,255,14,11 to 20,1,1,1,1,0,2.361,69.0,239.0,91.56485355648536,0,15,True,270,1,14,False,lowest risk,lowest risk
+524,Spin You Around (1/24) by Morgan Wallen,Morgan Wallen,2025-01-28,255,23,21 to 30,1,1,1,0,0,3.49,67.0,789.0,86.61596958174906,1,10,True,264,0,10,False,lowest risk,highest risk
+525,Selfish by Justin Timberlake,Justin Timberlake,2025-01-28,255,44,41 to 50,1,1,1,0,0,3.822,73.0,0.0,,0,2,True,256,0,2,False,middle,
+526,Big Foot by Nicki Minaj,Nicki Minaj,2025-01-31,258,10,1 to 10,1,2,1,1,0,4.371,72.0,199.0,88.03517587939699,1,2,True,259,0,2,False,lowest risk,
+527,ONE CALL by Rich Amiri,Rich Amiri,2025-01-31,258,39,31 to 40,1,14,0,1,0,2.023,79.0,0.0,,0,77,True,335,1,57,True,middle,lowest risk
+528,Home by Good Neighbours,Good Neighbours,2025-02-02,260,45,41 to 50,1,1,1,0,0,2.625,80.0,0.0,,0,53,True,328,5,8,False,middle,middle
+529,Bandit by Don Toliver,Don Toliver,2025-02-04,262,9,1 to 10,1,1,1,1,0,2.462,76.0,0.0,,0,47,True,326,5,8,True,lowest risk,lowest risk
+530,Praise Jah In The Moonlight by YG Marley,YG Marley,2025-02-05,263,38,31 to 40,1,1,1,1,0,4.384,87.0,0.0,,0,42,True,310,2,7,False,lowest risk,middle
+531,Should've Been A Cowboy by Toby Keith,Toby Keith,2025-02-08,266,5,1 to 10,5,10,0,0,0,3.522,76.0,2.0,74.5,0,5,True,270,0,5,False,lowest risk,highest risk
+532,As Good As I Once Was by Toby Keith,Toby Keith,2025-02-08,266,16,11 to 20,5,12,0,0,0,3.797,75.0,2.0,74.5,0,2,True,267,0,2,False,lowest risk,
+533,Beer For My Horses by Toby Keith,Toby Keith,2025-02-08,266,18,11 to 20,5,13,0,0,0,3.4,74.0,2.0,74.5,0,1,True,266,0,1,False,lowest risk,
+534,How Do You Like Me Now?! by Toby Keith,Toby Keith,2025-02-08,266,19,11 to 20,5,12,0,0,0,3.484,72.0,2.0,74.5,0,1,True,266,0,1,False,lowest risk,
+535,I Love This Bar by Toby Keith,Toby Keith,2025-02-08,266,44,41 to 50,5,12,0,0,0,5.589,70.0,2.0,74.5,0,1,True,266,0,1,False,highest risk,
+536,Forever by Noah Kahan,Noah Kahan,2025-02-11,269,3,1 to 10,1,30,0,0,0,4.473,74.0,217.0,86.31797235023042,1,7,True,275,0,7,False,lowest risk,middle
+537,Deeper Well by Kacey Musgraves,Kacey Musgraves,2025-02-11,269,28,21 to 30,1,14,0,0,0,3.869,70.0,1.0,31.0,0,1,True,269,0,1,True,middle,
+538,Talking / Once Again by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-11,269,33,31 to 40,1,1,1,1,1,3.085,73.0,48.0,89.45833333333333,1,1,True,269,0,1,False,lowest risk,
+539,TALKING by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-12,270,6,1 to 10,7,16,0,1,1,3.085,69.0,50.0,89.14,1,6,True,275,0,6,False,lowest risk,middle
+540,STARS by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-12,270,17,11 to 20,7,16,0,1,1,1.921,73.0,50.0,89.14,1,6,True,275,0,6,False,lowest risk,middle
+541,CARNIVAL by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-12,270,21,21 to 30,7,16,0,1,1,4.405,71.0,50.0,89.14,1,107,True,376,0,107,False,lowest risk,lowest risk
+542,KEYS TO MY LIFE by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-12,270,32,31 to 40,7,16,0,1,1,2.901,71.0,50.0,89.14,1,5,True,274,0,5,False,lowest risk,highest risk
+543,BACK TO ME by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-12,270,38,31 to 40,7,16,0,1,1,4.925,71.0,50.0,89.14,1,11,True,280,0,11,False,middle,middle
+544,PAID by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-12,270,42,41 to 50,7,16,0,1,1,3.252,71.0,50.0,89.14,1,6,True,275,0,6,False,middle,middle
+545,FUK SUMN by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-12,270,50,41 to 50,7,16,0,1,1,3.493,70.0,50.0,89.14,1,17,True,288,1,14,False,highest risk,lowest risk
+546,BURN by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-13,271,6,1 to 10,4,16,0,1,1,1.858,80.0,58.0,86.94827586206897,1,26,True,296,0,26,False,lowest risk,lowest risk
+547,DO IT by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-13,271,11,11 to 20,4,16,0,1,1,3.75,78.0,58.0,86.94827586206897,1,5,True,275,0,5,False,lowest risk,middle
+548,PAPERWORK by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-13,271,16,11 to 20,4,16,0,1,1,2.43,78.0,58.0,86.94827586206897,1,4,True,274,0,4,False,lowest risk,highest risk
+549,HOODRAT by Kanye West & Ty Dolla $ign,Kanye West,2025-02-13,271,18,11 to 20,4,16,0,1,1,3.716,77.0,58.0,86.94827586206897,1,3,True,273,0,3,False,lowest risk,highest risk
+550,BEG FORGIVENESS by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-02-13,271,21,21 to 30,4,16,0,1,1,6.146,77.0,58.0,86.94827586206897,1,4,True,274,0,4,False,lowest risk,highest risk
+551,Yeah! (feat. Lil Jon & Ludacris) by USHER,USHER,2025-02-13,271,23,21 to 30,2,21,0,0,0,4.173,87.0,0.0,,0,8,True,278,0,8,False,lowest risk,lowest risk
+552,PROBLEMATIC by Kanye West & Ty Dolla $ign,Kanye West,2025-02-13,271,27,21 to 30,4,16,0,1,1,3.245,76.0,58.0,86.94827586206897,1,3,True,273,0,3,False,lowest risk,highest risk
+553,GOOD (DON'T DIE) by Kanye West & Ty Dolla $ign,Kanye West,2025-02-13,271,29,21 to 30,4,16,0,1,1,3.324,76.0,58.0,86.94827586206897,1,3,True,273,0,3,False,middle,highest risk
+554,KING by Kanye West & Ty Dolla $ign,Kanye West,2025-02-13,271,36,31 to 40,4,16,0,1,1,2.614,75.0,58.0,86.94827586206897,1,2,True,272,0,2,False,middle,
+555,DJ Got Us Fallin' In Love (feat. Pitbull) by USHER,USHER,2025-02-13,271,37,31 to 40,2,22,0,0,0,3.68,85.0,0.0,,0,2,True,272,0,2,False,lowest risk,
+556,TEXAS HOLD 'EM by Beyoncé,Beyoncé,2025-02-14,272,2,1 to 10,2,3,1,1,0,3.927,77.0,12.0,78.58333333333333,0,64,True,335,0,64,False,lowest risk,lowest risk
+557,16 CARRIAGES by Beyoncé,Beyoncé,2025-02-14,272,17,11 to 20,2,27,0,0,0,3.788,72.0,12.0,78.58333333333333,0,4,True,275,0,4,True,middle,lowest risk
+558,My Boo by USHER,USHER,2025-02-14,272,20,11 to 20,3,21,0,0,0,3.724,84.0,2.0,86.0,1,3,True,274,0,3,False,lowest risk,highest risk
+559,Hey Daddy (Daddy's Home) by USHER,USHER,2025-02-14,272,40,31 to 40,3,22,0,0,0,3.735,85.0,2.0,86.0,1,1,True,272,0,1,False,middle,
+560,Love in This Club (feat. Young Jeezy) by USHER,USHER,2025-02-14,272,42,41 to 50,3,18,0,0,0,4.329,78.0,2.0,86.0,1,1,True,272,0,1,False,middle,
+561,Breathe by Yeat,Yeat,2025-02-18,276,20,11 to 20,1,22,0,1,0,2.847,70.0,0.0,,0,38,True,314,1,33,False,lowest risk,lowest risk
+562,Training Season by Dua Lipa,Dua Lipa,2025-02-18,276,24,21 to 30,1,4,1,0,0,3.491,78.0,104.0,93.96153846153847,0,8,True,283,0,8,False,lowest risk,lowest risk
+563,End of Beginning by Djo,Djo,2025-02-18,276,43,41 to 50,1,13,0,0,0,2.654,80.0,0.0,,0,138,True,418,2,122,True,middle,lowest risk
+564,Whatever She Wants by Bryson Tiller,Bryson Tiller,2025-02-19,277,40,31 to 40,1,1,1,1,0,2.689,75.0,0.0,,0,45,True,321,0,45,True,lowest risk,lowest risk
+565,Evergreen by Richy Mitch & The Coal Miners,Richy Mitch & The Coal Miners,2025-02-24,282,48,41 to 50,1,14,0,0,0,1.45,90.0,0.0,,0,9,True,295,2,1,True,lowest risk,
+566,Thinkin Bout You by Frank Ocean,Frank Ocean,2025-02-24,282,50,41 to 50,1,17,0,0,0,3.346,87.0,145.0,90.60689655172413,1,7,True,288,0,7,False,lowest risk,lowest risk
+567,Saturn by SZA,SZA,2025-02-25,283,3,1 to 10,1,5,1,0,0,3.103,83.0,520.0,91.53757225433526,1,119,True,404,2,115,False,lowest risk,lowest risk
+568,You Should Probably Leave by Chris Stapleton,Chris Stapleton,2025-02-26,284,46,41 to 50,1,14,0,0,0,3.558,86.0,2.0,41.0,0,2,True,285,0,2,False,lowest risk,
+569,Scared To Start by Michael Marcagi,Michael Marcagi,2025-03-03,289,43,41 to 50,1,1,1,0,0,2.661,90.0,0.0,,0,47,True,335,0,47,True,lowest risk,middle
+570,Doctor (Work It Out) [feat. Miley Cyrus] by Pharrell Williams & Miley Cyrus,Pharrell Williams,2025-03-03,289,45,41 to 50,1,1,1,0,1,3.037,73.0,97.0,88.4639175257732,0,1,True,289,0,1,False,middle,
+571,Overcompensate by Twenty One Pilots,Twenty One Pilots,2025-03-03,289,48,41 to 50,1,2,1,0,0,3.933,76.0,0.0,,0,1,True,289,0,1,False,middle,
+572,bye by Ariana Grande,Ariana Grande,2025-03-10,296,2,1 to 10,12,13,0,0,0,2.749,78.0,65.0,92.86153846153846,0,13,True,308,0,13,False,middle,middle
+573,we can't be friends (wait for your love) by Ariana Grande,Ariana Grande,2025-03-10,296,3,1 to 10,12,13,0,0,0,3.811,69.0,65.0,92.86153846153846,0,115,True,410,0,115,True,middle,lowest risk
+574,the boy is mine by Ariana Grande,Ariana Grande,2025-03-10,296,4,1 to 10,12,13,0,1,0,2.894,77.0,65.0,92.86153846153846,0,23,True,321,1,19,False,middle,lowest risk
+575,eternal sunshine by Ariana Grande,Ariana Grande,2025-03-10,296,5,1 to 10,12,13,0,0,0,3.503,60.0,65.0,92.86153846153846,0,13,True,308,0,13,False,middle,lowest risk
+576,don't wanna break up again by Ariana Grande,Ariana Grande,2025-03-10,296,7,1 to 10,12,13,0,1,0,2.9,77.0,65.0,92.86153846153846,0,11,True,306,0,11,False,middle,middle
+577,intro (end of the world) by Ariana Grande,Ariana Grande,2025-03-10,296,8,1 to 10,12,13,0,1,0,1.54,77.0,65.0,92.86153846153846,0,9,True,305,1,8,False,middle,middle
+578,supernatural by Ariana Grande,Ariana Grande,2025-03-10,296,9,1 to 10,12,13,0,0,0,2.723,77.0,65.0,92.86153846153846,0,12,True,307,0,12,False,middle,middle
+579,true story by Ariana Grande,Ariana Grande,2025-03-10,296,11,11 to 20,12,13,0,0,0,2.721,76.0,65.0,92.86153846153846,0,8,True,303,0,8,False,middle,middle
+580,act ii: date @ 8 (feat. Drake) - remix by 4batz & Drake,4batz,2025-03-10,296,16,11 to 20,1,1,1,1,1,3.856,74.0,815.0,87.17444717444718,1,13,True,308,0,13,False,lowest risk,middle
+581,Saturn Returns Interlude by Ariana Grande,Ariana Grande,2025-03-10,296,19,11 to 20,12,13,0,0,0,0.703,75.0,65.0,92.86153846153846,0,5,True,300,0,5,False,middle,highest risk
+582,i wish i hated you by Ariana Grande,Ariana Grande,2025-03-10,296,21,21 to 30,12,13,0,0,0,2.561,75.0,65.0,92.86153846153846,0,7,True,302,0,7,False,highest risk,middle
+583,imperfect for you by Ariana Grande,Ariana Grande,2025-03-10,296,23,21 to 30,12,13,0,1,0,3.043,74.0,65.0,92.86153846153846,0,7,True,302,0,7,False,highest risk,middle
+584,ordinary things (feat. Nonna) by Ariana Grande,Ariana Grande,2025-03-10,296,28,21 to 30,12,13,0,0,0,2.808,56.0,65.0,92.86153846153846,0,5,True,300,0,5,False,highest risk,highest risk
+585,Austin by Dasha,Dasha,2025-03-15,300,45,41 to 50,1,8,0,1,0,2.863,76.0,0.0,,0,34,True,335,1,15,True,lowest risk,lowest risk
+586,Enough (Miami) by Cardi B,Cardi B,2025-03-17,302,40,31 to 40,1,5,1,1,0,2.645,61.0,9.0,78.66666666666667,0,5,True,308,1,1,False,highest risk,
+587,Baby Please by Ivan Cornejo,Ivan Cornejo,2025-03-17,302,46,41 to 50,1,1,1,0,0,2.972,66.0,1.0,,0,1,True,302,0,1,False,middle,
+588,Mmhmm by BigXthaPlug,BigXthaPlug,2025-03-18,303,41,41 to 50,1,7,0,1,0,1.984,79.0,0.0,,0,25,True,335,3,2,True,lowest risk,
+589,Where the Wild Things Are by Luke Combs,Luke Combs,2025-03-18,303,50,41 to 50,1,18,0,0,0,3.992,84.0,191.0,89.97905759162303,0,3,True,314,2,1,True,highest risk,
+590,I'm Shipping Up To Boston by Dropkick Murphys,Dropkick Murphys,2025-03-19,304,48,41 to 50,1,14,0,0,0,2.56,74.0,0.0,,0,1,True,304,0,1,False,lowest risk,
+591,Like That by Future & Metro Boomin,Future,2025-03-24,309,1,1 to 10,16,17,0,1,1,4.462,83.0,233.0,90.11587982832619,0,169,True,486,4,143,False,lowest risk,lowest risk
+592,Too Sweet by Hozier,Hozier,2025-03-24,309,2,1 to 10,4,20,0,0,0,4.19,45.0,8.0,71.625,0,230,True,545,2,217,False,middle,lowest risk
+593,Type Shit by Future & Metro Boomin,Future,2025-03-24,309,3,1 to 10,16,17,0,1,1,3.804,81.0,233.0,90.11587982832619,0,85,True,395,2,83,False,lowest risk,lowest risk
+594,We Don't Trust You by Future & Metro Boomin,Future,2025-03-24,309,4,1 to 10,16,17,0,1,1,3.77,80.0,233.0,90.11587982832619,0,13,True,321,0,13,False,lowest risk,middle
+595,Young Metro by Future & Metro Boomin,Future,2025-03-24,309,6,1 to 10,16,17,0,1,1,3.422,79.0,233.0,90.11587982832619,0,13,True,321,0,13,False,lowest risk,middle
+596,Cinderella by Future & Metro Boomin,Future,2025-03-24,309,7,1 to 10,16,17,0,1,1,2.831,80.0,233.0,90.11587982832619,0,27,True,335,0,27,False,lowest risk,lowest risk
+597,Ice Attack by Future & Metro Boomin,Future,2025-03-24,309,8,1 to 10,16,17,0,1,1,3.321,78.0,233.0,90.11587982832619,0,6,True,314,0,6,False,middle,middle
+598,obsessed by Olivia Rodrigo,Olivia Rodrigo,2025-03-24,309,9,1 to 10,5,17,0,1,0,2.842,48.0,559.0,90.32021466905188,1,27,True,335,0,27,False,lowest risk,lowest risk
+599,Slimed In by Future & Metro Boomin,Future,2025-03-24,309,13,11 to 20,16,17,0,1,1,3.248,77.0,233.0,90.11587982832619,0,5,True,313,0,5,False,middle,highest risk
+600,Claustrophobic by Future & Metro Boomin,Future,2025-03-24,309,14,11 to 20,16,17,0,1,1,3.701,77.0,233.0,90.11587982832619,0,4,True,312,0,4,False,middle,highest risk
+601,Magic Don Juan (Princess Diana) by Future & Metro Boomin,Future,2025-03-24,309,15,11 to 20,16,17,0,1,1,3.679,76.0,233.0,90.11587982832619,0,4,True,312,0,4,False,middle,highest risk
+602,Wildflower and Barley (feat. Allison Russell) by Hozier,Hozier,2025-03-24,309,16,11 to 20,4,4,1,0,0,3.703,40.0,8.0,71.625,0,2,True,310,0,2,False,highest risk,
+603,Runnin Outta Time by Future & Metro Boomin,Future,2025-03-24,309,17,11 to 20,16,17,0,1,1,3.425,76.0,233.0,90.11587982832619,0,3,True,311,0,3,False,middle,highest risk
+604,so american by Olivia Rodrigo,Olivia Rodrigo,2025-03-24,309,20,11 to 20,5,17,0,1,0,2.829,46.0,559.0,90.32021466905188,1,6,True,314,0,6,False,middle,lowest risk
+605,Fried (She a Vibe) by Future & Metro Boomin,Future,2025-03-24,309,21,21 to 30,16,17,0,1,1,3.503,75.0,233.0,90.11587982832619,0,4,True,312,0,4,False,middle,highest risk
+606,Everyday Hustle by Future & Metro Boomin,Future,2025-03-24,309,24,21 to 30,16,17,0,1,1,3.782,74.0,233.0,90.11587982832619,0,3,True,311,0,3,False,highest risk,highest risk
+607,Empire Now by Hozier,Hozier,2025-03-24,309,26,21 to 30,4,4,1,0,0,2.97,38.0,8.0,71.625,0,1,True,309,0,1,False,highest risk,
+608,Ain't No Love by Future & Metro Boomin,Future,2025-03-24,309,27,21 to 30,16,17,0,1,1,3.047,,233.0,90.11587982832619,0,1,True,309,0,1,False,highest risk,
+609,GTA by Future & Metro Boomin,Future,2025-03-24,309,28,21 to 30,16,17,0,1,1,3.884,,233.0,90.11587982832619,0,1,True,309,0,1,False,highest risk,
+610,girl i’ve always been by Olivia Rodrigo,Olivia Rodrigo,2025-03-24,309,29,21 to 30,5,17,0,0,0,2.023,44.0,559.0,90.32021466905188,1,1,True,309,0,1,False,middle,
+611,stranger by Olivia Rodrigo,Olivia Rodrigo,2025-03-24,309,30,21 to 30,5,17,0,0,0,3.213,43.0,559.0,90.32021466905188,1,1,True,309,0,1,False,middle,
+612,scared of my guitar by Olivia Rodrigo,Olivia Rodrigo,2025-03-24,309,32,31 to 40,5,17,0,0,0,4.399,44.0,559.0,90.32021466905188,1,1,True,309,0,1,False,highest risk,
+613,Slow It Down by Benson Boone,Benson Boone,2025-03-24,309,34,31 to 40,1,15,0,0,0,2.697,48.0,61.0,95.42622950819673,1,26,True,335,1,7,True,middle,lowest risk
+614,Fare Well by Hozier,Hozier,2025-03-24,309,35,31 to 40,4,4,1,0,0,3.141,37.0,8.0,71.625,0,1,True,309,0,1,False,highest risk,
+615,Seen it All by Future & Metro Boomin,Future,2025-03-24,309,39,31 to 40,16,17,0,1,1,2.991,,233.0,90.11587982832619,0,1,True,309,0,1,False,highest risk,
+616,WTFYM by Future & Metro Boomin,Future,2025-03-24,309,40,31 to 40,16,17,0,1,1,4.877,,233.0,90.11587982832619,0,1,True,309,0,1,False,highest risk,
+617,LA PEOPLE II by Peso Pluma & Tito Double P & Joel De La P,Peso Pluma,2025-03-24,309,42,41 to 50,1,1,1,1,1,2.351,81.0,601.0,93.2325,0,4,True,314,2,1,False,middle,
+618,i like the way you kiss me by Artemas,Artemas,2025-03-27,311,46,41 to 50,1,1,1,0,0,2.375,83.0,0.0,,0,100,True,410,0,100,False,middle,lowest risk
+619,Get It Sexyy by Sexyy Red,Sexyy Red,2025-03-29,313,41,41 to 50,1,1,1,1,0,2.476,76.0,0.0,,0,22,True,335,1,2,True,lowest risk,
+620,I LUV IT (feat. Playboi Carti) by Camila Cabello & Playboi Carti,Camila Cabello,2025-03-30,314,31,31 to 40,1,1,1,1,1,2.915,75.0,27.0,78.0,0,5,True,321,1,2,False,middle,
+621,JOLENE by Beyoncé,Beyoncé,2025-03-31,315,3,1 to 10,21,27,0,0,0,3.161,50.0,59.0,81.01694915254237,1,9,True,323,0,9,False,middle,highest risk
+622,II MOST WANTED by Beyoncé,Beyoncé,2025-03-31,315,4,1 to 10,21,27,0,0,0,3.475,49.0,59.0,81.01694915254237,1,14,True,328,0,14,False,middle,middle
+623,AMERIICAN REQUIEM by Beyoncé,Beyoncé,2025-03-31,315,6,1 to 10,21,27,0,0,0,5.417,50.0,59.0,81.01694915254237,1,6,True,320,0,6,False,highest risk,highest risk
+624,BLACKBIIRD by Beyoncé,Beyoncé,2025-03-31,315,7,1 to 10,21,27,0,0,0,2.199,49.0,59.0,81.01694915254237,1,5,True,319,0,5,False,middle,highest risk
+625,BODYGUARD by Beyoncé,Beyoncé,2025-03-31,315,8,1 to 10,21,27,0,1,0,4.004,74.0,59.0,81.01694915254237,1,10,True,324,0,10,False,middle,highest risk
+626,LEVII'S JEANS by Beyoncé,Beyoncé,2025-03-31,315,10,1 to 10,21,27,0,1,0,4.295,73.0,59.0,81.01694915254237,1,9,True,323,0,9,False,middle,highest risk
+627,DAUGHTER by Beyoncé,Beyoncé,2025-03-31,315,13,11 to 20,21,27,0,0,0,3.398,48.0,59.0,81.01694915254237,1,6,True,320,0,6,False,highest risk,highest risk
+628,PROTECTOR by Beyoncé,Beyoncé,2025-03-31,315,14,11 to 20,21,27,0,0,0,3.073,48.0,59.0,81.01694915254237,1,4,True,318,0,4,False,highest risk,highest risk
+629,SPAGHETTII by Beyoncé,Beyoncé,2025-03-31,315,15,11 to 20,21,27,0,1,0,2.641,73.0,59.0,81.01694915254237,1,6,True,320,0,6,False,middle,highest risk
+630,SMOKE HOUR ★ WILLIE NELSON by Beyoncé,Beyoncé,2025-03-31,315,17,11 to 20,21,27,0,0,0,0.845,47.0,59.0,81.01694915254237,1,3,True,317,0,3,False,middle,highest risk
+631,MY ROSE by Beyoncé,Beyoncé,2025-03-31,315,20,11 to 20,21,27,0,0,0,0.891,47.0,59.0,81.01694915254237,1,3,True,317,0,3,False,highest risk,highest risk
+632,YA YA by Beyoncé,Beyoncé,2025-03-31,315,21,21 to 30,21,27,0,1,0,4.579,72.0,59.0,81.01694915254237,1,7,True,321,0,7,False,highest risk,highest risk
+633,ALLIIGATOR TEARS by Beyoncé,Beyoncé,2025-03-31,315,22,21 to 30,21,27,0,0,0,2.99,46.0,59.0,81.01694915254237,1,4,True,318,0,4,False,highest risk,highest risk
+634,JUST FOR FUN by Beyoncé,Beyoncé,2025-03-31,315,24,21 to 30,21,27,0,0,0,3.408,46.0,59.0,81.01694915254237,1,3,True,317,0,3,False,highest risk,highest risk
+635,FLAMENCO by Beyoncé,Beyoncé,2025-03-31,315,27,21 to 30,21,27,0,0,0,1.673,45.0,59.0,81.01694915254237,1,2,True,316,0,2,False,highest risk,
+636,RIIVERDANCE by Beyoncé,Beyoncé,2025-03-31,315,28,21 to 30,21,27,0,1,0,4.2,70.0,59.0,81.01694915254237,1,4,True,318,0,4,False,highest risk,highest risk
+637,DESERT EAGLE by Beyoncé,Beyoncé,2025-03-31,315,31,31 to 40,21,27,0,0,0,1.207,45.0,59.0,81.01694915254237,1,2,True,316,0,2,False,highest risk,
+638,OH LOUISIANA by Beyoncé,Beyoncé,2025-03-31,315,32,31 to 40,21,27,0,0,0,0.87,45.0,59.0,81.01694915254237,1,2,True,316,0,2,False,highest risk,
+639,TYRANT by Beyoncé,Beyoncé,2025-03-31,315,33,31 to 40,21,27,0,0,0,4.179,45.0,59.0,81.01694915254237,1,4,True,318,0,4,False,highest risk,highest risk
+640,II HANDS II HEAVEN by Beyoncé,Beyoncé,2025-03-31,315,36,31 to 40,21,27,0,0,0,5.689,44.0,59.0,81.01694915254237,1,2,True,316,0,2,False,highest risk,
+641,SWEET ★ HONEY ★ BUCKIIN' by Beyoncé,Beyoncé,2025-03-31,315,37,31 to 40,21,27,0,1,0,4.936,69.0,59.0,81.01694915254237,1,2,True,316,0,2,False,highest risk,
+642,Gata Only by FloyyMenor & Cris Mj,FloyyMenor,2025-04-04,319,42,41 to 50,1,1,1,1,1,3.7,94.0,0.0,,0,113,True,435,3,35,False,middle,lowest risk
+643,Magnetic by ILLIT,ILLIT,2025-04-04,319,47,41 to 50,1,4,1,0,0,2.678,87.0,0.0,,0,12,True,335,2,3,False,middle,lowest risk
+644,Corazón de Piedra by Xavi,Xavi,2025-04-05,320,44,41 to 50,1,1,1,0,0,3.226,87.0,167.0,96.07784431137725,1,8,True,328,1,2,False,lowest risk,
+645,7 Minute Drill by J. Cole,J. Cole,2025-04-07,322,3,1 to 10,12,12,0,1,0,3.537,74.0,364.0,88.57417582417582,0,7,True,328,0,7,False,lowest risk,lowest risk
+646,Crocodile Tearz by J. Cole,J. Cole,2025-04-07,322,4,1 to 10,12,12,0,1,0,3.82,73.0,364.0,88.57417582417582,0,6,True,327,0,6,False,lowest risk,middle
+647,"Pricey (feat. Ari Lennox, Young Dro & Gucci Mane) by J. Cole",J. Cole,2025-04-07,322,7,1 to 10,12,12,0,1,0,4.919,72.0,364.0,88.57417582417582,0,3,True,324,0,3,False,lowest risk,highest risk
+648,Huntin’ Wabbitz by J. Cole,J. Cole,2025-04-07,322,9,1 to 10,12,12,0,1,0,2.7,71.0,364.0,88.57417582417582,0,4,True,325,0,4,False,lowest risk,highest risk
+649,Ready ‘24 (feat. Cam’ron) by J. Cole,J. Cole,2025-04-07,322,11,11 to 20,12,12,0,1,0,3.502,71.0,364.0,88.57417582417582,0,2,True,323,0,2,False,lowest risk,
+650,H.Y.B. (feat. Bas & Central Cee) by J. Cole,J. Cole,2025-04-07,322,13,11 to 20,12,12,0,1,0,3.91,72.0,364.0,88.57417582417582,0,4,True,325,0,4,False,lowest risk,highest risk
+651,Stickz N Stonez by J. Cole,J. Cole,2025-04-07,322,18,11 to 20,12,12,0,1,0,3.346,69.0,364.0,88.57417582417582,0,2,True,323,0,2,False,middle,
+652,Fever by J. Cole,J. Cole,2025-04-07,322,19,11 to 20,12,12,0,1,0,2.377,69.0,364.0,88.57417582417582,0,1,True,322,0,1,False,middle,
+653,Whatever She Wants [BONUS] by Bryson Tiller,Bryson Tiller,2025-04-07,322,21,21 to 30,1,19,0,1,0,2.689,51.0,45.0,86.62222222222222,1,10,True,331,0,10,False,lowest risk,lowest risk
+654,Pi (feat. Daylyt & Ab-Soul) by J. Cole,J. Cole,2025-04-07,322,25,21 to 30,12,12,0,1,0,5.913,69.0,364.0,88.57417582417582,0,1,True,322,0,1,False,middle,
+655,3001 by J. Cole,J. Cole,2025-04-07,322,32,31 to 40,12,12,0,1,0,2.631,68.0,364.0,88.57417582417582,0,1,True,322,0,1,False,middle,
+656,Stealth Mode (feat. Bas) by J. Cole,J. Cole,2025-04-07,322,33,31 to 40,12,12,0,1,0,2.254,68.0,364.0,88.57417582417582,0,1,True,322,0,1,False,middle,
+657,Trae The Truth in Ibiza by J. Cole,J. Cole,2025-04-07,322,34,31 to 40,12,12,0,1,0,4.257,67.0,364.0,88.57417582417582,0,1,True,322,0,1,False,highest risk,
+658,Cry by Benson Boone,Benson Boone,2025-04-07,322,48,41 to 50,1,15,0,0,0,3.106,68.0,86.0,93.8953488372093,1,2,True,328,1,1,False,middle,
+659,"Good Luck, Babe! by Chappell Roan",Chappell Roan,2025-04-07,322,49,41 to 50,1,1,1,0,0,3.64,66.0,0.0,,0,232,False,554,1,1,False,highest risk,
+660,Wanna Be (with Megan Thee Stallion) by GloRilla,GloRilla,2025-04-08,323,50,41 to 50,1,12,0,1,0,2.607,59.0,0.0,,0,13,True,335,0,13,True,middle,lowest risk
+661,Total Eclipse of the Heart by Bonnie Tyler,Bonnie Tyler,2025-04-10,325,36,31 to 40,1,48,0,0,0,4.456,80.0,0.0,,0,1,True,325,0,1,False,middle,
+662,Ain't No Sunshine by Bill Withers,Bill Withers,2025-04-10,325,49,41 to 50,1,12,0,0,0,2.085,86.0,0.0,,0,1,True,325,0,1,False,lowest risk,
+663,Tell Ur Girlfriend by Lay Bankz,Lay Bankz,2025-04-11,326,46,41 to 50,1,1,1,1,0,2.074,78.0,0.0,,0,33,True,359,1,31,False,middle,lowest risk
+664,if u think i'm pretty by Artemas,Artemas,2025-04-11,326,50,41 to 50,1,13,0,1,0,2.137,84.0,15.0,90.53333333333333,1,6,True,334,1,3,False,middle,middle
+665,Espresso by Sabrina Carpenter,Sabrina Carpenter,2025-04-14,329,7,1 to 10,1,1,1,1,0,2.924,75.0,90.0,91.64444444444445,1,226,False,554,0,226,False,lowest risk,lowest risk
+666,We Still Don't Trust You by Future & Metro Boomin,Future,2025-04-14,329,15,11 to 20,3,25,0,1,1,4.215,74.0,352.0,88.41954022988506,1,7,True,335,0,7,False,lowest risk,middle
+667,Red Leather by Future & Metro Boomin,Future,2025-04-14,329,40,31 to 40,3,25,0,1,1,6.915,69.0,352.0,88.41954022988506,1,2,True,330,0,2,False,highest risk,
+668,A Bar Song (Tipsy) by Shaboozey,Shaboozey,2025-04-14,329,44,41 to 50,1,12,0,1,0,2.855,66.0,0.0,,0,226,False,554,0,226,False,middle,lowest risk
+669,Wild Ones (feat. Jelly Roll) by Jessie Murph & Jelly Roll,Jessie Murph,2025-04-14,329,46,41 to 50,1,1,1,1,1,2.356,84.0,0.0,,0,3,True,331,0,3,False,middle,middle
+670,Out Of My Hands by Future & Metro Boomin,Future,2025-04-14,329,49,41 to 50,3,25,0,1,1,4.051,70.0,352.0,88.41954022988506,1,2,True,330,0,2,False,highest risk,
+671,Red Wine Supernova by Chappell Roan,Chappell Roan,2025-04-16,331,49,41 to 50,1,14,0,1,0,3.212,80.0,8.0,75.25,1,5,True,335,0,5,True,lowest risk,middle
+672,Feel It - From The Original Series “Invincible” by d4vd,d4vd,2025-04-17,332,46,41 to 50,1,1,1,0,0,2.633,84.0,22.0,90.31818181818181,0,4,True,335,0,4,False,lowest risk,lowest risk
+673,Fortnight (feat. Post Malone) by Taylor Swift,Taylor Swift,2025-04-21,336,1,1 to 10,31,16,0,0,0,3.816,85.0,1216.0,91.167215815486,1,102,True,438,1,76,True,middle,middle
+674,Down Bad by Taylor Swift,Taylor Swift,2025-04-21,336,2,1 to 10,31,16,0,1,0,4.354,81.0,1216.0,91.167215815486,1,49,True,384,0,49,False,highest risk,middle
+675,I Can Do It With a Broken Heart by Taylor Swift,Taylor Swift,2025-04-21,336,3,1 to 10,31,16,0,1,0,3.633,79.0,1216.0,91.167215815486,1,95,True,433,2,76,True,highest risk,middle
+676,"So Long, London by Taylor Swift",Taylor Swift,2025-04-21,336,4,1 to 10,31,16,0,0,0,4.383,81.0,1216.0,91.167215815486,1,35,True,370,0,35,False,highest risk,middle
+677,The Tortured Poets Department by Taylor Swift,Taylor Swift,2025-04-21,336,5,1 to 10,31,16,0,1,0,4.884,82.0,1216.0,91.167215815486,1,28,True,363,0,28,False,highest risk,middle
+678,But Daddy I Love Him by Taylor Swift,Taylor Swift,2025-04-21,336,6,1 to 10,31,16,0,1,0,5.674,80.0,1216.0,91.167215815486,1,33,True,368,0,33,False,highest risk,middle
+679,My Boy Only Breaks His Favorite Toys by Taylor Swift,Taylor Swift,2025-04-21,336,7,1 to 10,31,16,0,0,0,3.397,81.0,1216.0,91.167215815486,1,29,True,364,0,29,False,highest risk,middle
+680,Florida!!! (feat. Florence + The Machine) by Taylor Swift,Taylor Swift,2025-04-21,336,8,1 to 10,31,16,0,1,0,3.591,80.0,1216.0,91.167215815486,1,28,True,363,0,28,False,highest risk,middle
+681,Who’s Afraid of Little Old Me? by Taylor Swift,Taylor Swift,2025-04-21,336,9,1 to 10,31,16,0,0,0,5.568,79.0,1216.0,91.167215815486,1,41,True,377,1,37,False,highest risk,middle
+682,Guilty as Sin? by Taylor Swift,Taylor Swift,2025-04-21,336,10,1 to 10,31,16,0,0,0,4.239,79.0,1216.0,91.167215815486,1,39,True,378,1,35,False,highest risk,middle
+683,The Alchemy by Taylor Swift,Taylor Swift,2025-04-21,336,11,11 to 20,31,16,0,0,0,3.282,77.0,1216.0,91.167215815486,1,21,True,360,2,19,False,highest risk,highest risk
+684,Push Ups by Drake,Drake,2025-04-21,336,12,11 to 20,1,1,1,1,0,3.88,74.0,844.0,87.15895610913404,0,28,True,363,0,28,False,lowest risk,lowest risk
+685,loml by Taylor Swift,Taylor Swift,2025-04-21,336,13,11 to 20,31,16,0,1,0,4.619,78.0,1216.0,91.167215815486,1,22,True,357,0,22,False,highest risk,middle
+686,The Smallest Man Who Ever Lived by Taylor Swift,Taylor Swift,2025-04-21,336,14,11 to 20,31,16,0,1,0,4.092,77.0,1216.0,91.167215815486,1,28,True,363,0,28,False,highest risk,middle
+687,Fresh Out The Slammer by Taylor Swift,Taylor Swift,2025-04-21,336,15,11 to 20,31,16,0,0,0,3.513,79.0,1216.0,91.167215815486,1,18,True,353,0,18,False,highest risk,middle
+688,I Can Fix Him (No Really I Can) by Taylor Swift,Taylor Swift,2025-04-21,336,16,11 to 20,31,16,0,0,0,2.605,78.0,1216.0,91.167215815486,1,15,True,350,0,15,False,highest risk,highest risk
+689,thanK you aIMee by Taylor Swift,Taylor Swift,2025-04-21,336,18,11 to 20,31,31,0,1,0,4.397,79.0,1216.0,91.167215815486,1,9,True,344,0,9,False,highest risk,highest risk
+690,Clara Bow by Taylor Swift,Taylor Swift,2025-04-21,336,19,11 to 20,31,16,0,0,0,3.611,76.0,1216.0,91.167215815486,1,13,True,348,0,13,False,highest risk,highest risk
+691,The Black Dog by Taylor Swift,Taylor Swift,2025-04-21,336,20,11 to 20,31,31,0,1,0,3.981,79.0,1216.0,91.167215815486,1,15,True,350,0,15,False,highest risk,highest risk
+692,So High School by Taylor Swift,Taylor Swift,2025-04-21,336,21,21 to 30,31,31,0,0,0,3.813,78.0,1216.0,91.167215815486,1,16,True,351,0,16,True,highest risk,highest risk
+693,imgonnagetyouback by Taylor Swift,Taylor Swift,2025-04-21,336,22,21 to 30,31,31,0,0,0,3.701,79.0,1216.0,91.167215815486,1,15,True,350,0,15,False,highest risk,highest risk
+694,The Albatross by Taylor Swift,Taylor Swift,2025-04-21,336,24,21 to 30,31,31,0,0,0,3.065,78.0,1216.0,91.167215815486,1,10,True,346,1,9,False,highest risk,highest risk
+695,The Prophecy by Taylor Swift,Taylor Swift,2025-04-21,336,25,21 to 30,31,31,0,0,0,4.163,77.0,1216.0,91.167215815486,1,13,True,348,0,13,False,highest risk,highest risk
+696,Chloe or Sam or Sophia or Marcus by Taylor Swift,Taylor Swift,2025-04-21,336,27,21 to 30,31,31,0,0,0,3.555,78.0,1216.0,91.167215815486,1,8,True,343,0,8,False,highest risk,highest risk
+697,How Did It End? by Taylor Swift,Taylor Swift,2025-04-21,336,28,21 to 30,31,31,0,0,0,3.978,78.0,1216.0,91.167215815486,1,10,True,346,1,9,False,highest risk,highest risk
+698,I Hate It Here by Taylor Swift,Taylor Swift,2025-04-21,336,29,21 to 30,31,31,0,0,0,4.065,77.0,1216.0,91.167215815486,1,9,True,346,1,8,False,highest risk,highest risk
+699,I Look in People's Windows by Taylor Swift,Taylor Swift,2025-04-21,336,31,31 to 40,31,31,0,0,0,2.198,77.0,1216.0,91.167215815486,1,8,True,343,0,8,False,highest risk,highest risk
+700,Cassandra by Taylor Swift,Taylor Swift,2025-04-21,336,32,31 to 40,31,31,0,1,0,4.003,76.0,1216.0,91.167215815486,1,7,True,342,0,7,False,highest risk,highest risk
+701,Peter by Taylor Swift,Taylor Swift,2025-04-21,336,33,31 to 40,31,31,0,0,0,4.733,76.0,1216.0,91.167215815486,1,7,True,342,0,7,False,highest risk,highest risk
+702,The Bolter by Taylor Swift,Taylor Swift,2025-04-21,336,34,31 to 40,31,31,0,1,0,3.971,75.0,1216.0,91.167215815486,1,7,True,342,0,7,False,highest risk,highest risk
+703,The Manuscript by Taylor Swift,Taylor Swift,2025-04-21,336,36,31 to 40,31,31,0,0,0,3.746,75.0,1216.0,91.167215815486,1,5,True,340,0,5,False,highest risk,highest risk
+704,Robin by Taylor Swift,Taylor Swift,2025-04-21,336,37,31 to 40,31,31,0,0,0,4.015,75.0,1216.0,91.167215815486,1,4,True,339,0,4,False,highest risk,highest risk
+705,MILLION DOLLAR BABY by Tommy Richman,Tommy Richman,2025-04-28,343,31,31 to 40,1,2,1,0,0,2.586,67.0,0.0,,0,206,False,550,1,186,False,middle,lowest risk
+706,ADIVINO by Myke Towers & Bad Bunny,Myke Towers,2025-04-28,343,36,31 to 40,1,1,1,1,1,4.644,77.0,421.0,91.60926365795724,0,1,True,343,0,1,True,middle,
+707,MILLION DOLLAR BABY (VHS) by Tommy Richman,Tommy Richman,2025-04-29,344,45,41 to 50,1,2,1,0,0,2.586,71.0,1.0,67.0,1,14,True,357,0,14,False,middle,highest risk
+708,euphoria by Kendrick Lamar,Kendrick Lamar,2025-05-02,347,19,11 to 20,1,1,1,1,0,6.394,69.0,51.0,83.37254901960785,0,63,True,409,0,63,False,lowest risk,lowest risk
+709,Family Matters by Drake,Drake,2025-05-06,351,5,1 to 10,1,1,1,1,0,7.616,74.0,859.0,87.14452214452214,1,15,True,365,0,15,False,lowest risk,lowest risk
+710,Cowgirls (feat. ERNEST) by Morgan Wallen,Morgan Wallen,2025-05-06,351,48,41 to 50,1,36,0,0,0,3.027,84.0,1025.0,86.29268292682927,1,184,False,549,5,1,False,middle,
+711,Not Like Us by Kendrick Lamar,Kendrick Lamar,2025-05-07,352,1,1 to 10,2,1,1,1,0,4.57,79.0,56.0,83.05357142857143,1,201,False,554,1,177,False,lowest risk,lowest risk
+712,meet the grahams by Kendrick Lamar,Kendrick Lamar,2025-05-07,352,9,1 to 10,2,1,1,1,0,6.536,72.0,56.0,83.05357142857143,1,13,True,364,0,13,False,lowest risk,lowest risk
+713,Gata Only (Mashup) by Dj Agus Lima,Dj Agus Lima,2025-05-09,354,26,21 to 30,1,9,0,0,0,3.59,48.0,0.0,,0,2,True,355,0,2,False,lowest risk,
+714,HUMBLE. by Kendrick Lamar,Kendrick Lamar,2025-05-09,354,31,31 to 40,1,14,0,1,0,2.95,86.0,62.0,83.01612903225806,1,2,True,355,0,2,False,lowest risk,
+715,All The Stars (with SZA) by Kendrick Lamar & SZA,Kendrick Lamar,2025-05-11,356,46,41 to 50,1,14,0,1,1,3.87,87.0,633.0,91.56012658227849,1,1,True,356,0,1,False,lowest risk,
+716,I Had Some Help (Feat. Morgan Wallen) by Post Malone & Morgan Wallen,Post Malone,2025-05-12,357,1,1 to 10,1,18,0,1,1,2.97,83.0,1033.0,86.27686350435624,1,198,False,554,0,198,False,lowest risk,lowest risk
+717,LA DURANGO by Peso Pluma & Junior H & Eslabon Armado,Peso Pluma,2025-05-12,357,42,41 to 50,1,1,1,1,1,4.381,70.0,605.0,93.1498344370861,0,1,True,357,0,1,False,middle,
+718,Yeah Glo! by GloRilla,GloRilla,2025-05-13,358,48,41 to 50,1,12,0,1,0,2.378,80.0,18.0,75.44444444444444,0,1,True,358,0,1,True,middle,
+719,Belong Together by Mark Ambor,Mark Ambor,2025-05-16,361,49,41 to 50,1,1,1,0,0,2.472,93.0,0.0,,0,3,True,363,0,3,False,middle,middle
+720,one of wun by Gunna,Gunna,2025-05-17,362,44,41 to 50,1,20,0,1,0,2.4,77.0,239.0,93.15062761506276,0,25,True,391,1,9,True,lowest risk,lowest risk
+721,LUNCH by Billie Eilish,Billie Eilish,2025-05-19,364,4,1 to 10,10,10,0,0,0,2.993,62.0,142.0,95.2394366197183,0,89,True,458,1,88,False,lowest risk,lowest risk
+722,CHIHIRO by Billie Eilish,Billie Eilish,2025-05-19,364,5,1 to 10,10,10,0,0,0,5.057,61.0,142.0,95.2394366197183,0,56,True,430,3,48,False,middle,lowest risk
+723,BIRDS OF A FEATHER by Billie Eilish,Billie Eilish,2025-05-19,364,8,1 to 10,10,10,0,0,0,3.506,59.0,142.0,95.2394366197183,0,191,False,554,0,191,False,middle,lowest risk
+724,SKINNY by Billie Eilish,Billie Eilish,2025-05-19,364,9,1 to 10,10,10,0,0,0,3.662,61.0,142.0,95.2394366197183,0,14,True,377,0,14,False,middle,lowest risk
+725,WILDFLOWER by Billie Eilish,Billie Eilish,2025-05-19,364,10,1 to 10,10,10,0,0,0,4.358,59.0,142.0,95.2394366197183,0,34,True,397,0,34,True,middle,lowest risk
+726,THE GREATEST by Billie Eilish,Billie Eilish,2025-05-19,364,11,11 to 20,10,10,0,0,0,4.897,58.0,142.0,95.2394366197183,0,18,True,383,1,15,False,middle,lowest risk
+727,L’AMOUR DE MA VIE by Billie Eilish,Billie Eilish,2025-05-19,364,12,11 to 20,10,10,0,0,0,5.566,58.0,142.0,95.2394366197183,0,26,True,389,0,26,False,middle,lowest risk
+728,THE DINER by Billie Eilish,Billie Eilish,2025-05-19,364,16,11 to 20,10,10,0,0,0,3.106,57.0,142.0,95.2394366197183,0,14,True,377,0,14,False,middle,middle
+729,BLUE by Billie Eilish,Billie Eilish,2025-05-19,364,17,11 to 20,10,10,0,0,0,5.719,58.0,142.0,95.2394366197183,0,21,True,384,0,21,False,highest risk,middle
+730,BITTERSUITE by Billie Eilish,Billie Eilish,2025-05-19,364,19,11 to 20,10,10,0,0,0,4.974,57.0,142.0,95.2394366197183,0,10,True,375,1,9,False,highest risk,middle
+731,Ain't No Love In Oklahoma (From Twisters: The Album) by Luke Combs,Luke Combs,2025-05-19,364,29,21 to 30,1,1,1,0,0,3.516,64.0,211.0,89.52132701421802,1,25,True,389,1,12,True,lowest risk,lowest risk
+732,love hotel by leftovermax,leftovermax,2025-05-24,369,37,31 to 40,1,1,1,0,0,2.54,95.0,0.0,,0,1,True,369,0,1,False,lowest risk,
+733,Stargazing by Myles Smith,Myles Smith,2025-05-24,369,44,41 to 50,1,1,1,0,0,2.876,87.0,0.0,,0,76,True,451,3,43,False,lowest risk,middle
+734,Sweet Dreams by Koe Wetzel,Koe Wetzel,2025-05-24,369,46,41 to 50,1,3,1,0,0,2.888,74.0,0.0,,0,4,True,372,0,4,False,lowest risk,lowest risk
+735,Pink Skies by Zach Bryan,Zach Bryan,2025-05-26,371,9,1 to 10,1,1,1,0,0,3.249,74.0,979.0,86.61593462717059,1,177,False,549,1,158,False,lowest risk,lowest risk
+736,BAND4BAND (feat. Lil Baby) by Central Cee & Lil Baby,Central Cee,2025-05-28,373,44,41 to 50,1,1,1,1,1,2.346,79.0,2.0,63.5,0,34,True,406,0,34,False,middle,middle
+737,Austin (Boots Stop Workin') by Dasha,Dasha,2025-05-31,376,29,21 to 30,1,8,0,1,0,2.863,92.0,64.0,85.875,1,134,True,517,3,36,False,lowest risk,lowest risk
+738,Houdini by Eminem,Eminem,2025-06-02,378,4,1 to 10,1,1,1,1,0,3.787,79.0,5.0,78.8,0,62,True,439,0,62,False,lowest risk,lowest risk
+739,Si No Quieres No by Luis R Conriquez & Neton Vega,Luis R Conriquez,2025-06-03,379,50,41 to 50,1,1,1,0,1,2.45,89.0,0.0,,0,1,True,379,0,1,False,middle,
+740,HOT TO GO! by Chappell Roan,Chappell Roan,2025-06-05,381,48,41 to 50,1,14,0,0,0,3.081,82.0,65.0,86.64615384615385,1,172,False,554,1,5,False,middle,highest risk
+741,Please Please Please by Sabrina Carpenter,Sabrina Carpenter,2025-06-09,385,4,1 to 10,1,2,1,1,0,3.106,73.0,153.0,93.09803921568627,1,170,False,554,0,170,False,lowest risk,lowest risk
+742,Close To You by Gracie Abrams,Gracie Abrams,2025-06-09,385,34,31 to 40,1,1,1,0,0,3.766,68.0,0.0,,0,21,True,405,0,21,False,lowest risk,lowest risk
+743,Wind Up Missin’ You by Tucker Wetmore,Tucker Wetmore,2025-06-09,385,46,41 to 50,1,1,1,1,0,2.767,73.0,0.0,,0,3,True,387,0,3,True,middle,middle
+744,High Road (feat. Jessie Murph) by Koe Wetzel & Jessie Murph,Koe Wetzel,2025-06-10,386,40,31 to 40,1,1,1,1,1,2.99,64.0,4.0,75.25,0,26,True,411,0,26,True,highest risk,highest risk
+745,Like Crazy by Jimin,Jimin,2025-06-10,386,48,41 to 50,1,6,1,0,0,3.537,84.0,0.0,,0,2,True,387,0,2,False,highest risk,
+746,The Man He Sees in Me by Luke Combs,Luke Combs,2025-06-14,390,38,31 to 40,1,12,0,0,0,2.751,71.0,245.0,88.3265306122449,1,7,True,396,0,7,False,lowest risk,lowest risk
+747,The Thin Grey Line by $uicideboy$,$uicideboy$,2025-06-16,392,24,21 to 30,1,13,0,1,0,1.762,32.0,0.0,,0,5,True,396,0,5,False,lowest risk,highest risk
+748,BROTHER STONE (FEAT. KODAK BLACK) by Don Toliver,Don Toliver,2025-06-16,392,46,41 to 50,1,16,0,1,0,3.381,,50.0,85.84,0,1,True,392,0,1,False,highest risk,
+749,ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN) by Don Toliver,Don Toliver,2025-06-18,394,39,31 to 40,1,16,0,1,0,2.684,63.0,53.0,84.76923076923077,1,1,True,394,0,1,False,lowest risk,
+750,DEVIL IS A LIE by Tommy Richman,Tommy Richman,2025-06-18,394,47,41 to 50,1,1,1,1,0,2.182,68.0,65.0,82.96923076923076,1,46,True,439,0,46,False,lowest risk,middle
+751,Nonsense by Sabrina Carpenter,Sabrina Carpenter,2025-06-19,395,49,41 to 50,1,13,0,0,0,2.727,83.0,180.0,92.30555555555556,1,3,True,403,2,1,False,middle,
+752,WHISKEY WHISKEY (feat. Morgan Wallen) by Moneybagg Yo,Moneybagg Yo,2025-06-20,396,43,41 to 50,1,17,0,1,0,2.684,61.0,0.0,,0,3,True,399,1,1,False,middle,
+753,Pour Me A Drink (Feat. Blake Shelton) by Post Malone & Blake Shelton,Post Malone,2025-06-22,398,9,1 to 10,1,1,1,0,1,3.252,42.0,182.0,85.17582417582418,1,28,True,425,0,28,True,lowest risk,middle
+754,us. (feat. Taylor Swift) by Gracie Abrams,Gracie Abrams,2025-06-22,398,12,11 to 20,1,13,0,1,0,4.044,48.0,13.0,75.3076923076923,1,8,True,405,0,8,False,lowest risk,highest risk
+755,"The girl, so confusing version with lorde by Charli xcx & Lorde",Charli xcx,2025-06-22,398,25,21 to 30,1,1,1,0,1,3.432,67.0,30.0,87.93333333333334,0,2,True,399,0,2,False,lowest risk,
+756,Parking Lot by Mustard & Travis Scott,Mustard,2025-06-22,398,34,31 to 40,1,1,1,1,1,2.922,43.0,756.0,90.56746031746032,0,7,True,406,1,2,False,highest risk,
+757,RELOJ by Peso Pluma,Peso Pluma,2025-06-22,398,47,41 to 50,1,24,0,1,0,3.87,63.0,606.0,93.11157024793388,0,2,True,399,0,2,False,highest risk,
+758,Pink Pony Club by Chappell Roan,Chappell Roan,2025-06-24,400,47,41 to 50,1,14,0,0,0,4.301,77.0,120.0,85.175,1,148,False,550,2,12,False,middle,middle
+759,NIGHTS LIKE THIS by The Kid LAROI,The Kid LAROI,2025-06-28,404,48,41 to 50,1,20,0,0,0,1.45,79.0,1.0,55.0,0,147,False,554,3,8,False,highest risk,lowest risk
+760,you look like you love me (feat. Riley Green) by Ella Langley & Riley Green,Ella Langley,2025-06-29,405,40,31 to 40,1,1,1,0,1,3.738,72.0,0.0,,0,18,True,425,2,7,False,middle,middle
+761,Smeraldo Garden Marching Band (feat. Loco) by Jimin & Loco,Jimin,2025-06-30,406,49,41 to 50,1,1,1,0,1,3.047,78.0,2.0,84.0,0,14,True,422,3,4,False,highest risk,highest risk
+762,GIRLS by The Kid LAROI,The Kid LAROI,2025-07-04,410,36,31 to 40,1,2,1,1,0,2.55,77.0,7.0,77.14285714285714,1,2,True,411,0,2,False,middle,
+763,Tobey (feat. Big Sean and BabyTron) by Eminem & Big Sean & BabyTron,Eminem,2025-07-04,410,37,31 to 40,1,19,0,1,1,4.748,66.0,37.0,88.02702702702703,1,16,True,426,1,2,False,highest risk,
+764,Lithonia by Childish Gambino,Childish Gambino,2025-07-04,410,50,41 to 50,1,17,0,1,0,2.983,63.0,0.0,,0,2,True,411,0,2,True,highest risk,
+765,Tough by Quavo & Lana Del Rey,Quavo,2025-07-05,411,25,21 to 30,1,1,1,0,1,3.147,69.0,15.0,86.66666666666667,0,20,True,430,0,20,False,lowest risk,lowest risk
+766,Mamushi (feat. Yuki Chiba) by Megan Thee Stallion,Megan Thee Stallion,2025-07-05,411,43,41 to 50,1,18,0,1,0,2.616,75.0,29.0,80.96551724137932,0,36,True,448,1,1,False,middle,
+767,28 by Zach Bryan,Zach Bryan,2025-07-06,412,12,11 to 20,11,19,0,0,0,3.889,67.0,1143.0,86.36920384951881,1,99,True,512,2,48,True,lowest risk,lowest risk
+768,American Nights by Zach Bryan,Zach Bryan,2025-07-06,412,13,11 to 20,11,19,0,0,0,3.649,66.0,1143.0,86.36920384951881,1,8,True,419,0,8,False,lowest risk,middle
+769,The Great American Bar Scene by Zach Bryan,Zach Bryan,2025-07-06,412,14,11 to 20,11,19,0,0,0,3.612,66.0,1143.0,86.36920384951881,1,2,True,413,0,2,False,lowest risk,
+770,Mechanical Bull by Zach Bryan,Zach Bryan,2025-07-06,412,15,11 to 20,11,19,0,0,0,3.482,66.0,1143.0,86.36920384951881,1,2,True,413,0,2,False,lowest risk,
+771,Oak Island by Zach Bryan,Zach Bryan,2025-07-06,412,18,11 to 20,11,19,0,0,0,3.99,65.0,1143.0,86.36920384951881,1,5,True,416,0,5,False,middle,highest risk
+772,Better Days (feat. John Mayer) by Zach Bryan,Zach Bryan,2025-07-06,412,26,21 to 30,11,19,0,0,0,3.541,63.0,1143.0,86.36920384951881,1,7,True,418,0,7,False,middle,middle
+773,Brown Eyed Girl by Van Morrison,Van Morrison,2025-07-06,412,29,21 to 30,1,8,0,0,0,3.055,85.0,0.0,,0,3,True,414,0,3,False,lowest risk,middle
+774,Rich Girl by Daryl Hall & John Oates,Daryl Hall,2025-07-06,412,30,21 to 30,1,9,0,0,1,2.38,83.0,0.0,,0,2,True,413,0,2,False,lowest risk,
+775,Lucky Enough (Poem) by Zach Bryan,Zach Bryan,2025-07-06,412,31,31 to 40,11,19,0,1,0,2.7,64.0,1143.0,86.36920384951881,1,1,True,412,0,1,False,middle,
+776,Purple Gas by Zach Bryan,Zach Bryan,2025-07-06,412,34,31 to 40,11,19,0,1,0,3.003,63.0,1143.0,86.36920384951881,1,2,True,413,0,2,False,middle,
+777,The Way Back by Zach Bryan,Zach Bryan,2025-07-06,412,36,31 to 40,11,19,0,1,0,3.092,64.0,1143.0,86.36920384951881,1,3,True,415,1,2,False,highest risk,
+778,Boons by Zach Bryan,Zach Bryan,2025-07-06,412,37,31 to 40,11,19,0,0,0,3.086,64.0,1143.0,86.36920384951881,1,1,True,412,0,1,False,highest risk,
+779,Memphis; The Blues (feat. John Moreland) by Zach Bryan,Zach Bryan,2025-07-06,412,46,41 to 50,11,19,0,1,0,3.165,63.0,1143.0,86.36920384951881,1,1,True,412,0,1,False,highest risk,
+780,Lies Lies Lies by Morgan Wallen,Morgan Wallen,2025-07-07,413,9,1 to 10,1,1,1,0,0,3.301,69.0,1307.0,86.04820198928844,1,106,True,519,1,104,False,lowest risk,lowest risk
+781,Renaissance by Eminem,Eminem,2025-07-14,419,2,1 to 10,15,19,0,1,0,1.636,75.0,54.0,87.5,1,7,True,425,0,7,False,lowest risk,highest risk
+782,Habits by Eminem,Eminem,2025-07-14,419,5,1 to 10,15,19,0,1,0,4.973,75.0,54.0,87.5,1,6,True,424,0,6,False,lowest risk,highest risk
+783,Brand New Dance by Eminem,Eminem,2025-07-14,419,10,1 to 10,15,19,0,1,0,3.444,74.0,54.0,87.5,1,6,True,424,0,6,False,middle,highest risk
+784,Trouble by Eminem,Eminem,2025-07-14,419,11,11 to 20,15,19,0,1,0,0.691,74.0,54.0,87.5,1,4,True,422,0,4,False,lowest risk,highest risk
+785,Evil by Eminem,Eminem,2025-07-14,419,15,11 to 20,15,19,0,1,0,3.839,73.0,54.0,87.5,1,4,True,422,0,4,False,middle,highest risk
+786,Fuel by Eminem,Eminem,2025-07-14,419,16,11 to 20,15,19,0,1,0,3.561,72.0,54.0,87.5,1,8,True,426,0,8,False,middle,middle
+787,Lucifer by Eminem,Eminem,2025-07-14,419,17,11 to 20,15,19,0,1,0,4.363,73.0,54.0,87.5,1,4,True,422,0,4,False,middle,highest risk
+788,Antichrist by Eminem,Eminem,2025-07-14,419,18,11 to 20,15,19,0,1,0,5.237,72.0,54.0,87.5,1,4,True,422,0,4,False,middle,highest risk
+789,Guilty Conscience 2 by Eminem,Eminem,2025-07-14,419,21,21 to 30,15,19,0,1,0,5.426,71.0,54.0,87.5,1,1,True,419,0,1,False,highest risk,
+790,Road Rage by Eminem,Eminem,2025-07-14,419,23,21 to 30,15,19,0,1,0,3.629,71.0,54.0,87.5,1,1,True,419,0,1,False,middle,
+791,Somebody Save Me by Eminem,Eminem,2025-07-14,419,24,21 to 30,15,19,0,1,0,3.837,71.0,54.0,87.5,1,10,True,429,1,9,False,highest risk,highest risk
+792,Temporary by Eminem,Eminem,2025-07-14,419,27,21 to 30,15,19,0,1,0,4.961,70.0,54.0,87.5,1,1,True,419,0,1,False,highest risk,
+793,Head Honcho by Eminem,Eminem,2025-07-14,419,29,21 to 30,15,19,0,1,0,3.914,69.0,54.0,87.5,1,1,True,419,0,1,False,highest risk,
+794,Breaking News - skit by Eminem,Eminem,2025-07-14,419,31,31 to 40,15,19,0,1,0,0.622,69.0,54.0,87.5,1,1,True,419,0,1,False,middle,
+795,Bad One by Eminem,Eminem,2025-07-14,419,35,31 to 40,15,19,0,1,0,4.5,69.0,54.0,87.5,1,1,True,419,0,1,False,highest risk,
+796,Si Antes Te Hubiera Conocido by KAROL G,KAROL G,2025-07-15,420,47,41 to 50,1,1,1,0,0,3.264,92.0,103.0,86.9126213592233,0,51,True,487,5,6,False,middle,highest risk
+797,Did It First (with Central Cee) by Ice Spice & Central Cee,Ice Spice,2025-07-18,423,44,41 to 50,1,1,1,1,1,1.967,79.0,254.0,90.89763779527559,0,17,True,439,0,17,False,middle,lowest risk
+798,360 by Charli xcx,Charli xcx,2025-07-18,423,47,41 to 50,1,15,0,1,0,2.23,85.0,32.0,86.625,0,43,True,466,1,29,False,middle,lowest risk
+799,Casual by Chappell Roan,Chappell Roan,2025-07-20,425,48,41 to 50,1,14,0,1,0,3.88,85.0,219.0,86.09132420091325,1,81,True,513,4,43,False,middle,middle
+800,Who by Jimin,Jimin,2025-07-21,426,18,11 to 20,1,7,0,0,0,2.848,81.0,16.0,88.0625,0,129,False,554,0,129,False,lowest risk,lowest risk
+801,misses by Dominic Fike,Dominic Fike,2025-07-24,429,47,41 to 50,1,8,0,0,0,1.24,85.0,0.0,,0,2,True,436,1,1,False,lowest risk,
+802,Apple by Charli xcx,Charli xcx,2025-07-25,430,45,41 to 50,1,15,0,0,0,2.529,82.0,39.0,86.46153846153847,1,47,True,476,0,47,False,lowest risk,lowest risk
+803,Guy For That (Feat. Luke Combs) by Post Malone & Luke Combs,Post Malone,2025-07-27,432,9,1 to 10,1,1,1,0,1,2.734,48.0,270.0,87.20370370370371,1,31,True,462,0,31,False,lowest risk,middle
+804,Lonely Road (with Jelly Roll) by mgk & Jelly Roll,mgk,2025-07-27,432,49,41 to 50,1,1,1,0,1,3.156,39.0,3.0,84.0,0,2,True,433,0,2,False,highest risk,
+805,Bye Bye Bye - From Deadpool and Wolverine Soundtrack by *NSYNC,*NSYNC,2025-07-31,436,32,31 to 40,1,12,0,0,0,3.34,79.0,0.0,,0,16,True,451,0,16,False,lowest risk,lowest risk
+806,Big Dawgs by Hanumankind & Kalmi,Hanumankind,2025-07-31,436,42,41 to 50,1,1,1,1,1,3.178,74.0,0.0,,0,59,True,497,3,52,False,middle,middle
+807,Guess featuring Billie Eilish by Charli xcx & Billie Eilish,Charli xcx,2025-08-04,440,8,1 to 10,1,1,1,0,1,2.389,79.0,490.0,91.8265306122449,1,80,True,524,1,79,False,lowest risk,lowest risk
+808,FIELD TRIP by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-08-04,440,19,11 to 20,4,16,0,1,1,2.787,71.0,310.0,86.21129032258065,0,8,True,447,0,8,False,middle,lowest risk
+809,SLIDE by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-08-04,440,28,21 to 30,4,16,0,1,1,3.301,69.0,310.0,86.21129032258065,0,3,True,442,0,3,False,highest risk,highest risk
+810,FRIED by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-08-04,440,45,41 to 50,4,16,0,1,1,2.988,69.0,310.0,86.21129032258065,0,3,True,442,0,3,False,highest risk,middle
+811,PROMOTION by ¥$ & Kanye West & Ty Dolla $ign,¥$,2025-08-04,440,48,41 to 50,4,16,0,1,1,2.648,,310.0,86.21129032258065,0,1,True,440,0,1,False,highest risk,
+812,Femininomenon by Chappell Roan,Chappell Roan,2025-08-04,440,50,41 to 50,1,14,0,1,0,3.662,84.0,294.0,86.78571428571429,1,12,True,451,0,12,False,middle,middle
+813,"I Love You, I'm Sorry by Gracie Abrams",Gracie Abrams,2025-08-08,444,48,41 to 50,1,13,0,1,0,2.619,84.0,29.0,71.10344827586206,0,104,False,554,2,8,False,highest risk,middle
+814,KEHLANI by Jordan Adetunji,Jordan Adetunji,2025-08-09,445,44,41 to 50,1,3,1,0,0,2.039,87.0,0.0,,0,7,True,451,0,7,False,lowest risk,lowest risk
+815,It's Up (feat. Young Thug & 21 Savage) by Drake,Drake,2025-08-11,447,20,11 to 20,1,3,1,1,0,4.633,69.0,887.0,87.16817155756208,0,5,True,451,0,5,False,middle,lowest risk
+816,Wrong Ones (Feat. Tim McGraw) by Post Malone,Post Malone,2025-08-17,452,9,1 to 10,14,18,0,1,0,3.264,43.0,284.0,86.22535211267606,1,7,True,458,0,7,False,middle,middle
+817,Die With A Smile by Lady Gaga & Bruno Mars,Lady Gaga,2025-08-17,452,13,11 to 20,1,1,1,0,1,4.194,75.0,0.0,,0,103,False,554,0,103,False,lowest risk,lowest risk
+818,Finer Things (Feat. Hank Williams Jr.) by Post Malone,Post Malone,2025-08-17,452,14,11 to 20,14,18,0,0,0,3.092,41.0,284.0,86.22535211267606,1,5,True,456,0,5,False,highest risk,middle
+819,What Don't Belong To Me by Post Malone,Post Malone,2025-08-17,452,16,11 to 20,14,18,0,0,0,3.453,40.0,284.0,86.22535211267606,1,7,True,458,0,7,False,highest risk,middle
+820,California Sober (Feat. Chris Stapleton) by Post Malone,Post Malone,2025-08-17,452,17,11 to 20,14,18,0,1,0,3.407,40.0,284.0,86.22535211267606,1,6,True,457,0,6,False,highest risk,highest risk
+821,Losers (Feat. Jelly Roll) by Post Malone,Post Malone,2025-08-17,452,20,11 to 20,14,18,0,0,0,3.484,39.0,284.0,86.22535211267606,1,6,True,457,0,6,False,highest risk,middle
+822,Have The Heart (Feat. Dolly Parton) by Post Malone,Post Malone,2025-08-17,452,21,21 to 30,14,18,0,0,0,3.056,40.0,284.0,86.22535211267606,1,3,True,454,0,3,False,highest risk,highest risk
+823,Goes Without Saying (Feat. Brad Paisley) by Post Malone,Post Malone,2025-08-17,452,24,21 to 30,14,18,0,0,0,3.539,39.0,284.0,86.22535211267606,1,5,True,456,0,5,False,highest risk,highest risk
+824,Nosedive (Feat. Lainey Wilson) by Post Malone,Post Malone,2025-08-17,452,25,21 to 30,14,18,0,0,0,3.208,38.0,284.0,86.22535211267606,1,5,True,456,0,5,False,highest risk,highest risk
+825,Devil I've Been (Feat. ERNEST) by Post Malone,Post Malone,2025-08-17,452,32,31 to 40,14,18,0,0,0,3.049,37.0,284.0,86.22535211267606,1,3,True,454,0,3,False,highest risk,highest risk
+826,Missin’ You Like This (Feat. Luke Combs) by Post Malone,Post Malone,2025-08-17,452,33,31 to 40,14,18,0,0,0,3.713,38.0,284.0,86.22535211267606,1,3,True,454,0,3,False,highest risk,highest risk
+827,Hide My Gun (Feat. HARDY) by Post Malone,Post Malone,2025-08-17,452,35,31 to 40,14,18,0,1,0,3.675,35.0,284.0,86.22535211267606,1,3,True,454,0,3,False,highest risk,highest risk
+828,Never Love You Again (Feat. Sierra Ferrell) by Post Malone,Post Malone,2025-08-17,452,39,31 to 40,14,18,0,0,0,3.114,36.0,284.0,86.22535211267606,1,3,True,454,0,3,False,highest risk,highest risk
+829,Yours by Post Malone,Post Malone,2025-08-17,452,46,41 to 50,14,18,0,0,0,3.324,37.0,284.0,86.22535211267606,1,1,True,452,0,1,False,highest risk,
+830,M-E-X-I-C-O (Feat. Billy Strings) by Post Malone,Post Malone,2025-08-17,452,49,41 to 50,14,18,0,0,0,2.599,34.0,284.0,86.22535211267606,1,1,True,452,0,1,False,highest risk,
+831,Sailor Song by Gigi Perez,Gigi Perez,2025-08-22,457,50,41 to 50,1,1,1,0,0,3.533,83.0,0.0,,0,94,False,554,1,2,False,middle,
+832,Taste by Sabrina Carpenter,Sabrina Carpenter,2025-08-24,459,2,1 to 10,10,12,0,0,0,2.621,53.0,328.0,94.09451219512195,1,96,False,554,0,96,False,lowest risk,lowest risk
+833,Good Graces by Sabrina Carpenter,Sabrina Carpenter,2025-08-24,459,6,1 to 10,10,12,0,1,0,3.088,52.0,328.0,94.09451219512195,1,67,True,525,0,67,False,middle,lowest risk
+834,Sharpest Tool by Sabrina Carpenter,Sabrina Carpenter,2025-08-24,459,8,1 to 10,10,12,0,1,0,3.638,51.0,328.0,94.09451219512195,1,23,True,481,0,23,False,middle,middle
+835,Bed Chem by Sabrina Carpenter,Sabrina Carpenter,2025-08-24,459,9,1 to 10,10,12,0,0,0,2.864,50.0,328.0,94.09451219512195,1,96,False,554,0,96,False,middle,lowest risk
+836,Coincidence by Sabrina Carpenter,Sabrina Carpenter,2025-08-24,459,12,11 to 20,10,12,0,0,0,2.737,50.0,328.0,94.09451219512195,1,24,True,482,0,24,False,middle,middle
+837,Slim Pickins by Sabrina Carpenter,Sabrina Carpenter,2025-08-24,459,13,11 to 20,10,12,0,0,0,2.537,49.0,328.0,94.09451219512195,1,16,True,474,0,16,False,middle,middle
+838,Juno by Sabrina Carpenter,Sabrina Carpenter,2025-08-24,459,14,11 to 20,10,12,0,1,0,3.72,49.0,328.0,94.09451219512195,1,87,False,551,2,29,False,middle,lowest risk
+839,Dumb & Poetic by Sabrina Carpenter,Sabrina Carpenter,2025-08-24,459,16,11 to 20,10,12,0,1,0,2.225,49.0,328.0,94.09451219512195,1,14,True,472,0,14,False,middle,middle
+840,Lie To Girls by Sabrina Carpenter,Sabrina Carpenter,2025-08-24,459,19,11 to 20,10,12,0,1,0,3.367,48.0,328.0,94.09451219512195,1,9,True,467,0,9,False,highest risk,middle
+841,Don’t Smile by Sabrina Carpenter,Sabrina Carpenter,2025-08-24,459,20,11 to 20,10,12,0,0,0,3.438,48.0,328.0,94.09451219512195,1,15,True,473,0,15,False,middle,middle
+842,Drugs You Should Try It by Travis Scott,Travis Scott,2025-08-24,459,30,21 to 30,1,12,0,1,0,3.475,,763.0,90.38532110091744,0,1,True,459,0,1,False,highest risk,
+843,No Face by Drake,Drake,2025-09-02,468,37,31 to 40,1,1,1,1,0,2.286,57.0,892.0,87.09203142536475,0,3,True,470,0,3,False,middle,middle
+844,The Emptiness Machine by Linkin Park,Linkin Park,2025-09-08,474,17,11 to 20,1,1,1,1,0,3.174,77.0,0.0,,0,15,True,494,1,12,True,lowest risk,lowest risk
+845,Neva Play (feat. RM of BTS) by Megan Thee Stallion & RM,Megan Thee Stallion,2025-09-08,474,38,31 to 40,1,1,1,1,1,2.62,74.0,65.0,82.9076923076923,0,6,True,480,1,4,False,highest risk,highest risk
+846,Disco by Surf Curse,Surf Curse,2025-09-08,474,48,41 to 50,1,1,1,0,0,2.546,81.0,0.0,,0,5,True,478,0,5,True,middle,middle
+847,505 by Arctic Monkeys,Arctic Monkeys,2025-09-09,475,49,41 to 50,1,12,0,0,0,4.226,84.0,0.0,,0,17,True,498,2,4,False,middle,middle
+848,World Tour (Aquafina) by Juice WRLD,Juice WRLD,2025-09-12,478,49,41 to 50,1,2,1,1,0,2.595,68.0,12.0,77.66666666666667,0,1,True,478,0,1,False,highest risk,
+849,ALL RED by Playboi Carti,Playboi Carti,2025-09-15,481,1,1 to 10,1,1,1,1,0,2.468,81.0,32.0,78.4375,0,20,True,500,0,20,False,lowest risk,lowest risk
+850,It's ok I'm ok by Tate McRae,Tate McRae,2025-09-15,481,9,1 to 10,1,1,1,1,0,2.609,74.0,287.0,92.96864111498257,0,25,True,507,1,24,True,lowest risk,lowest risk
+851,Dancing In The Flames by The Weeknd,The Weeknd,2025-09-15,481,10,1 to 10,1,1,1,0,0,3.667,77.0,235.0,89.00425531914894,0,7,True,487,0,7,False,lowest risk,middle
+852,Talk talk featuring troye sivan by Charli xcx & Troye Sivan,Charli xcx,2025-09-15,481,46,41 to 50,1,34,0,1,1,2.885,72.0,163.0,88.15950920245399,1,1,True,481,0,1,True,highest risk,
+853,LA PATRULLA by Peso Pluma,Peso Pluma,2025-09-16,482,48,41 to 50,1,24,0,1,0,2.177,87.0,608.0,93.01235584843492,0,44,True,525,0,44,False,middle,lowest risk
+854,TEFLON DON by Future,Future,2025-09-22,488,10,1 to 10,8,17,0,1,0,2.665,71.0,355.0,88.17378917378917,0,6,True,493,0,6,False,middle,highest risk
+855,LIL DEMON by Future,Future,2025-09-22,488,13,11 to 20,8,17,0,1,0,2.32,70.0,355.0,88.17378917378917,0,3,True,492,1,2,False,middle,
+856,SKI by Future,Future,2025-09-22,488,14,11 to 20,8,17,0,1,0,2.46,69.0,355.0,88.17378917378917,0,2,True,489,0,2,False,middle,
+857,TOO FAST by Future,Future,2025-09-22,488,17,11 to 20,8,17,0,1,0,3.429,69.0,355.0,88.17378917378917,0,2,True,489,0,2,False,middle,
+858,Una Velita by Bad Bunny,Bad Bunny,2025-09-22,488,20,11 to 20,1,1,1,1,0,4.0,72.0,424.0,91.5625,0,1,True,488,0,1,False,lowest risk,
+859,PLUTOSKI by Future,Future,2025-09-22,488,23,21 to 30,8,17,0,1,0,2.984,68.0,355.0,88.17378917378917,0,1,True,488,0,1,False,highest risk,
+860,READY TO COOK UP by Future,Future,2025-09-22,488,26,21 to 30,8,17,0,1,0,2.785,68.0,355.0,88.17378917378917,0,1,True,488,0,1,False,highest risk,
+861,OCEAN by Future,Future,2025-09-22,488,36,31 to 40,8,17,0,1,0,3.385,67.0,355.0,88.17378917378917,0,1,True,488,0,1,False,highest risk,
+862,PRESS THE BUTTON by Future,Future,2025-09-22,488,50,41 to 50,8,17,0,1,0,2.838,66.0,355.0,88.17378917378917,0,1,True,488,0,1,False,highest risk,
+863,Heavy Is the Crown by Linkin Park,Linkin Park,2025-09-27,493,45,41 to 50,1,2,1,0,0,2.784,78.0,13.0,87.84615384615384,1,2,True,495,1,1,False,lowest risk,
+864,Timeless (with Playboi Carti) by The Weeknd & Playboi Carti,The Weeknd,2025-09-29,495,1,1 to 10,1,1,1,1,1,4.267,79.0,242.0,88.80165289256199,0,60,False,554,0,60,False,lowest risk,lowest risk
+865,NEL by Fuerza Regida,Fuerza Regida,2025-10-02,498,48,41 to 50,1,15,0,1,0,2.485,87.0,229.0,92.79475982532752,0,4,True,506,1,2,True,lowest risk,
+866,No One Noticed by The Marías,The Marías,2025-10-02,498,50,41 to 50,1,14,0,0,0,3.948,77.0,0.0,,0,52,False,554,2,4,False,middle,middle
+867,Diet Pepsi by Addison Rae,Addison Rae,2025-10-03,499,45,41 to 50,1,1,1,0,0,2.828,86.0,0.0,,0,29,True,528,1,19,False,middle,lowest risk
+868,Or What by NLE Choppa,NLE Choppa,2025-10-08,504,46,41 to 50,1,8,0,1,0,3.319,61.0,35.0,76.22857142857143,0,13,True,516,0,13,False,middle,lowest risk
+869,Sympathy is a knife featuring ariana grande by Charli xcx,Charli xcx,2025-10-13,509,8,1 to 10,2,34,0,1,0,2.569,71.0,192.0,88.54166666666667,1,6,True,514,0,6,False,lowest risk,highest risk
+870,I might say something stupid featuring the 1975 & jon hopkins by Charli xcx,Charli xcx,2025-10-13,509,47,41 to 50,2,34,0,0,0,4.177,65.0,192.0,88.54166666666667,1,1,True,509,0,1,False,highest risk,
+871,Thick Of It (feat. Trippie Redd) by KSI & Trippie Redd,KSI,2025-10-14,510,50,41 to 50,1,2,1,0,1,2.681,75.0,0.0,,0,2,True,511,0,2,False,highest risk,
+872,Night Changes by One Direction,One Direction,2025-10-19,515,16,11 to 20,2,16,0,0,0,3.777,86.0,0.0,,0,10,True,524,0,10,False,lowest risk,lowest risk
+873,Story of My Life by One Direction,One Direction,2025-10-19,515,24,21 to 30,2,18,0,0,0,4.092,82.0,0.0,,0,6,True,522,1,4,False,lowest risk,middle
+874,Love Somebody by Morgan Wallen,Morgan Wallen,2025-10-20,516,1,1 to 10,1,1,1,0,0,3.414,71.0,1759.0,85.84877771461058,1,39,False,554,0,39,False,lowest risk,lowest risk
+875,APT. by ROSÉ & Bruno Mars,ROSÉ,2025-10-20,516,11,11 to 20,1,1,1,0,1,2.832,76.0,64.0,96.109375,1,39,False,554,0,39,False,lowest risk,lowest risk
+876,That’s So True by Gracie Abrams,Gracie Abrams,2025-10-20,516,30,21 to 30,1,20,0,1,0,2.772,68.0,94.0,82.91489361702128,1,38,False,554,1,1,False,lowest risk,
+877,Tu Boda by Oscar Maydon & Fuerza Regida,Oscar Maydon,2025-10-20,516,41,41 to 50,1,1,1,1,1,3.765,86.0,233.0,92.69527896995709,0,39,False,554,0,39,False,middle,middle
+878,"Noid by Tyler, The Creator","Tyler, The Creator",2025-10-23,519,6,1 to 10,1,14,0,1,0,4.739,69.0,409.0,91.24694376528117,1,26,True,547,1,25,False,lowest risk,lowest risk
+879,NEW DROP by Don Toliver,Don Toliver,2025-10-25,521,49,41 to 50,1,16,0,1,0,3.622,84.0,58.0,83.17543859649123,0,2,True,523,1,1,True,lowest risk,
+880,DOS DÍAS by Tito Double P,Tito Double P,2025-10-26,522,50,41 to 50,1,21,0,1,0,2.565,88.0,4.0,80.75,0,3,True,525,1,2,True,middle,
+881,Disease by Lady Gaga,Lady Gaga,2025-10-27,523,16,11 to 20,1,1,1,0,0,3.833,74.0,71.0,96.49295774647888,1,3,True,525,0,3,False,lowest risk,highest risk
+882,TGIF by GloRilla,GloRilla,2025-10-28,524,37,31 to 40,1,15,0,1,0,2.743,67.0,47.0,76.93617021276596,0,2,True,525,0,2,False,middle,
+883,"St. Chroma (feat. Daniel Caesar) by Tyler, The Creator","Tyler, The Creator",2025-10-30,526,1,1 to 10,14,14,0,1,0,3.284,79.0,423.0,90.96690307328605,1,29,False,554,0,29,False,lowest risk,lowest risk
+884,"Rah Tah Tah by Tyler, The Creator","Tyler, The Creator",2025-10-30,526,2,1 to 10,14,14,0,1,0,2.757,78.0,423.0,90.96690307328605,1,25,False,550,0,25,False,lowest risk,lowest risk
+885,"Darling, I (feat. Teezo Touchdown) by Tyler, The Creator","Tyler, The Creator",2025-10-30,526,4,1 to 10,14,14,0,1,0,4.231,77.0,423.0,90.96690307328605,1,26,False,551,0,26,False,lowest risk,lowest risk
+886,"Sticky (feat. GloRilla, Sexyy Red & Lil Wayne) by Tyler, The Creator","Tyler, The Creator",2025-10-30,526,5,1 to 10,14,14,0,1,0,4.265,75.0,423.0,90.96690307328605,1,29,False,554,0,29,False,lowest risk,lowest risk
+887,"Hey Jane by Tyler, The Creator","Tyler, The Creator",2025-10-30,526,6,1 to 10,14,14,0,1,0,4.012,75.0,423.0,90.96690307328605,1,10,True,535,0,10,False,lowest risk,lowest risk
+888,"I Killed You by Tyler, The Creator","Tyler, The Creator",2025-10-30,526,7,1 to 10,14,14,0,1,0,2.807,75.0,423.0,90.96690307328605,1,10,True,535,0,10,False,lowest risk,middle
+889,"Judge Judy by Tyler, The Creator","Tyler, The Creator",2025-10-30,526,8,1 to 10,14,14,0,1,0,4.494,75.0,423.0,90.96690307328605,1,12,True,537,0,12,False,lowest risk,lowest risk
+890,"Thought I Was Dead (feat. ScHoolboy Q & Santigold) by Tyler, The Creator","Tyler, The Creator",2025-10-30,526,9,1 to 10,14,14,0,1,0,3.455,74.0,423.0,90.96690307328605,1,25,False,550,0,25,False,lowest risk,lowest risk
+891,"Take Your Mask Off (feat. Daniel Caesar & LaToiya Williams) by Tyler, The Creator","Tyler, The Creator",2025-10-30,526,10,1 to 10,14,14,0,1,0,4.232,74.0,423.0,90.96690307328605,1,12,True,537,0,12,False,lowest risk,lowest risk
+892,"Tomorrow by Tyler, The Creator","Tyler, The Creator",2025-10-30,526,11,11 to 20,14,14,0,1,0,3.039,73.0,423.0,90.96690307328605,1,9,True,534,0,9,False,lowest risk,middle
+893,"Like Him (feat. Lola Young) by Tyler, The Creator","Tyler, The Creator",2025-10-30,526,12,11 to 20,14,14,0,1,0,4.634,73.0,423.0,90.96690307328605,1,29,False,554,0,29,False,lowest risk,lowest risk
+894,"Balloon (feat. Doechii) by Tyler, The Creator","Tyler, The Creator",2025-10-30,526,13,11 to 20,14,14,0,1,0,2.571,72.0,423.0,90.96690307328605,1,12,True,537,0,12,True,lowest risk,lowest risk
+895,"I Hope You Find Your Way Home by Tyler, The Creator","Tyler, The Creator",2025-10-30,526,14,11 to 20,14,14,0,1,0,4.495,72.0,423.0,90.96690307328605,1,4,True,529,0,4,False,lowest risk,middle
+896,"BEST INTEREST by Tyler, The Creator","Tyler, The Creator",2025-10-30,526,44,41 to 50,14,1,1,1,0,2.132,82.0,423.0,90.96690307328605,1,3,True,528,0,3,False,middle,highest risk
+897,Thriller - 2003 Edit by Michael Jackson,Michael Jackson,2025-11-02,529,23,21 to 30,1,18,0,0,0,5.191,56.0,3.0,73.66666666666667,0,1,True,529,0,1,False,middle,
+898,Bloody Mary by Lady Gaga,Lady Gaga,2025-11-02,529,32,31 to 40,1,22,0,0,0,4.079,73.0,80.0,95.95,1,1,True,529,0,1,False,middle,
+899,Super Freak by Rick James,Rick James,2025-11-02,529,35,31 to 40,1,25,0,0,0,3.424,76.0,0.0,,0,1,True,529,0,1,False,lowest risk,
+900,The Addams Family by Andrew Gold,Andrew Gold,2025-11-02,529,39,31 to 40,1,12,0,0,0,1.409,72.0,1.0,77.0,0,1,True,529,0,1,False,middle,
+901,Disturbia by Rihanna,Rihanna,2025-11-02,529,44,41 to 50,1,15,0,0,0,3.977,79.0,1.0,85.0,0,1,True,529,0,1,False,middle,
+902,Psycho Killer - 2005 Remaster by Talking Heads,Talking Heads,2025-11-02,529,46,41 to 50,1,16,0,0,0,4.357,78.0,0.0,,0,1,True,529,0,1,False,middle,
+903,(Don't Fear) The Reaper by Blue Öyster Cult,Blue Öyster Cult,2025-11-02,529,50,41 to 50,1,10,0,0,0,5.135,77.0,0.0,,0,1,True,529,0,1,False,middle,
+904,Light Year (Practice) by Lil Uzi Vert,Lil Uzi Vert,2025-11-03,530,8,1 to 10,10,16,0,1,0,2.739,68.0,110.0,80.00909090909092,0,2,True,531,0,2,False,lowest risk,
+905,We Good by Lil Uzi Vert,Lil Uzi Vert,2025-11-03,530,14,11 to 20,10,16,0,1,0,2.083,67.0,110.0,80.00909090909092,0,1,True,530,0,1,False,middle,
+906,Meteor Man by Lil Uzi Vert,Lil Uzi Vert,2025-11-03,530,20,11 to 20,10,16,0,1,0,3.793,66.0,110.0,80.00909090909092,0,1,True,530,0,1,False,middle,
+907,The Rush (feat. Big Time Rush) by Lil Uzi Vert,Lil Uzi Vert,2025-11-03,530,33,31 to 40,10,16,0,1,0,3.113,65.0,110.0,80.00909090909092,0,1,True,530,0,1,False,highest risk,
+908,Paars In The Mars by Lil Uzi Vert,Lil Uzi Vert,2025-11-03,530,36,31 to 40,10,16,0,1,0,3.0,64.0,110.0,80.00909090909092,0,1,True,530,0,1,False,highest risk,
+909,Not An Option by Lil Uzi Vert,Lil Uzi Vert,2025-11-03,530,37,31 to 40,10,16,0,1,0,2.515,64.0,110.0,80.00909090909092,0,1,True,530,0,1,False,highest risk,
+910,Mr Chow by Lil Uzi Vert,Lil Uzi Vert,2025-11-03,530,39,31 to 40,10,16,0,1,0,2.955,64.0,110.0,80.00909090909092,0,1,True,530,0,1,False,highest risk,
+911,Chill Bae by Lil Uzi Vert,Lil Uzi Vert,2025-11-03,530,40,31 to 40,10,16,0,1,0,2.305,65.0,110.0,80.00909090909092,0,1,True,530,0,1,False,highest risk,
+912,Lyft Em Up by Lil Uzi Vert,Lil Uzi Vert,2025-11-03,530,49,41 to 50,10,16,0,1,0,2.743,63.0,110.0,80.00909090909092,0,1,True,530,0,1,False,highest risk,
+913,She Stank by Lil Uzi Vert,Lil Uzi Vert,2025-11-03,530,50,41 to 50,10,16,0,1,0,2.097,63.0,110.0,80.00909090909092,0,1,True,530,0,1,False,highest risk,
+914,This World's A Giant by Zach Bryan,Zach Bryan,2025-11-09,536,27,21 to 30,1,1,1,0,0,3.603,62.0,1823.0,86.01206801974767,1,3,True,538,0,3,False,lowest risk,highest risk
+915,TV by Billie Eilish,Billie Eilish,2025-11-09,536,50,41 to 50,1,2,1,0,0,4.69,81.0,770.0,92.20519480519481,1,1,True,536,0,1,False,middle,
+916,High Road by Zach Bryan,Zach Bryan,2025-11-10,537,10,1 to 10,1,2,1,1,0,3.332,65.0,1828.0,85.99507658643326,1,7,True,543,0,7,False,lowest risk,highest risk
+917,57 by KAROL G & Feid & DFZM,KAROL G,2025-11-10,537,47,41 to 50,1,1,1,1,1,4.969,69.0,154.0,89.6948051948052,0,1,True,537,0,1,False,highest risk,
+918,on one tonight by Gunna,Gunna,2025-11-11,538,50,41 to 50,1,20,0,1,0,1.513,80.0,307.0,91.16938110749186,0,1,True,538,0,1,True,middle,
+919,No Pole by Don Toliver,Don Toliver,2025-11-13,540,50,41 to 50,1,20,0,1,0,3.127,81.0,62.0,83.26229508196721,0,7,False,550,1,4,False,highest risk,middle
+920,WHATCHU KNO ABOUT ME (feat. Sexyy Red) by GloRilla,GloRilla,2025-11-16,543,48,41 to 50,1,15,0,1,0,2.491,77.0,49.0,76.55102040816327,0,12,False,554,0,12,False,middle,lowest risk
+921,2 hands by Tate McRae,Tate McRae,2025-11-17,544,8,1 to 10,1,2,1,1,0,3.03,71.0,312.0,92.25641025641026,0,7,False,550,0,7,False,lowest risk,highest risk
+922,Qué Pasaría... by Rauw Alejandro,Rauw Alejandro,2025-11-17,544,14,11 to 20,2,18,0,1,0,3.184,72.0,0.0,,0,9,False,552,0,9,False,lowest risk,highest risk
+923,No One Noticed (Extended English) by The Marías,The Marías,2025-11-17,544,30,21 to 30,1,2,1,0,0,4.741,57.0,41.0,80.1219512195122,1,2,True,545,0,2,False,lowest risk,
+924,Tú Con Él by Rauw Alejandro,Rauw Alejandro,2025-11-17,544,44,41 to 50,2,18,0,0,0,4.819,69.0,0.0,,0,1,True,544,0,1,False,highest risk,
+925,Two Faced by Linkin Park,Linkin Park,2025-11-17,544,46,41 to 50,1,11,0,0,0,3.06,69.0,17.0,87.58823529411765,0,1,True,544,0,1,False,highest risk,
+926,squabble up by Kendrick Lamar,Kendrick Lamar,2025-11-24,551,1,1 to 10,12,12,0,1,0,2.633,34.0,327.0,90.7645259938838,1,4,False,554,0,4,False,middle,lowest risk
+927,wacced out murals by Kendrick Lamar,Kendrick Lamar,2025-11-24,551,2,1 to 10,12,12,0,1,0,5.285,35.0,327.0,90.7645259938838,1,4,False,554,0,4,False,middle,lowest risk
+928,luther (with sza) by Kendrick Lamar,Kendrick Lamar,2025-11-24,551,3,1 to 10,12,12,0,0,0,2.96,32.0,327.0,90.7645259938838,1,4,False,554,0,4,False,middle,lowest risk
+929,man at the garden by Kendrick Lamar,Kendrick Lamar,2025-11-24,551,4,1 to 10,12,12,0,1,0,3.886,31.0,327.0,90.7645259938838,1,4,False,554,0,4,False,middle,lowest risk
+930,hey now (feat. dody6) by Kendrick Lamar,Kendrick Lamar,2025-11-24,551,5,1 to 10,12,12,0,1,0,3.625,30.0,327.0,90.7645259938838,1,4,False,554,0,4,False,middle,lowest risk
+931,tv off (feat. lefty gunplay) by Kendrick Lamar,Kendrick Lamar,2025-11-24,551,6,1 to 10,12,12,0,1,0,3.678,30.0,327.0,90.7645259938838,1,4,False,554,0,4,False,middle,lowest risk
+932,reincarnated by Kendrick Lamar,Kendrick Lamar,2025-11-24,551,7,1 to 10,12,12,0,1,0,4.596,30.0,327.0,90.7645259938838,1,4,False,554,0,4,False,middle,lowest risk
+933,"dodger blue (feat. wallie the sensei, roddy ricch, siete7x) by Kendrick Lamar",Kendrick Lamar,2025-11-24,551,10,1 to 10,12,12,0,0,0,2.187,28.0,327.0,90.7645259938838,1,1,False,551,0,1,False,middle,
+934,peekaboo (feat. azchike) by Kendrick Lamar,Kendrick Lamar,2025-11-24,551,11,11 to 20,12,12,0,1,0,2.599,27.0,327.0,90.7645259938838,1,4,False,554,0,4,False,highest risk,lowest risk
+935,heart pt. 6 by Kendrick Lamar,Kendrick Lamar,2025-11-24,551,12,11 to 20,12,12,0,1,0,4.874,28.0,327.0,90.7645259938838,1,4,False,554,0,4,False,highest risk,lowest risk
+936,"gnx (feat. hitta j3, youngthreat, peysoh) by Kendrick Lamar",Kendrick Lamar,2025-11-24,551,15,11 to 20,12,12,0,1,0,3.226,27.0,327.0,90.7645259938838,1,4,False,554,0,4,False,highest risk,lowest risk
+937,gloria (feat. sza) by Kendrick Lamar,Kendrick Lamar,2025-11-24,551,17,11 to 20,12,12,0,0,0,4.792,26.0,327.0,90.7645259938838,1,1,False,551,0,1,False,highest risk,
+938,"dodger blue (feat. wallie the sensei, siete7x, roddy ricch)) by Kendrick Lamar",Kendrick Lamar,2025-11-25,552,8,1 to 10,2,12,0,1,0,2.187,77.0,340.0,88.60588235294118,1,1,False,552,0,1,False,lowest risk,
+939,gloria (with sza) by Kendrick Lamar,Kendrick Lamar,2025-11-25,552,12,11 to 20,2,12,0,1,0,4.792,76.0,340.0,88.60588235294118,1,3,False,554,0,3,False,lowest risk,lowest risk
+940,Defying Gravity by Wicked Movie Cast & Cynthia Erivo & Ariana Grande,Wicked Movie Cast,2025-11-25,552,46,41 to 50,1,12,0,0,1,7.663,70.0,309.0,88.85113268608414,0,3,False,554,0,3,False,highest risk,lowest risk
+941,"dodger blue (feat. wallie the sensei, siete7x, roddy ricch) by Kendrick Lamar",Kendrick Lamar,2025-11-26,553,8,1 to 10,1,12,0,1,0,2.187,80.0,353.0,88.1813031161473,1,2,False,554,0,2,False,lowest risk,
+942,Ma Meilleure Ennemie (from the series Arcane League of Legends) by Stromae & Pomme & Arcane,Stromae,2025-11-27,554,36,31 to 40,1,1,1,0,1,2.466,77.0,0.0,,0,1,False,554,0,1,False,lowest risk,
+943,Popular by Wicked Movie Cast & Cynthia Erivo & Ariana Grande,Wicked Movie Cast,2025-11-27,554,44,41 to 50,2,12,0,0,1,4.025,75.0,313.0,88.72204472843451,1,1,False,554,0,1,False,middle,
+944,What Is This Feeling? by Wicked Movie Cast & Cynthia Erivo & Ariana Grande,Wicked Movie Cast,2025-11-27,554,45,41 to 50,2,12,0,0,1,3.816,73.0,313.0,88.72204472843451,1,1,False,554,0,1,False,middle,
