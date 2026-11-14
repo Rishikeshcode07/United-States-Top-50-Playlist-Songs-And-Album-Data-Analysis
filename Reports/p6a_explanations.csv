@@ -1,0 +1,75 @@
+﻿kind,question,model,input,estimate,low,high,p_value,spread
+odds ratio per standard deviation,C1,logistic regression,Song length,1.2467337960347964,1.0985831277952745,1.4148634899342745,0.0007041944746189802,
+odds ratio per standard deviation,C1,logistic regression,Tracks on the release,0.7993153447679409,0.6686865071329569,0.955462707212151,0.01410924232824134,
+odds ratio per standard deviation,C1,logistic regression,Chart age at arrival,0.8389540150104153,0.6731722937897076,1.0455626973886867,0.11741932385107595,
+odds ratio per standard deviation,C1,logistic regression,Artist: Top-10 days before,1.2408123149886254,0.8679391085630871,1.773874671434423,0.235454330547919,
+odds ratio per standard deviation,C1,logistic regression,Artist: usual popularity,1.1740121510070154,0.8476925857252166,1.625948550125579,0.3327463367245401,
+odds ratio per standard deviation,C1,logistic regression,Explicit,2.0421848158181977,1.5076612716841473,2.7662173860178076,5.974008758152787e-06,
+odds ratio per standard deviation,C1,logistic regression,Collaboration,0.4315068953831469,0.22479579440580513,0.8282993071795374,0.011762019409557569,
+odds ratio per standard deviation,C1,logistic regression,Artist on chart day before,1.4462182042621783,0.8641572210318441,2.4203316751110573,0.15938267181968255,
+odds ratio per standard deviation,C1,logistic regression,Artist has no earlier record,0.2790972579173899,0.12928537684634656,0.6025064959170381,0.0012514524352119194,
+odds ratio per standard deviation,C2,logistic regression,Song length,1.0215898874358185,0.7750960726932931,1.346472953326524,0.8789468541257421,
+odds ratio per standard deviation,C2,logistic regression,Tracks on the release,0.8823207115518531,0.6217080050310836,1.252179209103872,0.4816011015609263,
+odds ratio per standard deviation,C2,logistic regression,Chart age at arrival,1.1642720666066941,0.856562038966523,1.5825233706552346,0.32975688294744887,
+odds ratio per standard deviation,C2,logistic regression,Artist: Top-10 days before,0.3497090523184529,0.1991719064579851,0.6140244547956296,0.00029705510379947445,
+odds ratio per standard deviation,C2,logistic regression,Artist: usual popularity,1.4616876082214132,0.8682446122367361,2.460747390673687,0.15231760042503217,
+odds ratio per standard deviation,C2,logistic regression,Debut place,0.5933094706033981,0.40506140964308013,0.8690438524318168,0.007579514135200266,
+odds ratio per standard deviation,C2,logistic regression,Debut popularity,1.1564145524542953,0.912502292868854,1.4655246650654339,0.22789488947168005,
+odds ratio per standard deviation,C2,logistic regression,Explicit,0.7647869240827672,0.4122192355898447,1.4189028282754634,0.39335455910044936,
+odds ratio per standard deviation,C2,logistic regression,Collaboration,1.2166951583016354,0.40074967982883125,3.6939445812331773,0.7280736885572321,
+odds ratio per standard deviation,C2,logistic regression,Artist on chart day before,4.391281620201909,1.3913687949127473,13.85926890011383,0.011878416493613231,
+odds ratio per standard deviation,C2,logistic regression,Artist has no earlier record,3.0431356241989436,0.9963858830810384,9.294264987609727,0.05074079205545649,
+change in chart days per standard deviation,R2,regression: release details,Song length,-0.25198307875288783,-1.0801122074113354,0.5761460499055597,0.5493316345593977,
+change in chart days per standard deviation,R2,regression: release details,Tracks on the release,-2.5820508098805903,-3.4371644299344433,-1.7269371898267374,1.046239082167545e-08,
+change in chart days per standard deviation,R2,regression: release details,Chart age at arrival,1.1919288437106248,0.08915038237471107,2.2947073050465385,0.03427202397681973,
+change in chart days per standard deviation,R2,regression: release details,Explicit,0.4537307721506103,-1.3505250852296473,2.257986629530868,0.6206546523081452,
+change in chart days per standard deviation,R2,regression: release details,Collaboration,-1.6223789474631527,-4.569950032271886,1.3251921373455806,0.27921061039760403,
+change in chart days per standard deviation,R2,regression: + artist's record,Song length,-0.29621941817733205,-1.1064981831960758,0.5140593468414119,0.471985702904654,
+change in chart days per standard deviation,R2,regression: + artist's record,Tracks on the release,-2.6243461209353116,-3.4391727457004286,-1.8095194961701946,1.2419051878861782e-09,
+change in chart days per standard deviation,R2,regression: + artist's record,Chart age at arrival,1.3340923070673498,0.3082780750224354,2.3599065391122642,0.011043301587595531,
+change in chart days per standard deviation,R2,regression: + artist's record,Artist: Top-10 days before,0.14015929098719493,-1.4737304237058706,1.7540490056802605,0.8642558377200608,
+change in chart days per standard deviation,R2,regression: + artist's record,Artist: usual popularity,1.2328781385274832,0.3153356551807982,2.150420621874168,0.008681261188525705,
+change in chart days per standard deviation,R2,regression: + artist's record,Explicit,1.0358925614985557,-0.9650003718571054,3.036785494854217,0.30869227774284647,
+change in chart days per standard deviation,R2,regression: + artist's record,Collaboration,-1.643214114386733,-4.689633815006189,1.403205586232724,0.2889239881980024,
+change in chart days per standard deviation,R2,regression: + artist's record,Artist on chart day before,1.8376480661915906,-0.8400409136830129,4.515337046066194,0.1775906837035647,
+change in chart days per standard deviation,R2,regression: + artist's record,Artist has no earlier record,2.2817910406225934,-1.0275373083291326,5.591119389574319,0.1755729075538121,
+change in chart days per standard deviation,R2,regression: + debut-day chart,Song length,-0.810343874495568,-1.6312685867306733,0.010580837739537441,0.053000280181261156,
+change in chart days per standard deviation,R2,regression: + debut-day chart,Tracks on the release,-2.5397521294909424,-3.317938482856191,-1.761565776125694,7.790177110659021e-10,
+change in chart days per standard deviation,R2,regression: + debut-day chart,Chart age at arrival,1.8131159762344384,0.6483612079363585,2.9778707445325185,0.002427269043528885,
+change in chart days per standard deviation,R2,regression: + debut-day chart,Artist: Top-10 days before,-0.5716606668561575,-2.0882982146996905,0.9449768809873755,0.4583581082143704,
+change in chart days per standard deviation,R2,regression: + debut-day chart,Artist: usual popularity,1.1238137891509663,0.18160132303131749,2.0660262552706152,0.01962571061111182,
+change in chart days per standard deviation,R2,regression: + debut-day chart,Debut place,-3.0482232887500444,-4.11968978157077,-1.976756795929319,6.168389500938433e-08,
+change in chart days per standard deviation,R2,regression: + debut-day chart,Debut popularity,1.7142542244259749,0.9747461692538288,2.453762279598121,8.195510564669453e-06,
+change in chart days per standard deviation,R2,regression: + debut-day chart,Explicit,0.060833287881031595,-2.187457505408222,2.3091240811702853,0.9575203313980482,
+change in chart days per standard deviation,R2,regression: + debut-day chart,Collaboration,-1.1292915347682353,-4.010162217941277,1.7515791484048067,0.44061068806952264,
+change in chart days per standard deviation,R2,regression: + debut-day chart,Artist on chart day before,1.7343608957897239,-0.9593023113048487,4.428024102884296,0.20579923441683132,
+change in chart days per standard deviation,R2,regression: + debut-day chart,Artist has no earlier record,3.062927992209538,-0.2413254513330778,6.367181435752153,0.06907379954266855,
+fall in AUC when the block is scrambled,C1,gradient boosting,Release details,0.005909927784927797,,,,0.014122654825085028
+fall in AUC when the block is scrambled,C1,gradient boosting,Timing,0.0029013388388388515,,,,0.010864802365363848
+fall in AUC when the block is scrambled,C1,gradient boosting,Artist's record,0.12857634420134423,,,,0.02622912448356038
+fall in AUC when the block is scrambled,C2,gradient boosting,Release details,-0.02444196428571425,,,,0.022258109323952353
+fall in AUC when the block is scrambled,C2,gradient boosting,Timing,0.05287078373015876,,,,0.01115081601914802
+fall in AUC when the block is scrambled,C2,gradient boosting,Artist's record,0.07782634755291011,,,,0.03215638196865539
+fall in AUC when the block is scrambled,C2,gradient boosting,Debut-day chart,0.0821325231481482,,,,0.029323657252152364
+fall in balanced accuracy when the block is scrambled,C3,gradient boosting,Release details,0.016585383574458004,,,,0.013762789736576563
+fall in balanced accuracy when the block is scrambled,C3,gradient boosting,Timing,0.017347961262627627,,,,0.0060909372516833385
+fall in balanced accuracy when the block is scrambled,C3,gradient boosting,Artist's record,0.021697590569344893,,,,0.014562265586666616
+fall in balanced accuracy when the block is scrambled,C3,gradient boosting,Debut-day chart,0.1331492732958553,,,,0.018216090043095084
+fall in R-squared when the block is scrambled,R1,gradient boosting,Release details,0.08271835464978063,,,,0.015902749463596575
+fall in R-squared when the block is scrambled,R1,gradient boosting,Timing,0.06394175332864332,,,,0.015566445008467083
+fall in R-squared when the block is scrambled,R1,gradient boosting,Artist's record,0.04514970686174447,,,,0.02378100965788052
+fall in R-squared when the block is scrambled,R1,gradient boosting,Debut-day chart,0.1065083099204205,,,,0.020680985328013192
+fall in R-squared when the block is scrambled,R2,gradient boosting,Release details,0.09856620649006595,,,,0.017977324054678903
+fall in R-squared when the block is scrambled,R2,gradient boosting,Timing,0.03381303808274439,,,,0.007507286507774594
+fall in R-squared when the block is scrambled,R2,gradient boosting,Artist's record,0.0458597799330966,,,,0.010472845397305513
+fall in R-squared when the block is scrambled,R2,gradient boosting,Debut-day chart,0.3302705987036628,,,,0.019838751095039
+fall in AUC when the block is scrambled,E1,gradient boosting,Release details,0.01189352216102808,,,,0.014883016505312312
+fall in AUC when the block is scrambled,E1,gradient boosting,Timing,0.020285864148964095,,,,0.01360881930196698
+fall in AUC when the block is scrambled,E1,gradient boosting,Artist's record,0.08851953842119066,,,,0.028839893729276284
+fall in AUC when the block is scrambled,E1,gradient boosting,Debut-day chart,0.020528455284552865,,,,0.014435717800673788
+fall in AUC when the block is scrambled,E1,gradient boosting,First three days,0.12529832153160242,,,,0.023921090046807966
+fall in AUC when the block is scrambled,E2,gradient boosting,Release details,0.02174053308414541,,,,0.006221054017320033
+fall in AUC when the block is scrambled,E2,gradient boosting,Timing,0.0017910381346504763,,,,0.0042848079162967866
+fall in AUC when the block is scrambled,E2,gradient boosting,Artist's record,0.04858051884483602,,,,0.01922635721338552
+fall in AUC when the block is scrambled,E2,gradient boosting,Debut-day chart,0.013671961909847364,,,,0.008730588168125147
+fall in AUC when the block is scrambled,E2,gradient boosting,First three days,0.1791928091487563,,,,0.039640579877013346

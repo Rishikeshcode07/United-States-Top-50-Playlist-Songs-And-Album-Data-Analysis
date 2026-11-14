@@ -1,0 +1,64 @@
+﻿question,model,check,score,low,high
+C1,Logistic regression,as in the notebook,0.6812057593307593,0.6434561151141556,0.7278217321536964
+C1,Logistic regression,other artist split 1,0.6812124624624625,,
+C1,Logistic regression,other artist split 2,0.6846243564993565,,
+C1,Logistic regression,other artist split 3,0.6850734663234663,,
+C1,Logistic regression,other artist split 4,0.6847919347919348,,
+C1,Logistic regression,without Taylor Swift,0.6925446864962994,0.6487865730277111,0.7388016394984633
+C1,Logistic regression,setting: strong penalty (C = 0.05),0.6886462355212355,,
+C1,Logistic regression,setting: weak penalty (C = 5),0.6772509116259117,,
+C1,Logistic regression,forward in time (songs from day 250 on),0.6592385392385393,0.5724014000986557,0.7409639281948375
+C1,Logistic regression,"the same later songs, notebook forecasts",0.6971872571872572,0.6354829198455354,0.7578913879045787
+C1,Gradient boosting,as in the notebook,0.6504685489060489,0.6002485435509841,0.7015637384547823
+C1,Gradient boosting,other artist split 1,0.6513433075933076,,
+C1,Gradient boosting,other artist split 2,0.6588575182325183,,
+C1,Gradient boosting,other artist split 3,0.659584808022308,,
+C1,Gradient boosting,other artist split 4,0.6596417846417847,,
+C1,Gradient boosting,without Taylor Swift,0.6802864474235442,0.6271999909189164,0.7307287416592291
+C1,Gradient boosting,setting: shallower trees (depth 2),0.6679737773487774,,
+C1,Gradient boosting,setting: deeper trees (depth 4),0.6385805448305448,,
+C1,Gradient boosting,"setting: faster learning (rate 0.1, 75 rounds)",0.6496206027456027,,
+C1,Gradient boosting,forward in time (songs from day 250 on),0.635042735042735,0.5608565295862151,0.7187076411031817
+C1,Gradient boosting,"the same later songs, notebook forecasts",0.6628438228438228,0.6058037988947531,0.7180829780925528
+C2,Logistic regression,as in the notebook,0.6860119047619048,0.6041756778933309,0.7650377853796265
+C2,Logistic regression,other artist split 1,0.6640625,,
+C2,Logistic regression,other artist split 2,0.6631944444444444,,
+C2,Logistic regression,other artist split 3,0.6725880456349206,,
+C2,Logistic regression,other artist split 4,0.6902901785714286,,
+C2,Logistic regression,without Taylor Swift,0.6942315879097488,0.6072460154353392,0.7705704532415376
+C2,Logistic regression,setting: strong penalty (C = 0.05),0.6771453373015873,,
+C2,Logistic regression,setting: weak penalty (C = 5),0.6759982638888888,,
+C2,Logistic regression,forward in time (songs from day 250 on),0.7983018867924528,0.6462386823525936,0.8965565617864468
+C2,Logistic regression,"the same later songs, notebook forecasts",0.7569811320754717,0.5882786996470833,0.867829568799138
+C2,Gradient boosting,as in the notebook,0.7105964781746031,0.6349379764684406,0.7792301827949382
+C2,Gradient boosting,other artist split 1,0.7043650793650794,,
+C2,Gradient boosting,other artist split 2,0.7016989087301587,,
+C2,Gradient boosting,other artist split 3,0.7165798611111112,,
+C2,Gradient boosting,other artist split 4,0.718687996031746,,
+C2,Gradient boosting,without Taylor Swift,0.7209450830140486,0.6448074243377242,0.7938014332456221
+C2,Gradient boosting,setting: shallower trees (depth 2),0.7069382440476191,,
+C2,Gradient boosting,setting: deeper trees (depth 4),0.7287636408730159,,
+C2,Gradient boosting,"setting: faster learning (rate 0.1, 75 rounds)",0.7025049603174603,,
+C2,Gradient boosting,forward in time (songs from day 250 on),0.7167924528301887,0.5859321136680137,0.8125844887048297
+C2,Gradient boosting,"the same later songs, notebook forecasts",0.770377358490566,0.6308691214826685,0.8538846784558791
+E2,Logistic regression,as in the notebook,0.7790348418101722,0.7178347066131417,0.833292772004325
+E2,Logistic regression,other artist split 1,0.7799692964891203,,
+E2,Logistic regression,other artist split 2,0.776364971298892,,
+E2,Logistic regression,other artist split 3,0.7808703777866773,,
+E2,Logistic regression,other artist split 4,0.776698705112802,,
+E2,Logistic regression,without Taylor Swift,0.7920476108331895,0.7219999315825194,0.8535360876203899
+E2,Logistic regression,setting: strong penalty (C = 0.05),0.7822720598050995,,
+E2,Logistic regression,setting: weak penalty (C = 5),0.7823721799492724,,
+E2,Logistic regression,forward in time (songs from day 250 on),0.7093004382405453,0.6212099299926308,0.8199728018548242
+E2,Logistic regression,"the same later songs, notebook forecasts",0.7771465671157279,0.6854540336928723,0.8645257108496491
+E2,Gradient boosting,as in the notebook,0.8205513282605794,0.7604770208912693,0.872493642440045
+E2,Gradient boosting,other artist split 1,0.8122747296756108,,
+E2,Gradient boosting,other artist split 2,0.8204512081164064,,
+E2,Gradient boosting,other artist split 3,0.8243558937391536,,
+E2,Gradient boosting,other artist split 4,0.8270925110132159,,
+E2,Gradient boosting,without Taylor Swift,0.8309470415732275,0.7560626675748103,0.887766751282386
+E2,Gradient boosting,setting: shallower trees (depth 2),0.8157288746495795,,
+E2,Gradient boosting,setting: deeper trees (depth 4),0.8239554131624616,,
+E2,Gradient boosting,"setting: faster learning (rate 0.1, 75 rounds)",0.8207849419303164,,
+E2,Gradient boosting,forward in time (songs from day 250 on),0.7276416166206785,0.6272707847707848,0.8441247385559866
+E2,Gradient boosting,"the same later songs, notebook forecasts",0.8039279337769842,0.7054393388869196,0.8822644490467417
