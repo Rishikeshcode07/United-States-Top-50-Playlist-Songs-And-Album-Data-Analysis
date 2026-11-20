@@ -1,0 +1,84 @@
+2026-10-18 07:51:58 | INFO    | atlantic.etl.run_pipeline | ====================================================================================================
+2026-10-18 07:51:58 | INFO    | atlantic.etl.run_pipeline | Atlantic Top 50 pipeline 1.0.0 | run ed00c80e-0748-4c90-8d52-558bbfeccbdf
+2026-10-18 07:51:58 | INFO    | atlantic.etl.run_pipeline | [1/9] Extract: read the raw CSV
+2026-10-18 07:51:58 | INFO    | atlantic.etl.extract | Read 27,800 rows x 10 columns from Atlantic_United_States.csv
+2026-10-18 07:51:58 | INFO    | atlantic.etl.run_pipeline | [2/9] Validate: data-quality scorecard
+2026-10-18 07:51:58 | DEBUG   | atlantic.etl.validate | [PASS] No expected column is missing: 0 of 10 columns (0.00%)
+2026-10-18 07:51:58 | DEBUG   | atlantic.etl.validate | [PASS] No unexpected extra column: 0 of 10 columns (0.00%)
+2026-10-18 07:51:58 | DEBUG   | atlantic.etl.validate | [PASS] Dates parse with DD-MM-YYYY: 0 of 27,800 rows (0.00%)
+2026-10-18 07:51:58 | DEBUG   | atlantic.etl.validate | [PASS] position is numeric: 0 of 27,800 rows (0.00%)
+2026-10-18 07:51:58 | DEBUG   | atlantic.etl.validate | [PASS] popularity is numeric: 0 of 27,800 rows (0.00%)
+2026-10-18 07:51:58 | DEBUG   | atlantic.etl.validate | [PASS] duration_ms is numeric: 0 of 27,800 rows (0.00%)
+2026-10-18 07:51:58 | DEBUG   | atlantic.etl.validate | [PASS] total_tracks is numeric: 0 of 27,800 rows (0.00%)
+2026-10-18 07:51:58 | DEBUG   | atlantic.etl.validate | [PASS] No missing values (NaN) in any column: 0 of 27,800 rows (0.00%)
+2026-10-18 07:51:58 | DEBUG   | atlantic.etl.validate | [PASS] No blank or placeholder text: 0 of 27,800 rows (0.00%)
+2026-10-18 07:51:58 | WARNING | atlantic.etl.validate | [WARN] No missing calendar days: 4 of 559 days (0.72%)
+2026-10-18 07:51:58 | WARNING | atlantic.etl.validate | [WARN] Exactly 50 rows per date: 1 of 555 days (0.18%)
+2026-10-18 07:51:58 | DEBUG   | atlantic.etl.validate | Missing days: ['2025-03-14', '2025-03-25', '2025-07-11', '2025-08-13'] | days with an unusual row count: {'2025-03-01': 100}
+2026-10-18 07:51:58 | DEBUG   | atlantic.etl.validate | [PASS] Rank inside 1-50: 0 of 27,800 rows (0.00%)
+2026-10-18 07:51:58 | DEBUG   | atlantic.etl.validate | [PASS] Rank is a whole number: 0 of 27,800 rows (0.00%)
+2026-10-18 07:51:58 | DEBUG   | atlantic.etl.validate | [PASS] Every date has all ranks 1-50: 0 of 555 days (0.00%)
+2026-10-18 07:51:58 | WARNING | atlantic.etl.validate | [WARN] No rank repeated within a date: 50 of 27,800 rows (0.18%)
+2026-10-18 07:51:58 | WARNING | atlantic.etl.validate | [WARN] No identical rows: 10 of 27,800 rows (0.04%)
+2026-10-18 07:51:58 | WARNING | atlantic.etl.validate | [WARN] No song repeated within a date: 48 of 27,800 rows (0.17%)
+2026-10-18 07:51:58 | DEBUG   | atlantic.etl.validate | [PASS] Popularity inside 0-100: 0 of 27,800 rows (0.00%)
+2026-10-18 07:51:58 | DEBUG   | atlantic.etl.validate | [PASS] Duration between 30 s and 20 min: 0 of 27,800 rows (0.00%)
+2026-10-18 07:51:58 | DEBUG   | atlantic.etl.validate | [PASS] total_tracks is a whole number >= 1: 0 of 27,800 rows (0.00%)
+2026-10-18 07:51:58 | WARNING | atlantic.etl.validate | [WARN] album_type is Single or Album: 42 of 27,800 rows (0.15%)
+2026-10-18 07:51:58 | DEBUG   | atlantic.etl.validate | [PASS] is_explicit is True/False: 0 of 27,800 rows (0.00%)
+2026-10-18 07:51:58 | DEBUG   | atlantic.etl.validate | [PASS] album_cover_url looks like a link: 0 of 27,800 rows (0.00%)
+2026-10-18 07:51:58 | WARNING | atlantic.etl.validate | [WARN] No disguised-missing popularity (0): 189 of 27,800 rows (0.68%)
+2026-10-18 07:51:58 | INFO    | atlantic.etl.run_pipeline | [3/9] Standardize: artists, titles and song identity
+2026-10-18 07:51:58 | DEBUG   | atlantic.etl.standardize | Artist names written in more than one way: 1
+2026-10-18 07:51:59 | DEBUG   | atlantic.etl.validate | [INFO] Titles with several artist credits: 34 of 938 titles (3.62%)
+2026-10-18 07:52:00 | WARNING | atlantic.etl.validate | [WARN] A song keeps one artist credit over time: 29 of 973 title+credit pairs (2.98%)
+2026-10-18 07:52:00 | INFO    | atlantic.etl.standardize | Tracks by strict key (title + credit): 973 | after resolution (track_id): 944
+2026-10-18 07:52:00 | DEBUG   | atlantic.etl.validate | [INFO] duration_ms is stable per track: 17 of 944 tracks (1.80%)
+2026-10-18 07:52:00 | DEBUG   | atlantic.etl.validate | [INFO] album_type is stable per track: 51 of 944 tracks (5.40%)
+2026-10-18 07:52:00 | DEBUG   | atlantic.etl.validate | [INFO] total_tracks is stable per track: 61 of 944 tracks (6.46%)
+2026-10-18 07:52:00 | DEBUG   | atlantic.etl.validate | [INFO] is_explicit is stable per track: 12 of 944 tracks (1.27%)
+2026-10-18 07:52:00 | DEBUG   | atlantic.etl.validate | [INFO] album_cover_url is stable per track: 183 of 944 tracks (19.39%)
+2026-10-18 07:52:00 | INFO    | atlantic.etl.standardize | Standardized: 27,800 rows, 944 songs, 283 individual artists
+2026-10-18 07:52:00 | INFO    | atlantic.etl.run_pipeline | Scorecard: {'PASS': 17, 'WARN': 8, 'INFO': 6, 'FAIL': 0}
+2026-10-18 07:52:00 | INFO    | atlantic.etl.run_pipeline | [4/9] Clean: repairs and chart runs
+2026-10-18 07:52:00 | INFO    | atlantic.etl.clean | [Step 1.6] Calendar kept exactly as provided; evidence suggests it is one year ahead of real-world dates: rows 27,800 -> 27,800 | rows affected: 0
+2026-10-18 07:52:00 | INFO    | atlantic.etl.clean | [Step 2.1] Keep the latest block of a double-snapshot date (2025-03-01): rows 27,800 -> 27,750 | rows affected: 50
+2026-10-18 07:52:00 | INFO    | atlantic.etl.clean | [Step 2.2] Added snapshot_index and days_since_prev_snapshot (time counted in snapshots, no invented rows): rows 27,750 -> 27,750 | rows affected: 0
+2026-10-18 07:52:00 | INFO    | atlantic.etl.clean | [Step 2.3] Added chart-run columns (stint_no, stint_key, days_in_stint, stint_length, is_stint_start, is_stint_end): rows 27,750 -> 27,750 | rows affected: 0
+2026-10-18 07:52:00 | DEBUG   | atlantic.etl.clean | Songs with more than one title spelling before: 2
+2026-10-18 07:52:00 | INFO    | atlantic.etl.clean | [Step 2.4] One title, one fullest artist credit and one label per song: rows 27,750 -> 27,750 | rows affected: 1,137
+2026-10-18 07:52:00 | INFO    | atlantic.etl.clean | Popularity values by method: {'original': 27561, 'interpolated_in_run': 168, 'unfilled': 18, 'song_median': 3}
+2026-10-18 07:52:00 | INFO    | atlantic.etl.clean | [Step 2.5] Popularity zeros treated as missing and repaired (run interpolation -> song median -> unfilled): rows 27,750 -> 27,750 | rows affected: 189
+2026-10-18 07:52:00 | INFO    | atlantic.etl.clean | [Step 2.6] Added release_format (Single/Album) and release_size_band: rows 27,750 -> 27,750 | rows affected: 27,750
+2026-10-18 07:52:00 | INFO    | atlantic.etl.run_pipeline | [5/9] Features: KPIs and the seven tables
+2026-10-18 07:52:03 | INFO    | atlantic.features.build_features | Artists: 283 | top-10 artists hold 41.1% of all chart points | HHI = 254
+2026-10-18 07:52:03 | INFO    | atlantic.features.build_features | High-turnover days (more than 13 entries): 22 of 555
+2026-10-18 07:52:03 | INFO    | atlantic.etl.clean | [Step 3.x] Added daily features (calendar, rank tiers, movement, chart life, rolling trend): rows 27,750 -> 27,750 | rows affected: 27,750
+2026-10-18 07:52:04 | INFO    | atlantic.features.build_features | playlist_daily          27,750 rows x 54 columns
+2026-10-18 07:52:04 | INFO    | atlantic.features.build_features | fact_chart_daily        27,750 rows x 21 columns
+2026-10-18 07:52:04 | INFO    | atlantic.features.build_features | dim_track                  944 rows x 47 columns
+2026-10-18 07:52:04 | INFO    | atlantic.features.build_features | dim_artist                 283 rows x 17 columns
+2026-10-18 07:52:04 | INFO    | atlantic.features.build_features | bridge_track_artist      1,105 rows x  4 columns
+2026-10-18 07:52:04 | INFO    | atlantic.features.build_features | dim_date                   559 rows x 15 columns
+2026-10-18 07:52:04 | INFO    | atlantic.features.build_features | daily_summary              555 rows x 15 columns
+2026-10-18 07:52:04 | INFO    | atlantic.etl.run_pipeline | [6/9] Quality gate: 25 automatic tests
+2026-10-18 07:52:04 | INFO    | atlantic.etl.quality | Quality gate: 25 of 25 tests passed
+2026-10-18 07:52:04 | INFO    | atlantic.etl.run_pipeline | [7/9] Document: data dictionary and KPI dictionary
+2026-10-18 07:52:04 | INFO    | atlantic.etl.run_pipeline | [8/9] Save: files and reports
+2026-10-18 07:52:05 | INFO    | atlantic.etl.run_pipeline | Saved 24 files in data/interim, data/processed and reports
+2026-10-18 07:52:05 | INFO    | atlantic.etl.run_pipeline | [9/9] Load: sqlite database
+2026-10-18 07:52:05 | DEBUG   | atlantic.etl.load | Inserted 559 rows into dim_date
+2026-10-18 07:52:05 | DEBUG   | atlantic.etl.load | Inserted 944 rows into dim_track
+2026-10-18 07:52:05 | DEBUG   | atlantic.etl.load | Inserted 283 rows into dim_artist
+2026-10-18 07:52:05 | DEBUG   | atlantic.etl.load | Inserted 1,105 rows into bridge_track_artist
+2026-10-18 07:52:06 | DEBUG   | atlantic.etl.load | Inserted 27,750 rows into fact_chart_daily
+2026-10-18 07:52:06 | DEBUG   | atlantic.etl.load | Inserted 555 rows into daily_summary
+2026-10-18 07:52:06 | INFO    | atlantic.etl.load | Loaded 31,196 rows into 6 tables and 8 views in 1.1 s -> sqlite:///D:\INTERNSHIP PROJECTS\UNIFIED MENTOR WORK\PROJECT_2\United States Top 50 Playlist Performance and Song Popularity Trend Analysis Project\atlantic-top50-analytics\data\warehouse\atlantic_top50.db
+2026-10-18 07:52:06 | INFO    | atlantic.etl.run_pipeline | ====================================================================================================
+2026-10-18 07:52:06 | INFO    | atlantic.etl.run_pipeline | PIPELINE FINISHED: SUCCESS in 8.1 s
+2026-10-18 07:52:06 | INFO    | atlantic.etl.run_pipeline | Source     : Atlantic_United_States.csv (27,800 rows, sha256 4b7b5871c98c...)
+2026-10-18 07:52:06 | INFO    | atlantic.etl.run_pipeline | Validation : {'PASS': 17, 'WARN': 8, 'INFO': 6, 'FAIL': 0}
+2026-10-18 07:52:06 | INFO    | atlantic.etl.run_pipeline | Gate       : 25 of 25 tests passed
+2026-10-18 07:52:06 | INFO    | atlantic.etl.run_pipeline | Tables     : playlist_daily 27,750 | fact_chart_daily 27,750 | dim_track 944 | dim_artist 283 | bridge_track_artist 1,105 | dim_date 559 | daily_summary 555
+2026-10-18 07:52:06 | INFO    | atlantic.etl.run_pipeline | Database   : sqlite:///D:\INTERNSHIP PROJECTS\UNIFIED MENTOR WORK\PROJECT_2\United States Top 50 Playlist Performance and Song Popularity Trend Analysis Project\atlantic-top50-analytics\data\warehouse\atlantic_top50.db (31,196 rows, 8 views)
+2026-10-18 07:52:06 | INFO    | atlantic.etl.run_pipeline | ====================================================================================================
