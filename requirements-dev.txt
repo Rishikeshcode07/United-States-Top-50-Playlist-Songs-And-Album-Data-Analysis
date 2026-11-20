@@ -1,0 +1,7 @@
+# =====================================================================
+# Extra packages for running the automatic tests.
+# Install with:   pip install -r requirements-dev.txt
+# (it also installs everything in requirements.txt)
+# =====================================================================
+-r requirements.txt
+pytest>=8.0
