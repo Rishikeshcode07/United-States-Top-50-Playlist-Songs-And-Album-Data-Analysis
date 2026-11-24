@@ -4,7 +4,7 @@
 
 ### Atlantic Recording Corporation case study
 
-An end-to-end analytics project: checked data, a tested pipeline with a SQL database, exploratory analysis, statistical evidence, supporting models, an 18-page Streamlit dashboard, a research paper and an executive summary.
+An end-to-end analytics project: checked data, a tested pipeline with a SQL database, exploratory analysis, statistical evidence, supporting models, an 18-page Streamlit dashboard, a research paper, and an executive summary.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
@@ -578,4 +578,4 @@ Every number in both documents is read from the results files that the notebooks
 
 [GitHub](https://github.com/Rishikeshcode07) | [LinkedIn](https://www.linkedin.com/in/rishi-ojha07) | [Portfolio](https://my-portfolio-coral-chi-47.vercel.app)
 
-The dataset `Atlantic_United_States.csv` and the project brief come from the Atlantic Recording Corporation case. The popularity score is the one supplied in that file.
+The dataset `Atlantic_United_States.csv` and the project brief come from the Atlantic Recording Corporation case. The popularity score is the one supplied in that file. 
