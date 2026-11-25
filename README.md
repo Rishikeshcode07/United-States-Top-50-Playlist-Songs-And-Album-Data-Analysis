@@ -2,6 +2,8 @@
 
 # United States Top 50 Playlist Performance and Song Popularity Trend Analysis
 
+## Dashboard Link : https://united-states-top-50-playlist-songs-and-album-data-analysis-ll.streamlit.app/
+
 ### Atlantic Recording Corporation case study
 
 An end-to-end analytics project: checked data, a tested pipeline with a SQL database, exploratory analysis, statistical evidence, supporting models, an 18-page Streamlit dashboard, a research paper, and an executive summary.
